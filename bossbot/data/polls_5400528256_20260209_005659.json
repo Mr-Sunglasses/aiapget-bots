@@ -1,0 +1,779 @@
+{
+  "file_name": "No. 47 Date : 17 September 2024  Topic : PV SAMHITA संघर्ष 2025",
+  "data": [
+    "Topic : PV SAMHITA संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "सुश्रुत ने कर्मपुरुष किसे माना हैं?",
+      "options": [
+        {
+          "text": "एक धात्वात्मक पुरुष",
+          "voter_count": 0
+        },
+        {
+          "text": "षड्धात्वात्मक पुरुष",
+          "voter_count": 0
+        },
+        {
+          "text": "चतुर्विंशती तत्वात्मक पुरुष",
+          "voter_count": 1
+        },
+        {
+          "text": "पंचविंशती तत्वात्मक पुरुष",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.sha 1",
+      "explanation_entities": null
+    },
+    {
+      "question": "स्वभावोपरमवाद का वर्णन कहाँ मिलता हैं?",
+      "options": [
+        {
+          "text": "Ch.su 14",
+          "voter_count": 1
+        },
+        {
+          "text": "Ch. su 1",
+          "voter_count": 0
+        },
+        {
+          "text": "Ch.su 16",
+          "voter_count": 0
+        },
+        {
+          "text": "Ch. su 17",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ch.su. 16/27",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "Match the following",
+      "options": [
+        {
+          "text": "(A) 1-c, 2-d, 3-a, 4-b",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-b, 2-a, 3-d, 4-c",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-d, 2-c, 3-b, 4-a",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) 1-c, 2-a, 3-b, 4-d",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans c",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार दुःख के हेतु?",
+      "options": [
+        {
+          "text": "धी, धृति, स्मृति विभ्रांश",
+          "voter_count": 1
+        },
+        {
+          "text": "सम्प्राप्ति काल कर्मणा",
+          "voter_count": 0
+        },
+        {
+          "text": "असात्म्य अर्थ संयोग",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ch.sha. 1",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार \"वैकारिणां च स्वप्ना नामदर्शनं\" किसका लक्षण हैं?",
+      "options": [
+        {
+          "text": "करण",
+          "voter_count": 0
+        },
+        {
+          "text": "कार्यफल",
+          "voter_count": 0
+        },
+        {
+          "text": "कार्ययोनि",
+          "voter_count": 0
+        },
+        {
+          "text": "कार्य",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ch.vi. 8/89",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "आचार्य चरक अनुसार शास्त्रज्ञान के कितने उपाय हैं?",
+      "options": [
+        {
+          "text": "2",
+          "voter_count": 1
+        },
+        {
+          "text": "4",
+          "voter_count": 0
+        },
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ch.vi. 8",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-d, 2-c, 3-b, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-c, 2-d, 3-a, 4-b",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) 1-c, 2-d, 3-b, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-b, 2-c, 3-d, 4-a",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nRef-ch.vi. 4",
+      "explanation_entities": [
+        {
+          "length": 9,
+          "offset": 6,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "आचार्य सुश्रुत अनुसार सृष्टि उत्पत्ति का सही क्रम_",
+      "options": [
+        {
+          "text": "अव्यक्त- महान- अहंकार",
+          "voter_count": 1
+        },
+        {
+          "text": "महान- अव्यक्त- अहंकार",
+          "voter_count": 0
+        },
+        {
+          "text": "महान- अहंकार- अव्यक्त",
+          "voter_count": 0
+        },
+        {
+          "text": "अव्यक्त- अहंकार- महान",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 1",
+      "explanation_entities": null
+    },
+    {
+      "question": "____ हि नाम स्वयंभूः अनादिमध्यनिधनः॥",
+      "options": [
+        {
+          "text": "काल",
+          "voter_count": 0
+        },
+        {
+          "text": "दिशा",
+          "voter_count": 0
+        },
+        {
+          "text": "आत्मा",
+          "voter_count": 0
+        },
+        {
+          "text": "मन",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "सु.सू. 6",
+      "explanation_entities": null
+    },
+    {
+      "question": "दोषयुक्तवाक्यं_",
+      "options": [
+        {
+          "text": "अननुयोज्य",
+          "voter_count": 0
+        },
+        {
+          "text": "अनुयोग",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रत्यनुयोग",
+          "voter_count": 1
+        },
+        {
+          "text": "अनुयोज्य",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ch.vi. 8",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "इदमेव कर्तव्यमिति______",
+      "options": [
+        {
+          "text": "निर्वचन",
+          "voter_count": 0
+        },
+        {
+          "text": "नियोग",
+          "voter_count": 0
+        },
+        {
+          "text": "विकल्प",
+          "voter_count": 0
+        },
+        {
+          "text": "समुच्चय",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.ut. 65/37",
+      "explanation_entities": null
+    },
+    {
+      "question": "@ AME  व्यापक इन्द्रिय है ।",
+      "options": [
+        {
+          "text": "चछू इन्द्रिय",
+          "voter_count": 0
+        },
+        {
+          "text": "स्पर्श इन्द्रिय",
+          "voter_count": 0
+        },
+        {
+          "text": "स्रोत इन्द्रिय",
+          "voter_count": 0
+        },
+        {
+          "text": "जिव्हा इन्द्रिय",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "चरक सूत्र 13/38",
+      "explanation_entities": null
+    },
+    {
+      "question": "आचार्य चरक अनुसार कारण द्रव्य की संख्या_",
+      "options": [
+        {
+          "text": "2",
+          "voter_count": 0
+        },
+        {
+          "text": "9",
+          "voter_count": 1
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ch.su. 1",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "सत्वतमोबहुला__",
+      "options": [
+        {
+          "text": "पृथ्वी",
+          "voter_count": 0
+        },
+        {
+          "text": "वायु",
+          "voter_count": 1
+        },
+        {
+          "text": "आप",
+          "voter_count": 0
+        },
+        {
+          "text": "अग्नि",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Su.sha 1/21",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"हास हेतुर्विशेषश्च\" Ref?",
+      "options": [
+        {
+          "text": "Ch.su. 1",
+          "voter_count": 1
+        },
+        {
+          "text": "Ch. vi. 1",
+          "voter_count": 0
+        },
+        {
+          "text": "A.H. Su 9",
+          "voter_count": 0
+        },
+        {
+          "text": "Su.su 41",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ch.su. 1/44",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) सुश्रुत अनुसार तंत्रयुक्ति = 32. Statement 2)\"अनागतवेक्षणम\" तंत्र युक्ति हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Su.ut. 65",
+      "explanation_entities": null
+    },
+    {
+      "question": "भावप्रकाश अनुसार जल का भौतिकगुण _",
+      "options": [
+        {
+          "text": "गुरु",
+          "voter_count": 0
+        },
+        {
+          "text": "द्रवत्व",
+          "voter_count": 0
+        },
+        {
+          "text": "रस",
+          "voter_count": 0
+        },
+        {
+          "text": "स्निग्ध",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "शब्द प्रकार  ______",
+      "options": [
+        {
+          "text": "४",
+          "voter_count": 0
+        },
+        {
+          "text": "२",
+          "voter_count": 0
+        },
+        {
+          "text": "५",
+          "voter_count": 0
+        },
+        {
+          "text": "६",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "च.वि ८",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) आयुर्वेदोक्त गुण वर्गींकरण-41 गुण Statement 2) न्यायदर्शन अनुसार गुण वर्गीकरण- 17 गुण",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "विस्तरवचनं -------।",
+      "options": [
+        {
+          "text": "उद्देश्य",
+          "voter_count": 1
+        },
+        {
+          "text": "निर्देश",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रदेश",
+          "voter_count": 0
+        },
+        {
+          "text": "उपदेश",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su ut 65",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक संहिता अनुसार पदार्थ की संख्या?",
+      "options": [
+        {
+          "text": "4",
+          "voter_count": 0
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "9",
+          "voter_count": 0
+        },
+        {
+          "text": "असंख्य",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "\" अपुष्पा: फलवन्तो\"_____ (सुश्रुत)",
+      "options": [
+        {
+          "text": "वानस्पत्य",
+          "voter_count": 0
+        },
+        {
+          "text": "वनस्पति",
+          "voter_count": 0
+        },
+        {
+          "text": "विरुध",
+          "voter_count": 0
+        },
+        {
+          "text": "औषध",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "समवायी तु निश्चेष्ट कारणं....??",
+      "options": [
+        {
+          "text": "द्रव्य",
+          "voter_count": 0
+        },
+        {
+          "text": "कर्म",
+          "voter_count": 1
+        },
+        {
+          "text": "समवाय",
+          "voter_count": 0
+        },
+        {
+          "text": "गुण",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "च.सू.1/51",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार विष किस गुण से विषघ्न होता हैं?",
+      "options": [
+        {
+          "text": "रस",
+          "voter_count": 0
+        },
+        {
+          "text": "वीर्य",
+          "voter_count": 0
+        },
+        {
+          "text": "विपाक",
+          "voter_count": 1
+        },
+        {
+          "text": "प्रभाव",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ch.su 26",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "हेतु के प्रकार-",
+      "options": [
+        {
+          "text": "A. प्रत्यक्ष, ऐतिह्य, अनुमान, युक्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "B. प्रत्यक्ष, शब्द, चेष्टा, अनुमान",
+          "voter_count": 1
+        },
+        {
+          "text": "C. प्रत्यक्ष,अनुमान, ऐतिह्य, उपमान",
+          "voter_count": 0
+        },
+        {
+          "text": "D. प्रत्यक्ष, अनुमान, ऐतिह्य, अर्थापत्ति",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "च.वि.८/३३",
+      "explanation_entities": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "question": "[11/28] Q- Find the correct statements for अजीर्ण चिकित्सा by काश्यप-\n@Aiapgetmadeeasy",
+    "options": [
+      {
+        "text": "(A) 1 incorrect 2 correct",
+        "voter_count": 0
+      },
+      {
+        "text": "(B)  1 Correct 2 incorrect",
+        "voter_count": 1
+      },
+      {
+        "text": "(C) Both Incorrect",
+        "voter_count": 0
+      },
+      {
+        "text": "(D) Both Correct",
+        "voter_count": 0
+      }
+    ],
+    "total_voter_count": 1,
+    "is_closed": true,
+    "is_anonymous": false,
+    "type": "quiz",
+    "allows_multiple_answers": false,
+    "correct_option_id": 1,
+    "explanation": "Ans- B\nRef- statements 2 is said by Sushrut but सु doesn't explain श्लेष्माजीर्ण - स्वेदन",
+    "explanation_entities": []
+  },
+  {
+    "question": "[11/28] Q- Find the correct statements for अजीर्ण चिकित्सा by काश्यप-\n@Aiapgetmadeeasy",
+    "options": [
+      {
+        "text": "(A) 1 incorrect 2 correct",
+        "voter_count": 0
+      },
+      {
+        "text": "(B)  1 Correct 2 incorrect",
+        "voter_count": 1
+      },
+      {
+        "text": "(C) Both Incorrect",
+        "voter_count": 0
+      },
+      {
+        "text": "(D) Both Correct",
+        "voter_count": 0
+      }
+    ],
+    "total_voter_count": 1,
+    "is_closed": true,
+    "is_anonymous": false,
+    "type": "quiz",
+    "allows_multiple_answers": false,
+    "correct_option_id": 1,
+    "explanation": "Ans- B\nRef- statements 2 is said by Sushrut but सु doesn't explain श्लेष्माजीर्ण - स्वेदन",
+    "explanation_entities": []
+  }
+]

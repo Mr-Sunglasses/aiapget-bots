@@ -1,0 +1,586 @@
+{
+  "file_name": "No. 44 Date : 14 September 2024  Topic : anatomy संघर्ष 2025",
+  "data": [
+    "Topic : anatomy संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "Number of phalanges in each hand ?",
+      "options": [
+        {
+          "text": "28",
+          "voter_count": 0
+        },
+        {
+          "text": "14",
+          "voter_count": 1
+        },
+        {
+          "text": "20",
+          "voter_count": 0
+        },
+        {
+          "text": "15",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Most common position of appendix_",
+      "options": [
+        {
+          "text": "12’o clock",
+          "voter_count": 0
+        },
+        {
+          "text": "Retrocaeccal",
+          "voter_count": 1
+        },
+        {
+          "text": "Splenic",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Global anatomy",
+      "explanation_entities": null
+    },
+    {
+      "question": "Fracture of base of 1st metacarpal is termed as_",
+      "options": [
+        {
+          "text": "Benetts fracture",
+          "voter_count": 0
+        },
+        {
+          "text": "March’ fracture",
+          "voter_count": 1
+        },
+        {
+          "text": "Runner’s Fracture",
+          "voter_count": 0
+        },
+        {
+          "text": "Dancer’s Fracture",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Fossa ovalis is present in _",
+      "options": [
+        {
+          "text": "Right atrium",
+          "voter_count": 0
+        },
+        {
+          "text": "Left atrium",
+          "voter_count": 0
+        },
+        {
+          "text": "Right ventricle",
+          "voter_count": 1
+        },
+        {
+          "text": "Left ventricle",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) The human skull is made up of 22 bones. Statement 2) which includes 14 cranial bones and 8 Facial bones.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Facial bones-14\nCranial bones- 8",
+      "explanation_entities": null
+    },
+    {
+      "question": "Knee is a type of which joint ?",
+      "options": [
+        {
+          "text": "Ball and socket",
+          "voter_count": 1
+        },
+        {
+          "text": "Hinge joint",
+          "voter_count": 0
+        },
+        {
+          "text": "Ellipsoid joint",
+          "voter_count": 0
+        },
+        {
+          "text": "Condylar joint",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Normal intra occular pressure _",
+      "options": [
+        {
+          "text": "10-20mm of Hg",
+          "voter_count": 0
+        },
+        {
+          "text": "10-15 mm of Hg",
+          "voter_count": 0
+        },
+        {
+          "text": "15-20 mm of Hg",
+          "voter_count": 1
+        },
+        {
+          "text": "20 mm of Hg",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Muscle of surprise _",
+      "options": [
+        {
+          "text": "Platysma",
+          "voter_count": 0
+        },
+        {
+          "text": "Frontalis",
+          "voter_count": 1
+        },
+        {
+          "text": "Mentalis",
+          "voter_count": 0
+        },
+        {
+          "text": "Risorius",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Following cranial nerves are sensory nerve_",
+      "options": [
+        {
+          "text": "I",
+          "voter_count": 0
+        },
+        {
+          "text": "II",
+          "voter_count": 1
+        },
+        {
+          "text": "VIII",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Match the following",
+      "options": [
+        {
+          "text": "(A) 1-a, 2-b, 3-d, 4-c",
+          "voter_count": 1
+        },
+        {
+          "text": "(B) 1-c, 2-d, 3-a, 4-b",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-b, 2-a, 3-d, 4-c",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-d, 2-a, 3-b, 4-c",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans B",
+      "explanation_entities": null
+    },
+    {
+      "question": "Right lung has _ lobes.",
+      "options": [
+        {
+          "text": "2",
+          "voter_count": 0
+        },
+        {
+          "text": "3",
+          "voter_count": 1
+        },
+        {
+          "text": "4",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Cerebrospinal fluid is present in _",
+      "options": [
+        {
+          "text": "Epidural space",
+          "voter_count": 0
+        },
+        {
+          "text": "Subdural space",
+          "voter_count": 0
+        },
+        {
+          "text": "Subarachnoid space",
+          "voter_count": 1
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Common site of fracture in Humerus ?",
+      "options": [
+        {
+          "text": "Surgical neck",
+          "voter_count": 0
+        },
+        {
+          "text": "Supra condylar ridges",
+          "voter_count": 0
+        },
+        {
+          "text": "Olecreanon process",
+          "voter_count": 1
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Bitot’s spot is found in which disease ?",
+      "options": [
+        {
+          "text": "P. Falciparum",
+          "voter_count": 0
+        },
+        {
+          "text": "P. Malariae",
+          "voter_count": 1
+        },
+        {
+          "text": "Vit B deficiency",
+          "voter_count": 0
+        },
+        {
+          "text": "Vit A deficiency",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Weight of liver in male _",
+      "options": [
+        {
+          "text": "1400-1800 gm",
+          "voter_count": 0
+        },
+        {
+          "text": "1600-1800 gm",
+          "voter_count": 1
+        },
+        {
+          "text": "1400-1600 gm",
+          "voter_count": 0
+        },
+        {
+          "text": "1200-1400 gm",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "In meningitis which cranial nerve is involved?",
+      "options": [
+        {
+          "text": "VI",
+          "voter_count": 0
+        },
+        {
+          "text": "VII",
+          "voter_count": 0
+        },
+        {
+          "text": "VIII",
+          "voter_count": 1
+        },
+        {
+          "text": "V",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) Bow knee is Genu Varum. Statement 2) Expanded knee is Genu valgum.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Cowper’s gland lies in_",
+      "options": [
+        {
+          "text": "Labia minora",
+          "voter_count": 0
+        },
+        {
+          "text": "Labia majora",
+          "voter_count": 1
+        },
+        {
+          "text": "Bulbus part of urethra",
+          "voter_count": 0
+        },
+        {
+          "text": "Areola of the breast",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Which of the following structure is not present in porta hepatis?",
+      "options": [
+        {
+          "text": "Portal vein",
+          "voter_count": 0
+        },
+        {
+          "text": "Hepatic artery",
+          "voter_count": 0
+        },
+        {
+          "text": "Hepatic duct",
+          "voter_count": 0
+        },
+        {
+          "text": "Hepatic vein",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Morrison’s pouch is_",
+      "options": [
+        {
+          "text": "Hepatorenal pouch",
+          "voter_count": 0
+        },
+        {
+          "text": "Rectouterine pouch",
+          "voter_count": 0
+        },
+        {
+          "text": "Greater omentum",
+          "voter_count": 0
+        },
+        {
+          "text": "A&C",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    }
+  ]
+}

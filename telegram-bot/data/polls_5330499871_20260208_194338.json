@@ -1,0 +1,238 @@
+{
+  "file_name": "",
+  "data": [
+    "",
+    {
+      "question": "Q- Find the correct statements  -\n1) कम्पवात नाशक = यशद 2) प्रमेहहर श्रेष्ठ= नाग",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans-B\nRef- gp 271- 272(२-वंग)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)मूढगर्भप्रवर्तक = यवक्षार 2)स्त्रीपुष्पहरणं = पत्रताल",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C  \nRef- gp 264 & 268(१-टंकण २- पिण्डताल)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement regarding  मूर्च्छन ।",
+      "options": [
+        {
+          "text": "पारद में व्याधि नाशक गुण उत्पन्न करता है।",
+          "voter_count": 1
+        },
+        {
+          "text": "अभ्यंतर प्रयोग संभव।",
+          "voter_count": 0
+        },
+        {
+          "text": "पारद का तृतीय संस्कार है",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Parikh 274",
+      "explanation_entities": null
+    },
+    {
+      "question": "गौरीतेज_",
+      "options": [
+        {
+          "text": "गंधक",
+          "voter_count": 0
+        },
+        {
+          "text": "सस्यक",
+          "voter_count": 1
+        },
+        {
+          "text": "अभ्रक",
+          "voter_count": 0
+        },
+        {
+          "text": "पुष्प कासीस",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Parikh 268",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for मारण-\n1) ताम्र मारण = हरताल से 2) पारद मारण = वज्र से",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nRef- gp 270- 271(१-ताम्र मारण = गंधक से)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Match the following \nधातु का ग्रहों से संबंध)\n\n1) मंगल।     a) ताम्र \n2) सूर्य        b) वंग \n3) शुक्र       c) पित्तल \n4) राहु        d) कास्य",
+      "options": [
+        {
+          "text": "(A) 1-b, 2-c, 3-d, 4-a",
+          "voter_count": 1
+        },
+        {
+          "text": "(B) 1-b, 2-a, 3-c, 4-d",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-c, 2-a, 3-b, 4-d",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-c, 2-d, 3-a, 4-b",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C\nParikh 272",
+      "explanation_entities": null
+    },
+    {
+      "question": "श्वेत पर्पटी की मात्रा _",
+      "options": [
+        {
+          "text": "3-4 रत्ती",
+          "voter_count": 1
+        },
+        {
+          "text": "3-6 रत्ती",
+          "voter_count": 0
+        },
+        {
+          "text": "4-10 रत्ती",
+          "voter_count": 0
+        },
+        {
+          "text": "5-10 रत्ती",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Parikh 266",
+      "explanation_entities": null
+    },
+    {
+      "question": "निम्न धातु अध्ययन कर्म करने वाले युवकों हेतु उपयोगी होता है ।",
+      "options": [
+        {
+          "text": "स्वर्ण",
+          "voter_count": 1
+        },
+        {
+          "text": "रजत",
+          "voter_count": 0
+        },
+        {
+          "text": "ताम्र",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Parikh 264",
+      "explanation_entities": null
+    }
+  ]
+}

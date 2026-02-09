@@ -1,0 +1,64 @@
+{
+  "file_name": "No. 30 Date : 30  August 2024  Topic : D.G-2 207 210 संघर्ष 2025 by @AIAPGETMADEEASY    हर  कदम आपके साथ 9336237929",
+  "data": [
+    "Topic : D.G-2 207 210 संघर्ष 2025 by @AIAPGETMADEEASY",
+    {
+      "question": "कंटकटेरी किस द्रव्य का पर्याय है ?",
+      "options": [
+        {
+          "text": "कर्कटशृंगी",
+          "voter_count": 0
+        },
+        {
+          "text": "कंटकारी",
+          "voter_count": 0
+        },
+        {
+          "text": "दारूहरिद्रा",
+          "voter_count": 0
+        },
+        {
+          "text": "पाठा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 0,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 202",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for plant with their main function -\n1)Rubia Cordifolia=वमन 2)Randia spinosa=रक्त प्रसादन",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 0,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- gp 205",
+      "explanation_entities": null
+    }
+  ]
+}

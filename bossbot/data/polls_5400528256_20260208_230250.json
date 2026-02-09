@@ -1,0 +1,789 @@
+{
+  "file_name": "No. 23 Date : 23 August 2024  Topic : anatomy ( GP 139-148)  संघर्ष 2025",
+  "data": [
+    "Topic : anatomy ( GP 139-148)  संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "Breast development takes place in__of intra uterine life.",
+      "options": [
+        {
+          "text": "3rd week",
+          "voter_count": 0
+        },
+        {
+          "text": "4th week",
+          "voter_count": 0
+        },
+        {
+          "text": "2nd week",
+          "voter_count": 1
+        },
+        {
+          "text": "6th week",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 139",
+      "explanation_entities": null
+    },
+    {
+      "question": "Epicardium is supplied by which nerve ?",
+      "options": [
+        {
+          "text": "Phrenic nerve",
+          "voter_count": 0
+        },
+        {
+          "text": "Autonomic nerves",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B both",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 141",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)Esophagus pierces the diaphragm at the level of =T10 2) Trachea bifurcate  at the level of = T2",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef-gp 142(Trachea bifurcate  at the level of = T4)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Xiphoid process is find at the level of _",
+      "options": [
+        {
+          "text": "T10",
+          "voter_count": 0
+        },
+        {
+          "text": "T4",
+          "voter_count": 1
+        },
+        {
+          "text": "T8",
+          "voter_count": 0
+        },
+        {
+          "text": "T12",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 142",
+      "explanation_entities": null
+    },
+    {
+      "question": "Radio-ulnar joint is which type of joint ?",
+      "options": [
+        {
+          "text": "Ellipsoid type",
+          "voter_count": 0
+        },
+        {
+          "text": "Condylar joint",
+          "voter_count": 0
+        },
+        {
+          "text": "Pivot joint",
+          "voter_count": 0
+        },
+        {
+          "text": "Hinge joint",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 140",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) largest and strongest bone of face = Maxillary  2) largest and deepest Cranial fossa = Posterior cranial fossa",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- gp 147 (1- Mandible bone)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Which one is the First bone to start ossifying?",
+      "options": [
+        {
+          "text": "Scapula",
+          "voter_count": 0
+        },
+        {
+          "text": "Carpal bone",
+          "voter_count": 0
+        },
+        {
+          "text": "Sternum",
+          "voter_count": 0
+        },
+        {
+          "text": "Clavicle",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 139",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)Commonest position of the appendix = 12 O'clock  2)Commonest position of the piles = 12 O'clock",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- b\nRef- gp 143 & 146 (2-Commonest position of the piles = 3.7.11 O'clock )",
+      "explanation_entities": null
+    },
+    {
+      "question": "Most complex and largest joint ?",
+      "options": [
+        {
+          "text": "Shoulder joint",
+          "voter_count": 0
+        },
+        {
+          "text": "Hip joint",
+          "voter_count": 0
+        },
+        {
+          "text": "Knee joint",
+          "voter_count": 0
+        },
+        {
+          "text": "Elbow joint",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 142",
+      "explanation_entities": null
+    },
+    {
+      "question": "Shape of the distended Stomach_",
+      "options": [
+        {
+          "text": "Oval shaped",
+          "voter_count": 0
+        },
+        {
+          "text": "J shaped",
+          "voter_count": 0
+        },
+        {
+          "text": "Piriform Shaped",
+          "voter_count": 0
+        },
+        {
+          "text": "Boat shaped",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 143",
+      "explanation_entities": null
+    },
+    {
+      "question": "Pott’s Fracture usually occurs at the age between",
+      "options": [
+        {
+          "text": "60-70 years",
+          "voter_count": 1
+        },
+        {
+          "text": "50-60 years",
+          "voter_count": 0
+        },
+        {
+          "text": "40-50years",
+          "voter_count": 0
+        },
+        {
+          "text": "40-60 years",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 142",
+      "explanation_entities": null
+    },
+    {
+      "question": "Oesophagus pierces the diaphragm at the level of_",
+      "options": [
+        {
+          "text": "T4",
+          "voter_count": 0
+        },
+        {
+          "text": "T8",
+          "voter_count": 0
+        },
+        {
+          "text": "T9",
+          "voter_count": 0
+        },
+        {
+          "text": "T10",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 142",
+      "explanation_entities": null
+    },
+    {
+      "question": "Common site of an adenoma_",
+      "options": [
+        {
+          "text": "Anterior lobe of prostate",
+          "voter_count": 0
+        },
+        {
+          "text": "Posterior lobe of prostate",
+          "voter_count": 0
+        },
+        {
+          "text": "Lateral lobe of prostate",
+          "voter_count": 0
+        },
+        {
+          "text": "Median lobe of prostate",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 146",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)Wedge shaped organ = Gall bladder 2)Pear shaped organ= Spleen",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- gp 144",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) Trigeminal Cranial Nerve is Mixed nerve  Statement 2) Hypoglosal Cranial Nerve is Motor Nerve.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 148",
+      "explanation_entities": null
+    },
+    {
+      "question": "Crypt’s of Liberkuhn are found in_",
+      "options": [
+        {
+          "text": "Ileum",
+          "voter_count": 0
+        },
+        {
+          "text": "Jejunum",
+          "voter_count": 1
+        },
+        {
+          "text": "Intestine",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 143",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) Saturday night palsy =due to median nerve palsy 2)Carpal tunnel syndrome = due to compression of median nerve",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- gp 140(Saturday night palsy = radial nerve palsy",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) Capitate is the largest carpal bone. Statement 2) Trapezoid is the Quadrangular shape Carpal bone.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 139",
+      "explanation_entities": null
+    },
+    {
+      "question": "Weight of female Liver?",
+      "options": [
+        {
+          "text": "1400gm",
+          "voter_count": 0
+        },
+        {
+          "text": "1600 gm",
+          "voter_count": 0
+        },
+        {
+          "text": "1300gm",
+          "voter_count": 0
+        },
+        {
+          "text": "1200gm",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 144",
+      "explanation_entities": null
+    },
+    {
+      "question": "Injury of anterior cranial fossa causes_",
+      "options": [
+        {
+          "text": "Bleeding and CSF discharge through nose",
+          "voter_count": 0
+        },
+        {
+          "text": "Bleeding and CSF discharge through ear",
+          "voter_count": 1
+        },
+        {
+          "text": "Bleeding and CSF discharge through eyes",
+          "voter_count": 0
+        },
+        {
+          "text": "A&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 147",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A)1-c,2-b,3-d,4-a",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)1-b,2-a,3-c,4-d",
+          "voter_count": 0
+        },
+        {
+          "text": "(D)1-b,2-a,3-c,4-d",
+          "voter_count": 0
+        },
+        {
+          "text": "(C)1-b,2-c,3-d,4-a",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans-C\nGp pg 141",
+      "explanation_entities": null
+    },
+    {
+      "question": "Largest Salivary gland?",
+      "options": [
+        {
+          "text": "Parotid",
+          "voter_count": 0
+        },
+        {
+          "text": "Sub mandibular",
+          "voter_count": 1
+        },
+        {
+          "text": "Sub lingual",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 147",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)Gardeners hand = Callosity \n2)Obstetrician Hand = In tetany  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- D\nRef- gp 148",
+      "explanation_entities": null
+    },
+    {
+      "question": "Which cranial nerves are sensory nerve?",
+      "options": [
+        {
+          "text": "Olfactory",
+          "voter_count": 0
+        },
+        {
+          "text": "Oculomotor",
+          "voter_count": 0
+        },
+        {
+          "text": "Troclear",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 148",
+      "explanation_entities": null
+    },
+    {
+      "question": "Saturday night palsy occur due to _",
+      "options": [
+        {
+          "text": "Median nerve Palsy",
+          "voter_count": 0
+        },
+        {
+          "text": "Ulnar Nerve Palsy",
+          "voter_count": 0
+        },
+        {
+          "text": "Inflammation of Palmar",
+          "voter_count": 0
+        },
+        {
+          "text": "Radian Nerve Palsy",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 140",
+      "explanation_entities": null
+    },
+    {
+      "question": "Situation of Lamboid suture_",
+      "options": [
+        {
+          "text": "Between Frontal and parietal bones",
+          "voter_count": 0
+        },
+        {
+          "text": "Between frontal and occipital bones",
+          "voter_count": 1
+        },
+        {
+          "text": "Between two parietal bones",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 147",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) length of esophagous= length of ureter  2) length of vas deference= length of thorasic duct",
+      "options": [
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- gp 141(1-25cm 2-18inch )",
+      "explanation_entities": null
+    }
+  ]
+}

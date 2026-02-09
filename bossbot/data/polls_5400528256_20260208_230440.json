@@ -1,0 +1,789 @@
+{
+  "file_name": "No. 24 Date : 24 August 2024  Topic : anatomy ( GP 149-157)  संघर्ष 2025",
+  "data": [
+    "Topic : anatomy ( GP 149-157)  संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "Deep fascia of thigh?",
+      "options": [
+        {
+          "text": "F.Colles",
+          "voter_count": 0
+        },
+        {
+          "text": "F. Cribrosa",
+          "voter_count": 0
+        },
+        {
+          "text": "F. Lata",
+          "voter_count": 1
+        },
+        {
+          "text": "Buck’s fascia",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 151",
+      "explanation_entities": null
+    },
+    {
+      "question": "Which cranial nerve is involved in meningitis?",
+      "options": [
+        {
+          "text": "VIth Cranial nerve",
+          "voter_count": 1
+        },
+        {
+          "text": "Vlll Cranial nerve",
+          "voter_count": 0
+        },
+        {
+          "text": "Vth Cranial nerve",
+          "voter_count": 0
+        },
+        {
+          "text": "lllrd Cranial nerve",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 149",
+      "explanation_entities": null
+    },
+    {
+      "question": "Strongest ligament in the body?",
+      "options": [
+        {
+          "text": "Deltoid ligament",
+          "voter_count": 0
+        },
+        {
+          "text": "Spring ligament",
+          "voter_count": 0
+        },
+        {
+          "text": "Ilio femoral ligament",
+          "voter_count": 0
+        },
+        {
+          "text": "Arteriosum ligament",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 0,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 151",
+      "explanation_entities": null
+    },
+    {
+      "question": "Correct statement \n1. Cranial nerve - 12 pairs 2. Spinal Nerve - 31 Pairs",
+      "options": [
+        {
+          "text": "1✅ 2❌",
+          "voter_count": 0
+        },
+        {
+          "text": "1❌ 2✅",
+          "voter_count": 0
+        },
+        {
+          "text": "❌❌",
+          "voter_count": 0
+        },
+        {
+          "text": "✅✅",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 157",
+      "explanation_entities": null
+    },
+    {
+      "question": "Sensory area _",
+      "options": [
+        {
+          "text": "3,1,2, Post Central gyrus",
+          "voter_count": 0
+        },
+        {
+          "text": "3,1,2, pre central gyrus",
+          "voter_count": 0
+        },
+        {
+          "text": "4,6 Post Central gyrus",
+          "voter_count": 0
+        },
+        {
+          "text": "4,6 pre central gyrus",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 149",
+      "explanation_entities": null
+    },
+    {
+      "question": "Auscultation triangle _",
+      "options": [
+        {
+          "text": "Lower border of trapezius and latissimus dorsi",
+          "voter_count": 1
+        },
+        {
+          "text": "Upper border of trapezius and latissimus dorsi",
+          "voter_count": 0
+        },
+        {
+          "text": "Lower border of sartorius  and latissimus dorsi",
+          "voter_count": 0
+        },
+        {
+          "text": "Upper  border of sartorius  and latissim",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 153",
+      "explanation_entities": null
+    },
+    {
+      "question": "Name of the duct found in kidney_",
+      "options": [
+        {
+          "text": "Wirsung’s duct",
+          "voter_count": 1
+        },
+        {
+          "text": "Duct of stensen’s",
+          "voter_count": 0
+        },
+        {
+          "text": "Duct of santorini",
+          "voter_count": 0
+        },
+        {
+          "text": "Duct of Ballini",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 152",
+      "explanation_entities": null
+    },
+    {
+      "question": "Cowper glands found in_",
+      "options": [
+        {
+          "text": "Eyelids",
+          "voter_count": 0
+        },
+        {
+          "text": "Tarsal plate",
+          "voter_count": 0
+        },
+        {
+          "text": "On eye lashes",
+          "voter_count": 1
+        },
+        {
+          "text": "Bulbous part of urethra",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 152",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) Troclear nerve is the largest cranial nerve. Statement 2) Trigeminal nerve is the Thinnest cranial nerve.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 149",
+      "explanation_entities": null
+    },
+    {
+      "question": "Muscle of Anger?",
+      "options": [
+        {
+          "text": "Dilator naris",
+          "voter_count": 0
+        },
+        {
+          "text": "Depressor septill",
+          "voter_count": 0
+        },
+        {
+          "text": "Platysma",
+          "voter_count": 1
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 153",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for Ligaments-\n1) Thomson's liga.=Lower part of Transversalis Fascia 2) Lacunar liga.= Breast",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- gp 151(Lacunar liga.=Femoral Ring)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Longest muscle in the body?",
+      "options": [
+        {
+          "text": "Sartorius",
+          "voter_count": 0
+        },
+        {
+          "text": "Popliteus",
+          "voter_count": 1
+        },
+        {
+          "text": "Quadriceps fermoris",
+          "voter_count": 0
+        },
+        {
+          "text": "Risoriua",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 153",
+      "explanation_entities": null
+    },
+    {
+      "question": "Length of Spinal Cord?",
+      "options": [
+        {
+          "text": "40 cm",
+          "voter_count": 0
+        },
+        {
+          "text": "35 cm",
+          "voter_count": 0
+        },
+        {
+          "text": "45 cm",
+          "voter_count": 0
+        },
+        {
+          "text": "47 cm",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 150",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) Burtons blue line seen on gums. Statement 2) burtons blue line seen in lead poisoning.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 154",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) Thinnest cranial nerve= Trigeminal  2) Thickest cranial nerve=Trochlea",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef-gp 148-149",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements - 1) Muscle of Doubt = Frontalis............ 2)Muscles of Surprises= Mentalis",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-(vice versa is True.)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)Duct of Ballini = Accessory Pancreatic Duct .... 2) Gartners duct = Duct of Epoophoron",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- 1- kidney",
+      "explanation_entities": null
+    },
+    {
+      "question": "Douglas pouch is found in _",
+      "options": [
+        {
+          "text": "Pituitary gland",
+          "voter_count": 0
+        },
+        {
+          "text": "Recto uterine pouch",
+          "voter_count": 0
+        },
+        {
+          "text": "Hepato renal pouch",
+          "voter_count": 1
+        },
+        {
+          "text": "Dilated part of the neck of gall bladder",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 152",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) Musician Nerve =Median Nerve 2) Vidian Nerve = Nerve of Pterigoid canal",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- gp 150( Musician Nerve= Ulnar nerve)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)Bitot spot = Vit A deficiency  2) Roth spot = Typhoid",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- gp 153( Roth spot = Infective Endocarditis)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Spiral ganglion is situated in _",
+      "options": [
+        {
+          "text": "Medulla",
+          "voter_count": 0
+        },
+        {
+          "text": "Cerebellum",
+          "voter_count": 0
+        },
+        {
+          "text": "Cochlea",
+          "voter_count": 1
+        },
+        {
+          "text": "Mid brain",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 157",
+      "explanation_entities": null
+    },
+    {
+      "question": "Total quantity of cerebrospinal fluid?",
+      "options": [
+        {
+          "text": "5000ml",
+          "voter_count": 0
+        },
+        {
+          "text": "150ml",
+          "voter_count": 1
+        },
+        {
+          "text": "125ml",
+          "voter_count": 0
+        },
+        {
+          "text": "1500ml",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 148",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) Bartholin gland = in Bulbous part of urethra  2)Bruner's gland = in Duodenum",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- gp 152 (Bartholin gland = in Labia majora)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) Wirsung's duct = Pancreatic Duct  2) Duct of Santorini = Accessory Pancreatic Duct",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- go 152",
+      "explanation_entities": null
+    },
+    {
+      "question": "Valve of kerkring is situated in _",
+      "options": [
+        {
+          "text": "Rectum",
+          "voter_count": 0
+        },
+        {
+          "text": "Duodenum and jejunum",
+          "voter_count": 0
+        },
+        {
+          "text": "Anal canal",
+          "voter_count": 0
+        },
+        {
+          "text": "Cystic duct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 157",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) Rose Spots seen in Measles. Statement 2) ziemann’s dots seen in P. Falciparum.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 153",
+      "explanation_entities": null
+    },
+    {
+      "question": "Gluteus maximus is supplied by_",
+      "options": [
+        {
+          "text": "Femoral nerve",
+          "voter_count": 0
+        },
+        {
+          "text": "Inferior gluteal nerve",
+          "voter_count": 0
+        },
+        {
+          "text": "Superior gluteal nerve",
+          "voter_count": 0
+        },
+        {
+          "text": "Tibial nerve",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 154",
+      "explanation_entities": null
+    }
+  ]
+}

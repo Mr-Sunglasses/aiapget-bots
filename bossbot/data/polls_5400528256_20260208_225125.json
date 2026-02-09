@@ -1,0 +1,760 @@
+{
+  "file_name": "No. 14  Date : 14 August 2024  Topic : Sushrut vaishishtya (GP 474- 487) संघर्ष 2025",
+  "data": [
+    "Topic : Sushrut vaishishtya (GP 474- 487) संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "Q- Find the correct statements for लिङ्गंनाश शस्त्रकर्म-\n1)लिंगनाश श्लाका - अष्टादश अंगुल लम्बी यववक्र\n2)सम्यक विद्धलक्षण = वारिबिन्द्वागमः सम्यक भवेत शब्दस्तथा  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- GP 481 (१-लिंगनाश शलाका - आठ अंगुल लम्बी यववक्र )",
+      "explanation_entities": null
+    },
+    {
+      "question": "कुम्भकामला के साथ ज्वर , अंगमर्द, भ्रम व तन्द्रा का होना किस व्याधि का लक्षण हैं?",
+      "options": [
+        {
+          "text": "लाघरक",
+          "voter_count": 1
+        },
+        {
+          "text": "अलसक",
+          "voter_count": 0
+        },
+        {
+          "text": "Both A&B",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 482",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"अरूजं बाह्यात शूनं\" किस नेत्ररोग का लक्षण हैं?",
+      "options": [
+        {
+          "text": "क्लिन्न वर्त्म",
+          "voter_count": 0
+        },
+        {
+          "text": "शुक्तिका",
+          "voter_count": 0
+        },
+        {
+          "text": "बलास",
+          "voter_count": 1
+        },
+        {
+          "text": "उत्संगिनी",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 477",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) संसर्गज तिमिर को परिम्लायी कॉच भी कहते हैं। Statement 2) दो वस्तुओं को तीन या अनेक रूप में देखना तृतीय पटल गत तिमिर का लक्षण है ।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "479",
+      "explanation_entities": null
+    },
+    {
+      "question": "अग्निदीपानार्थ औषध काल?",
+      "options": [
+        {
+          "text": "ग्रास",
+          "voter_count": 0
+        },
+        {
+          "text": "ग्रासन्तर",
+          "voter_count": 0
+        },
+        {
+          "text": "सभक्त",
+          "voter_count": 0
+        },
+        {
+          "text": "सामुद्ग",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 483",
+      "explanation_entities": null
+    },
+    {
+      "question": "इदं च इदं चेति __",
+      "options": [
+        {
+          "text": "सन्नियोग",
+          "voter_count": 1
+        },
+        {
+          "text": "समुच्चय",
+          "voter_count": 0
+        },
+        {
+          "text": "विकल्प",
+          "voter_count": 0
+        },
+        {
+          "text": "निदर्शन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 484",
+      "explanation_entities": null
+    },
+    {
+      "question": "समासवचनं_",
+      "options": [
+        {
+          "text": "निर्देश",
+          "voter_count": 0
+        },
+        {
+          "text": "उपदेश",
+          "voter_count": 1
+        },
+        {
+          "text": "उद्देश",
+          "voter_count": 0
+        },
+        {
+          "text": "अपदेश",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 483",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for मुख रोग- \n1) आयतन= 8 2) कांठगत= 15",
+      "options": [
+        {
+          "text": "(A) 1 is True but 2 Is False",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) Vice versa is True",
+          "voter_count": 0
+        },
+        {
+          "text": "(C)Both True",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both False",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans - D\nRef -१-आयतन =7 २-कांठगत=17( GP 478)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement (sushrut)\nStatement 1) विद्रधि भेद=4, अर्श भेद=3 Statement 2) शोफ भेद=4, अर्बुद भेद=7",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 481",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)अनुवासन से पूर्व भोजन की ग्राह्या मात्रा =  सामान्य मात्रा की 1/3rd\n2) निरूहोपरान्त भोजन की ग्राह्या मात्रा =  सामान्य मात्रा की 1/4th  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef-  gp 474",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose incorrect Statement about दृष्टि लक्षण",
+      "options": [
+        {
+          "text": "मसूरदल के समान आकृति",
+          "voter_count": 0
+        },
+        {
+          "text": "बाहर से देखने पर विवराकृति",
+          "voter_count": 0
+        },
+        {
+          "text": "शीत अहितकर",
+          "voter_count": 0
+        },
+        {
+          "text": "अग्नि के समान आभा वाली",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 475",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(D) 1-d, 2-a, 3-c, 4-b",
+          "voter_count": 1
+        },
+        {
+          "text": "(A) 1-b, 2-a, 3-d, 4-c",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-c, 2-d, 3-b, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-b, 2-c, 3-d, 4-a",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans-C\nGp pg 476",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"क्षीरसर्पि प्रशंसन्ति नस्ये पाने च\" किस व्याधि की चिकित्सा है ?",
+      "options": [
+        {
+          "text": "सूर्यावर्त्त",
+          "voter_count": 0
+        },
+        {
+          "text": "कृमिज शिरोरोग",
+          "voter_count": 0
+        },
+        {
+          "text": "क्षयज शिरोरोग",
+          "voter_count": 0
+        },
+        {
+          "text": "शंखक",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 481",
+      "explanation_entities": null
+    },
+    {
+      "question": "गौर्यादिघृत किस व्याधि में प्रयुक्त हैं?",
+      "options": [
+        {
+          "text": "अपस्मार",
+          "voter_count": 0
+        },
+        {
+          "text": "विसर्प",
+          "voter_count": 0
+        },
+        {
+          "text": "सूतिका रोग",
+          "voter_count": 0
+        },
+        {
+          "text": "वातरक्त",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 485",
+      "explanation_entities": null
+    },
+    {
+      "question": "स्त्री दुग्ध व चन्दन का नस्य का प्रयोग किस व्याधि की चिकित्सा में वर्णित हैं",
+      "options": [
+        {
+          "text": "राजयक्ष्मा",
+          "voter_count": 1
+        },
+        {
+          "text": "हिक्का",
+          "voter_count": 0
+        },
+        {
+          "text": "श्वास",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्तपित्त",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 482",
+      "explanation_entities": null
+    },
+    {
+      "question": "अनुवासन के पश्चात उत्तान रहकर कितने काल तक प्रतीक्षा करना चाहिए?",
+      "options": [
+        {
+          "text": "100 मात्रा कालतक",
+          "voter_count": 0
+        },
+        {
+          "text": "1000 मात्रा काल तक",
+          "voter_count": 0
+        },
+        {
+          "text": "500 मात्रा काल तक",
+          "voter_count": 1
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 474",
+      "explanation_entities": null
+    },
+    {
+      "question": "गुग्गुल से धूपन किस कर्ण रोग में करने का निर्देश है ?",
+      "options": [
+        {
+          "text": "कृमिकर्ण",
+          "voter_count": 1
+        },
+        {
+          "text": "कर्णदौर्गन्ध",
+          "voter_count": 0
+        },
+        {
+          "text": "कर्णकण्डू",
+          "voter_count": 0
+        },
+        {
+          "text": "कर्णस्राव",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 481",
+      "explanation_entities": null
+    },
+    {
+      "question": "दृष्टि मण्डल का आयाम_",
+      "options": [
+        {
+          "text": "नेत्र के आयाम का 1/3 भाग",
+          "voter_count": 1
+        },
+        {
+          "text": "कृष्णमण्डल का 1/7 भाग",
+          "voter_count": 0
+        },
+        {
+          "text": "कृष्णमण्डल का 1/3 भाग",
+          "voter_count": 0
+        },
+        {
+          "text": "नेत्र के आयाम का 1/7 भाग",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 474",
+      "explanation_entities": null
+    },
+    {
+      "question": "व्रण चिकित्सार्थ प्रयुक्त तैल?",
+      "options": [
+        {
+          "text": "चक्र तैल",
+          "voter_count": 1
+        },
+        {
+          "text": "वज्रक तैल",
+          "voter_count": 0
+        },
+        {
+          "text": "अणुतैल",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 485",
+      "explanation_entities": null
+    },
+    {
+      "question": "पक्ष्मकोप की औषध चिकित्सा?",
+      "options": [
+        {
+          "text": "राजवृक्षदि तोय तथा सुरसादिगण से प्रक्षालन",
+          "voter_count": 1
+        },
+        {
+          "text": "हरीतकी फल से प्रतिसारण",
+          "voter_count": 0
+        },
+        {
+          "text": "तुवरक से प्रतिसारण",
+          "voter_count": 0
+        },
+        {
+          "text": "B&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 480",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)सम्यक लिखित वर्म का लक्षण = नखनिभं 2)अम्लाध्यूषित, शुक्तिका मे = सिरा मोक्षण वर्जित",
+      "options": [
+        {
+          "text": "(A) 1 is True but 2 Is False",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) Vice versa is True",
+          "voter_count": 1
+        },
+        {
+          "text": "(C)Both True",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both False",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans - C\nRef - GP 480",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत ने आर्तव का वर्णन किस अध्याय में किया हैं?",
+      "options": [
+        {
+          "text": "Su.Sha.4",
+          "voter_count": 0
+        },
+        {
+          "text": "Su.Sha.1",
+          "voter_count": 0
+        },
+        {
+          "text": "Su.Su.15",
+          "voter_count": 1
+        },
+        {
+          "text": "Su.Su.14",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 485",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत ने पंचकर्म का वर्णन किस स्थान में किया है ?",
+      "options": [
+        {
+          "text": "सूत्रस्थान",
+          "voter_count": 0
+        },
+        {
+          "text": "चिकित्सास्थान",
+          "voter_count": 0
+        },
+        {
+          "text": "उत्तरतंत्र",
+          "voter_count": 1
+        },
+        {
+          "text": "शारीरस्थान",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 487",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for नेत्र रोज-\n1) हताधिमन्थ, निमिष, गंभारिका व वातहत वर्त्म= वातज याप्य \n2)ह्रस्व जाड़य व पैत्तिक स्राव = पैत्तिक असाध्य   @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- १- वातज असाध्य नेत्ररोग ( gp 475)",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"वर्तमान से भविष्य का साधन यथा वायु ऊपर जा रही हैं \" किस तंत्रयुक्ति का उदाहरण हैं?",
+      "options": [
+        {
+          "text": "अपवर्ग",
+          "voter_count": 1
+        },
+        {
+          "text": "अर्थापत्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "अतिदेश",
+          "voter_count": 0
+        },
+        {
+          "text": "अधिकरण",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 483",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)कर्णकण्डु = वमन व नाडी स्वेद\n2)कर्णदौर्गन्ध्य =वार्त्ताक धूम, हरताल व गौमूत्र का प्रयोग  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- २-कर्णदौर्गन्ध्य=गुग्गुलु से धूपन (GP 481)",
+      "explanation_entities": null
+    }
+  ]
+}

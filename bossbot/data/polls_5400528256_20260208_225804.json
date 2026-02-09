@@ -1,0 +1,760 @@
+{
+  "file_name": "No. 18 Date : 18 August 2024  Topic : BR (GP )  संघर्ष 2025",
+  "data": [
+    "Topic : BR (GP )  संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "नवकार्षिक गुग्गुल में गुग्गुल की मात्रा?",
+      "options": [
+        {
+          "text": "1 कर्ष",
+          "voter_count": 0
+        },
+        {
+          "text": "5 कर्ष",
+          "voter_count": 0
+        },
+        {
+          "text": "6 कर्ष",
+          "voter_count": 0
+        },
+        {
+          "text": "4 कर्ष",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 125",
+      "explanation_entities": null
+    },
+    {
+      "question": "अविपत्तिकर चूर्ण में सर्वाधिक मात्रा में कौन सा द्रव्य होता हैं?",
+      "options": [
+        {
+          "text": "त्रिकटु",
+          "voter_count": 0
+        },
+        {
+          "text": "त्रिफला",
+          "voter_count": 0
+        },
+        {
+          "text": "त्रिवृत",
+          "voter_count": 0
+        },
+        {
+          "text": "एला",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 125",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for भैoरo-\n1) रजोरोध एवं कृमियों के कारण *स्त्रियों* में अण्डाधार रोग की उत्पत्ति  2)अतिव्यवाय, अभिघात व विषमाशन से *स्त्रियों* में ताण्डव रोग की उत्पत्ति",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C( vice versa is correct)\nRef- gp १२३ & १२४",
+      "explanation_entities": null
+    },
+    {
+      "question": "शीर्षाम्बु रोग की चिकित्सा?",
+      "options": [
+        {
+          "text": "रेचक",
+          "voter_count": 0
+        },
+        {
+          "text": "मूत्रल",
+          "voter_count": 1
+        },
+        {
+          "text": "रक्त दोष शोधक",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 124",
+      "explanation_entities": null
+    },
+    {
+      "question": "भैषज्य रत्नावली के लेखक कौन हैं?",
+      "options": [
+        {
+          "text": "कृष्णराम भट्ट",
+          "voter_count": 1
+        },
+        {
+          "text": "यादव जी त्रिकम जी",
+          "voter_count": 0
+        },
+        {
+          "text": "रविगुप्त",
+          "voter_count": 0
+        },
+        {
+          "text": "श्री गोविन्द दास सेन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 123",
+      "explanation_entities": null
+    },
+    {
+      "question": "विशिष्टरोगाधिकार नामक अध्याय में किस व्याधि का वर्णन नहीं किया हैं?",
+      "options": [
+        {
+          "text": "स्नायुरोग",
+          "voter_count": 0
+        },
+        {
+          "text": "खंजनिका रोग",
+          "voter_count": 0
+        },
+        {
+          "text": "स्मरोन्माद",
+          "voter_count": 0
+        },
+        {
+          "text": "पालित्य रोग",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 123",
+      "explanation_entities": null
+    },
+    {
+      "question": "सप्तामृत लौह का रोगाधिकार?",
+      "options": [
+        {
+          "text": "शूल",
+          "voter_count": 0
+        },
+        {
+          "text": "तिमिर",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        },
+        {
+          "text": "हृद्रोग",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 125",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements योग and रोगाधिकार भैo रo-\n1) ब्राह्मी वटी= अपस्मार 2) चतुर्भुज रस= उन्माद",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- Gp 124-125 (१-ब्राह्मी वटी= ज्वर)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) राजयक्ष्मा के संदर्भ में बल को मल में अधीन बताया हैं। Statement 2) एवं जीवन को शुक्र के अधीन बताया हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 123",
+      "explanation_entities": null
+    },
+    {
+      "question": "कफकेतु रस में निम्न में से कौनसा विष होता हैं?",
+      "options": [
+        {
+          "text": "वत्सनाभ",
+          "voter_count": 0
+        },
+        {
+          "text": "कुचला",
+          "voter_count": 1
+        },
+        {
+          "text": "धतूरा",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 124",
+      "explanation_entities": null
+    },
+    {
+      "question": "सन्निपात ज्वर में पुनः पुनः _____ करने का निर्देश किया है ।",
+      "options": [
+        {
+          "text": "स्नेहन",
+          "voter_count": 1
+        },
+        {
+          "text": "लंघन",
+          "voter_count": 0
+        },
+        {
+          "text": "पाचन",
+          "voter_count": 0
+        },
+        {
+          "text": "स्वेदन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 123",
+      "explanation_entities": null
+    },
+    {
+      "question": "प्रभाकरवटी का रोगाधिकार?",
+      "options": [
+        {
+          "text": "अश्मरी",
+          "voter_count": 0
+        },
+        {
+          "text": "मेदोरोग",
+          "voter_count": 0
+        },
+        {
+          "text": "गलगण्ड",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 125",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) मस्तिष्क चय नामक व्याधि असाध्य माना हैं। Statement 2) मस्तिष्क अपचय नामक व्याधि साध्य मानते हुए चिकित्सार्थ रसायन प्रयोग का निर्देश किया हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 124",
+      "explanation_entities": null
+    },
+    {
+      "question": "वातारि गुग्गुलु का रोगाधिकार क्या हैं?",
+      "options": [
+        {
+          "text": "वातव्याधि",
+          "voter_count": 0
+        },
+        {
+          "text": "आमवात",
+          "voter_count": 1
+        },
+        {
+          "text": "उदावर्त",
+          "voter_count": 0
+        },
+        {
+          "text": "पक्षाघात",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 125",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for भैoरo-\n1) पञ्चाङ्ग संज्ञा= मूल पत्र पुष्प शाखा फल 2) S ज्वर मे पुनः पुनः स्वेदन कराने का निर्देश",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- gp 123(१-पञ्चाङ्ग संज्ञा= मूल पत्र पुष्प *त्वक्* फल )",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for भैo रo-\n1) writeen by = गोविन्द दाससेन 2) भैo रo के अनुभूत योग प्रकरण मे कफ और पित्त विकारो की चिकित्सा का वर्णन है",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- GP 123 २-(परिशिष्टम् अध्याय)",
+      "explanation_entities": null
+    },
+    {
+      "question": "सप्तशालिवटी में निम्न कौनसा द्रव्य नहीं होता।",
+      "options": [
+        {
+          "text": "मधु",
+          "voter_count": 0
+        },
+        {
+          "text": "पारद",
+          "voter_count": 0
+        },
+        {
+          "text": "खदिर",
+          "voter_count": 0
+        },
+        {
+          "text": "टंकण",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 125",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for आमवात चि (भैoरo)-\n1) लङ्घनं स्वेदनं तिक्तं दीपनानि कटुनि च।  2) सैन्धवाद्येनानुवास्य क्षीरवस्तिः प्रशस्यते ।।",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- Go 123 (2-सैन्धवाद्येनानुवास्य *क्षारवस्तिः* प्रशस्यते )",
+      "explanation_entities": null
+    },
+    {
+      "question": "भै.र. अनुसार पंचपल्लव का रोगाधिकार?",
+      "options": [
+        {
+          "text": "अतिसार",
+          "voter_count": 0
+        },
+        {
+          "text": "ग्रहणी",
+          "voter_count": 0
+        },
+        {
+          "text": "अग्निमांध",
+          "voter_count": 0
+        },
+        {
+          "text": "उदर रोग",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 124",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for गदोद्वेग (भैoरo)-\n1)गदोद्वेग को अपदार्थगद कहा 2) चि o= अग्नि दीपन, आमपाचक",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- gp 123",
+      "explanation_entities": null
+    },
+    {
+      "question": "भै.र. ने अहिफेनासव को अतिसार रोग में कितनी मात्रा में प्रयोग करने का निर्देश दिया हैं?",
+      "options": [
+        {
+          "text": "2 बूँद जल के साथ",
+          "voter_count": 1
+        },
+        {
+          "text": "5 बूँद जल के साथ",
+          "voter_count": 0
+        },
+        {
+          "text": "10 बूँद जल के साथ",
+          "voter_count": 0
+        },
+        {
+          "text": "15 बूँद जल के साथ",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 124",
+      "explanation_entities": null
+    },
+    {
+      "question": "अग्निसन्दीपन रस का रोगाधिकार?",
+      "options": [
+        {
+          "text": "ग्रहणी",
+          "voter_count": 0
+        },
+        {
+          "text": "अतिसार",
+          "voter_count": 0
+        },
+        {
+          "text": "उदररोग",
+          "voter_count": 1
+        },
+        {
+          "text": "अग्निमांध",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 125",
+      "explanation_entities": null
+    },
+    {
+      "question": "भै.र. के अनुसार पंचांग का निम्न part पंचांग का नहीं हैं।",
+      "options": [
+        {
+          "text": "त्वक्",
+          "voter_count": 1
+        },
+        {
+          "text": "फल",
+          "voter_count": 0
+        },
+        {
+          "text": "पत्र",
+          "voter_count": 0
+        },
+        {
+          "text": "बीज",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 123",
+      "explanation_entities": null
+    },
+    {
+      "question": "कुचला निम्न में से किस योग में मिलता हैं?",
+      "options": [
+        {
+          "text": "शृंग्यादिचुर्ण",
+          "voter_count": 0
+        },
+        {
+          "text": "नाराचरस",
+          "voter_count": 0
+        },
+        {
+          "text": "कृमिमुद्गार रस",
+          "voter_count": 0
+        },
+        {
+          "text": "नवक गुग्गुल",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 125",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) भैषज्य रत्नावली ने स्त्रियों में रजोरोध व कृमियों के कारण भी स्नायुरोग की उत्पत्ति मानी हैं। Statement 2) तथा इसमें बृहण विरेचन व अग्निबलवर्धक चिकित्सा का निर्देश किया हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 123",
+      "explanation_entities": null
+    },
+    {
+      "question": "चतुर्भज रस का रोगाधिकार?",
+      "options": [
+        {
+          "text": "अपस्मार",
+          "voter_count": 0
+        },
+        {
+          "text": "उन्माद",
+          "voter_count": 0
+        },
+        {
+          "text": "उदावर्त",
+          "voter_count": 0
+        },
+        {
+          "text": "शिरोरोग",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 0,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 125",
+      "explanation_entities": null
+    }
+  ]
+}

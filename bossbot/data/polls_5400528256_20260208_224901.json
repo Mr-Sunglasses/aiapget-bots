@@ -1,0 +1,760 @@
+{
+  "file_name": "No. 12  Date : 12 August 2024  Topic : Sushrut vaishishtya (GP 452- 462) संघर्ष 2025",
+  "data": [
+    "Topic : Sushrut vaishishtya (GP 452- 462) संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "Choose correct statement \nStatement 1) अतिव्यवाय व अव्यावय वातरक्त के निदान हैं। Statement 2) वातरक्त में रक्त की दुष्टि त्रिदोष से होती हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 454",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"पीड़ीकोत्पत्ति\" किस कुष्ठ का लक्षण हैं?",
+      "options": [
+        {
+          "text": "त्वचागत",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्तगत",
+          "voter_count": 0
+        },
+        {
+          "text": "मांसगत",
+          "voter_count": 1
+        },
+        {
+          "text": "मज्जागत",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 455",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) रोमान्तिका में कफ व वात दोष की अधिकता हैं। Statement 2) मुखदुषिका में कफ व पित्त दोष की अधिकता हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 457",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"मुद्गमाषोपमम\"  किस शूक दोष का लक्षण हैं?",
+      "options": [
+        {
+          "text": "सषपिका",
+          "voter_count": 1
+        },
+        {
+          "text": "पुष्करिका",
+          "voter_count": 0
+        },
+        {
+          "text": "कुम्भिका",
+          "voter_count": 0
+        },
+        {
+          "text": "उत्तमा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 457",
+      "explanation_entities": null
+    },
+    {
+      "question": "गलगण्ड में दूष्य",
+      "options": [
+        {
+          "text": "मांस मेद",
+          "voter_count": 1
+        },
+        {
+          "text": "मांस मज्जा",
+          "voter_count": 0
+        },
+        {
+          "text": "मज्जा रस",
+          "voter_count": 0
+        },
+        {
+          "text": "मेद मज्जा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 456\nगलगण्ड मांस+मेद as per su su 24\nगलगण्ड as per su  निदान only मेद",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"मत्स्य अण्डजाल प्रतिमः\" किस व्याधि का लक्षण है ?",
+      "options": [
+        {
+          "text": "ग्रंथि",
+          "voter_count": 0
+        },
+        {
+          "text": "अर्बुद",
+          "voter_count": 0
+        },
+        {
+          "text": "गलगण्ड",
+          "voter_count": 1
+        },
+        {
+          "text": "अपची",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 456",
+      "explanation_entities": null
+    },
+    {
+      "question": "कोलास्थि प्रमाणवत_",
+      "options": [
+        {
+          "text": "गलशुण्डिका",
+          "voter_count": 0
+        },
+        {
+          "text": "तुण्डिकेरी",
+          "voter_count": 0
+        },
+        {
+          "text": "अर्बुद",
+          "voter_count": 0
+        },
+        {
+          "text": "कण्ठशालूक",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 458",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) प्रकृति= अबीजधर्मी Statement 2) पुरुष= अगुणा",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 459",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"शुक्रं प्राश्यं लभते\" नपुंसक के किस भेद का लक्षण हैं?",
+      "options": [
+        {
+          "text": "मुखयोनि",
+          "voter_count": 0
+        },
+        {
+          "text": "सौगन्धिक",
+          "voter_count": 1
+        },
+        {
+          "text": "ईर्ष्यक",
+          "voter_count": 0
+        },
+        {
+          "text": "पूतियोनि",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 459",
+      "explanation_entities": null
+    },
+    {
+      "question": "सद्योग्रहीत गर्भ के लक्षण _",
+      "options": [
+        {
+          "text": "स्तन्यों कृष्ण मुखता",
+          "voter_count": 1
+        },
+        {
+          "text": "प्रसेक सदनं",
+          "voter_count": 0
+        },
+        {
+          "text": "सक्थिसदनं",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 460",
+      "explanation_entities": null
+    },
+    {
+      "question": "पृष्ठ व उरः प्रदेश में कौन सी स्नायु होती हैं?",
+      "options": [
+        {
+          "text": "प्रतान",
+          "voter_count": 0
+        },
+        {
+          "text": "पृथु",
+          "voter_count": 1
+        },
+        {
+          "text": "सुषिर",
+          "voter_count": 0
+        },
+        {
+          "text": "वृत्त",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 461",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) तलहृदय मर्म सद्यःप्राणहर मर्म हैं। Statement 2) तलहृदय मर्म शीघ्र मारक हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 461",
+      "explanation_entities": null
+    },
+    {
+      "question": "सीमन्त मर्म पर आघात के लक्षण",
+      "options": [
+        {
+          "text": "उन्माद",
+          "voter_count": 0
+        },
+        {
+          "text": "शिर का हिलना",
+          "voter_count": 1
+        },
+        {
+          "text": "बधिरता",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 462",
+      "explanation_entities": null
+    },
+    {
+      "question": "कालान्तर प्राणहर मर्म का मारक काल?",
+      "options": [
+        {
+          "text": "1 पक्ष",
+          "voter_count": 0
+        },
+        {
+          "text": "1 माह",
+          "voter_count": 0
+        },
+        {
+          "text": "Both A& C",
+          "voter_count": 1
+        },
+        {
+          "text": "45 दिन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 462",
+      "explanation_entities": null
+    },
+    {
+      "question": "पशु तामस काय का लक्षण?",
+      "options": [
+        {
+          "text": "नित्य आहारसेवी",
+          "voter_count": 0
+        },
+        {
+          "text": "भीरु",
+          "voter_count": 1
+        },
+        {
+          "text": "नित्य स्वप्न में मैथुन दर्शन",
+          "voter_count": 0
+        },
+        {
+          "text": "परस्पराभिमर्दश्च",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 460",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाणी तत्व के देवता",
+      "options": [
+        {
+          "text": "इन्द्र",
+          "voter_count": 1
+        },
+        {
+          "text": "अग्नि",
+          "voter_count": 0
+        },
+        {
+          "text": "वायु",
+          "voter_count": 0
+        },
+        {
+          "text": "ईश्वर",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 458",
+      "explanation_entities": null
+    },
+    {
+      "question": "\" दशनानां विनाशनी \" किस दन्तगत रोग का लक्षण है ?",
+      "options": [
+        {
+          "text": "दन्तहर्ष",
+          "voter_count": 0
+        },
+        {
+          "text": "दालन",
+          "voter_count": 0
+        },
+        {
+          "text": "दन्तशर्करा",
+          "voter_count": 1
+        },
+        {
+          "text": "कपालिका",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 458",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-b, 2-c, 3-d, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-b, 2-d, 3-a, 4-c",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-d, 2-a, 3-b, 4-c",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) 1-c, 2-b, 3-d, 4-a",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A \nGp pg 461",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) क्षतज भगन्दर असाध्य होते हैं। Statement 2) त्रिदोषज भगन्दर कृच्छ्र साध्य होते हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 454",
+      "explanation_entities": null
+    },
+    {
+      "question": "लोहिताक्ष मर्म पर आघात लगाने में उत्पन्न लक्षण ?",
+      "options": [
+        {
+          "text": "अतिरक्तस्राव से मृत्यु",
+          "voter_count": 0
+        },
+        {
+          "text": "पक्षाघात या मृत्यु",
+          "voter_count": 0
+        },
+        {
+          "text": "आक्षेप से मृत्यु",
+          "voter_count": 1
+        },
+        {
+          "text": "A&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 462",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for विद्राधि लक्षण-\n1) चिरोत्थानप्रपाकश्च= वातजविद्रधि \n2) घाटलो विषम महान=आगंतुक विद्रधि    @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-१ for- कफज २for-सन्निपातजा (gp 455)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statement-\n1)अनल्पमूलं चिरवृद्धि अपाक=  ग्रंथि \n2)वृतं स्थिरं मन्दरूजं= अर्बुद  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- both are लक्षण of अर्बुद ( gp 456)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)दन्तशर्करा = दशनानां विनाशनी \n2)कपालिका = दन्तानाम् गुणघ्नी  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-vice versa is True. (Gp 458)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)दीर्घः शोफो ध्मातबस्तिप्रकाशः =तुण्डीकेरी \n2)पद्माकारं तालुमध्ये शोफ = अर्बुद्( तालुगत् रोग)  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- १-गलशुण्डिका ( gp 458)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)गर्भ के मलोत्सर्ग ना करने में कारण है =  मल की अल्पता व वायु का अयोग होना\n2) गर्भ के नहीं रोने में कारण है = गर्भमुख का श्लेषमा से आवृत्त होना एवं कंठ का पित्त व वायु से अवरोध होना  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef-२-गर्भमुख का *जरायु* से आवृत्त होना एवं कंठ का *कफ व वायु* से अवरोध होना ( gp 459)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for स्नायु भेद-\n1) प्रतान = आशय व बस्ति  2) सुषिर= अस्थि व सन्धि",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-vice versa is True.(Gp 461)",
+      "explanation_entities": null
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "file_name": "No. 11  Date : 11 August 2024  Topic : Sushrut vaishishtya (GP 437- 452) संघर्ष 2025",
+  "data": [
+    "Topic : Sushrut vaishishtya (GP 437- 452) संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "शुक्रदोष व प्रमेह का कारण?",
+      "options": [
+        {
+          "text": "समान , व्यान वायु की विकृति",
+          "voter_count": 0
+        },
+        {
+          "text": "अपान, व्यान वायु की विकृति",
+          "voter_count": 1
+        },
+        {
+          "text": "समान, अपान वायु की विकृति",
+          "voter_count": 0
+        },
+        {
+          "text": "प्राण, व्यान वायु की विकृति",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 453",
+      "explanation_entities": null
+    },
+    {
+      "question": "उबले हुए जल को शीतल करने की कितनी विधियाँ हैं?",
+      "options": [
+        {
+          "text": "5",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 0
+        },
+        {
+          "text": "6",
+          "voter_count": 1
+        },
+        {
+          "text": "7",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 451",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) अग्निकर्म के पूर्व यवागू सेवन का विधान हैं। Statement 2) शरद ऋतु में अग्निकर्म निषिद्ध हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 443",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement (सुश्रुत )\nStatement 1) हेमंत व शिशिर ऋतु में 3-3 दिन में व्रण की पट्टी खोलना चाहिए। Statement 2) वसन्त ऋतु में 2-2 दिन में व्रण की पट्टी खोलना चाहिए।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 440",
+      "explanation_entities": null
+    },
+    {
+      "question": "बारह वर्ष तक के बालक में विरेचनार्थ कौनसा तैल प्रयुक्त किया जाता हैं?",
+      "options": [
+        {
+          "text": "तिल तैल",
+          "voter_count": 0
+        },
+        {
+          "text": "आरग्वध तैल",
+          "voter_count": 1
+        },
+        {
+          "text": "Both",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 450",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) सिरा, स्नायु छेदनार्थ पायना= तैल। Statement 2) भेदन कर्मार्थ पायना=जल",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 441",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)पुरीष वृद्धि लक्षण = आटोप व शूल\n2)रक्त वृद्धि लक्षण =धमनीपूर्णता  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- २रक्त वृद्धि लक्षण =सिरापूर्णता",
+      "explanation_entities": null
+    },
+    {
+      "question": "आम शोफ को चीरने वाला वैध",
+      "options": [
+        {
+          "text": "तस्करवृत्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "श्वपच",
+          "voter_count": 1
+        },
+        {
+          "text": "चाण्डाल",
+          "voter_count": 0
+        },
+        {
+          "text": "B&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 445",
+      "explanation_entities": null
+    },
+    {
+      "question": "रक्तातिप्रवृति में अयोग्य कर्म?",
+      "options": [
+        {
+          "text": "कषाय द्रव्यों का प्रयोग",
+          "voter_count": 0
+        },
+        {
+          "text": "अग्निकर्म",
+          "voter_count": 1
+        },
+        {
+          "text": "रक्तपान",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 444",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) गूढ़ शल्य निर्हरणार्थ =सिंहमुख यन्त्र 2) दृश्य' शल्य निर्हरणार्थ  =कंकमुख यन्त्र",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- Gp सुoवैo",
+      "explanation_entities": null
+    },
+    {
+      "question": "निम्न रोग में पानीय क्षार निषिद्ध हैं।",
+      "options": [
+        {
+          "text": "विष",
+          "voter_count": 0
+        },
+        {
+          "text": "तिमिर",
+          "voter_count": 0
+        },
+        {
+          "text": "उदर",
+          "voter_count": 1
+        },
+        {
+          "text": "B&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 442",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)जलौका के वमनार्थ प्रयुक्त =  हल्दी लेप+ सरसों कल्क  2)जलौका के ग्लानिहरणार्थ देय= रक्त व दुग्ध",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-(GP )१- वमनार्थ= सैंधव+ तैल & २-ग्लानिहरणार्थ=हल्दी लेप+ सरसों कल्क",
+      "explanation_entities": null
+    },
+    {
+      "question": "मधुशर्करा का प्रयोग निर्दिष्ट हैं_",
+      "options": [
+        {
+          "text": "रक्तपित्त में",
+          "voter_count": 0
+        },
+        {
+          "text": "विषम ज्वर, वमन में",
+          "voter_count": 0
+        },
+        {
+          "text": "वमन , ग्रहणी में",
+          "voter_count": 0
+        },
+        {
+          "text": "वमन , अतिसार में",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 452",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-b, 2-d, 3-c, 4-a",
+          "voter_count": 1
+        },
+        {
+          "text": "(B) 1-b, 2-a, 3-c, 4-d",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-c, 2-b, 3-a, 4-d",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-c, 2-d, 3-a, 4-b",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C\nGp pg 453",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct order forरक्तस्राव रोधन के उपाय\n1) संधान(प्रथमतः) >स्कन्दन > पाचन> दहन (अन्तिम)\n2)स्कन्दन (प्रथमतः) > संधान> दहन > पाचन(अन्तिम)  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-स्कन्दन (प्रथमतः) > संधान> पाचन> दहन (अन्तिम)",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-a, 2-b, 3-c",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-b, 2-c, 3-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-a, 2-c, 3-b",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) 1-c, 2-a, 3-b",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans-D\nGp pg 441",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"विश्लेषसादौ गात्राणां दोषा\" ओज की किस अवस्था क्या लक्षण हैं?",
+      "options": [
+        {
+          "text": "विस्रंस",
+          "voter_count": 0
+        },
+        {
+          "text": "व्यापद",
+          "voter_count": 0
+        },
+        {
+          "text": "क्षय",
+          "voter_count": 1
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 445",
+      "explanation_entities": null
+    },
+    {
+      "question": "जलौका के ग्लानिहरणार्थ देय_",
+      "options": [
+        {
+          "text": "सरसों + हल्दी का लेप",
+          "voter_count": 0
+        },
+        {
+          "text": "सैंधव लवण",
+          "voter_count": 1
+        },
+        {
+          "text": "सैंधव + तैल",
+          "voter_count": 0
+        },
+        {
+          "text": "शतधौत घृत का",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 443",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for क्षारनिर्माणार्थ-\n1) अग्नि प्रज्वलन= तिलनाल से 2) ऋतु= शिशिर   @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- २- शरद ऋतु",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"त्वक्माँ सवर्ण समतलं \" किस व्रण का लक्षण हैं?",
+      "options": [
+        {
+          "text": "शुद्ध व्रण",
+          "voter_count": 0
+        },
+        {
+          "text": "रोहित व्रण",
+          "voter_count": 0
+        },
+        {
+          "text": "सम्यक् रूढ़ व्रण",
+          "voter_count": 0
+        },
+        {
+          "text": "A&C",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 447",
+      "explanation_entities": null
+    },
+    {
+      "question": "शल्य स्थल पर रखा हुआ घृत पिघल जाने पर शल्य की स्थिति क्या हैं?",
+      "options": [
+        {
+          "text": "त्वकगत",
+          "voter_count": 0
+        },
+        {
+          "text": "मांसगत",
+          "voter_count": 0
+        },
+        {
+          "text": "अस्थि गत",
+          "voter_count": 1
+        },
+        {
+          "text": "स्त्रोतोगत",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 448",
+      "explanation_entities": null
+    },
+    {
+      "question": "क्षार पातन के पश्चात कितनी मात्रा काल तक प्रतीक्षा करे?",
+      "options": [
+        {
+          "text": "50",
+          "voter_count": 0
+        },
+        {
+          "text": "100",
+          "voter_count": 0
+        },
+        {
+          "text": "1000",
+          "voter_count": 1
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 442",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत संहिता में वर्णित कुल रोगो की संख्या?",
+      "options": [
+        {
+          "text": "573",
+          "voter_count": 0
+        },
+        {
+          "text": "8300",
+          "voter_count": 0
+        },
+        {
+          "text": "1120",
+          "voter_count": 1
+        },
+        {
+          "text": "1020",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 438",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements - \n1)अर्द्धचन्द्राकृति छेदन स्थल  =हस्त व पाद\n2)चन्द्रमण्डल छेदन योग्य स्थल=गुदा व उपस्थ   @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef-gp सुo वैo",
+      "explanation_entities": null
+    },
+    {
+      "question": "निम्न व्याधि में रक्तमोक्षण का निषेध हैं।",
+      "options": [
+        {
+          "text": "पाण्डु",
+          "voter_count": 0
+        },
+        {
+          "text": "अर्श",
+          "voter_count": 0
+        },
+        {
+          "text": "उदर",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 444",
+      "explanation_entities": null
+    },
+    {
+      "question": "वृहतपंजिका के टीकाकार ?",
+      "options": [
+        {
+          "text": "भास्कर",
+          "voter_count": 0
+        },
+        {
+          "text": "गयदास",
+          "voter_count": 1
+        },
+        {
+          "text": "चक्रपाणि",
+          "voter_count": 0
+        },
+        {
+          "text": "जैज्जट",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 437",
+      "explanation_entities": null
+    }
+  ]
+}

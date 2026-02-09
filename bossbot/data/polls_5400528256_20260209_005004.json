@@ -1,0 +1,850 @@
+{
+  "file_name": "No. 45 Date : 15 September 2024  Topic : su su 14,15  & ch su 17 संघर्ष 2025",
+  "data": [
+    "Topic : su su 14,15  & ch su 17 संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "सुश्रुत अनुसार स्त्री में आर्तव क्षय होने पर किस प्रकार के द्रव्यों का प्रयोग करना चाहिये?",
+      "options": [
+        {
+          "text": "आग्नेय",
+          "voter_count": 0
+        },
+        {
+          "text": "पृथ्वी",
+          "voter_count": 0
+        },
+        {
+          "text": "जल",
+          "voter_count": 1
+        },
+        {
+          "text": "वायु",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su. Su. 15/16",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for धातु क्षय वृद्धि(सु)-\n1) तृष्णा दौर्बल्यं प्रजागरणं = V वृद्धि लक्षण 2)सन्धिशून्यता रौक्ष्यं मेदुरमांसप्रार्थना = मज्जा क्षय लक्षण",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef- su su 14/11-13(१-K क्षय २-मेदक्षय)",
+      "explanation_entities": null
+    },
+    {
+      "question": "______ सर्वांगनेत्रगौरवं च। (सुश्रुत)",
+      "options": [
+        {
+          "text": "रसं",
+          "voter_count": 0
+        },
+        {
+          "text": "मेद",
+          "voter_count": 0
+        },
+        {
+          "text": "मांस",
+          "voter_count": 1
+        },
+        {
+          "text": "मज्जा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.su 15/19",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "चरक अनुसार \"व्यधच्छेद रुजा कण्डू शोफ दौर्गत्यदुःखितम्\" किस व्याधि का लक्षण हैं?",
+      "options": [
+        {
+          "text": "कृमिज शिरोरोग",
+          "voter_count": 0
+        },
+        {
+          "text": "कफज शिरोरोग",
+          "voter_count": 0
+        },
+        {
+          "text": "कृमिज हृदयरोग",
+          "voter_count": 1
+        },
+        {
+          "text": "कफज हृदयरोग",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ch.su. 17/29",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "रक्ततिस्राव को रोकने हेतु निर्दिष्ट उपक्रमों का सही क्रम क्या हैं?",
+      "options": [
+        {
+          "text": "संधान-स्कंदन-पाचन-दहन",
+          "voter_count": 0
+        },
+        {
+          "text": "स्कंदन-संधान-पाचन-दहन",
+          "voter_count": 1
+        },
+        {
+          "text": "संधान-पाचन-स्कंदन-दहन",
+          "voter_count": 0
+        },
+        {
+          "text": "स्कंदन-पाचन-संधान-दहन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.su 14/41-42",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) सुश्रुत अनुसार मेधा कफ का कर्म हैं। Statement 2) सुश्रुत अनुसार प्रीति व बल मज्जा और शुक्र का कर्म हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.su 15",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "स्फिकग्रीवोदर शुष्कता\" चरक अनुसार किस धातु क्षय का लक्षण हैं?",
+      "options": [
+        {
+          "text": "मांस",
+          "voter_count": 1
+        },
+        {
+          "text": "मेद",
+          "voter_count": 0
+        },
+        {
+          "text": "अस्थि",
+          "voter_count": 0
+        },
+        {
+          "text": "मज्जा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ch.su 17",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "Q- Find the correct statements as per चरक-\n1)संधीनां स्फुटनं = अस्थि क्षय  2)संधिशैथिल्यमेव =मेद क्षय",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- ch su 17/68",
+      "explanation_entities": null
+    },
+    {
+      "question": "शुद्ध रक्त का कौनसा वर्ण चरक व सुश्रुत दोनों ने माना हैं?",
+      "options": [
+        {
+          "text": "तपनीय",
+          "voter_count": 0
+        },
+        {
+          "text": "इन्द्रगोपाभं",
+          "voter_count": 1
+        },
+        {
+          "text": "गुंजाफल सवर्ण",
+          "voter_count": 0
+        },
+        {
+          "text": "आलक्त सन्निभम",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.su. 14",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "सुश्रुत अनुसार अहर्ष किसका लक्षण हैं?",
+      "options": [
+        {
+          "text": "वात क्षय",
+          "voter_count": 0
+        },
+        {
+          "text": "वात वृद्धि",
+          "voter_count": 0
+        },
+        {
+          "text": "कफ क्षय",
+          "voter_count": 0
+        },
+        {
+          "text": "कफ वृद्धि",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.su. 15/11",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "सुश्रुत अनुसार सन्निपातिक रक्त दुष्टि का लक्षण_",
+      "options": [
+        {
+          "text": "पीयूलाकोदक प्रभ",
+          "voter_count": 1
+        },
+        {
+          "text": "कांजी प्रभ",
+          "voter_count": 0
+        },
+        {
+          "text": "मांसपेशीप्रभ",
+          "voter_count": 0
+        },
+        {
+          "text": "गैरिकोदक संकश",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.su. 14/21",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "आचार्य चरक अनुसार प्रमेह पिडका की संख्या?",
+      "options": [
+        {
+          "text": "10",
+          "voter_count": 0
+        },
+        {
+          "text": "9",
+          "voter_count": 1
+        },
+        {
+          "text": "8",
+          "voter_count": 0
+        },
+        {
+          "text": "7",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ch.su. 17",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "सुश्रुत अनुसार रक्तमोक्षण से पूर्व रोगी को क्या पिलाना चाहिए?",
+      "options": [
+        {
+          "text": "जल",
+          "voter_count": 1
+        },
+        {
+          "text": "मंड",
+          "voter_count": 0
+        },
+        {
+          "text": "पेया",
+          "voter_count": 0
+        },
+        {
+          "text": "यवागु",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.su. 14/31",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "______ पुरुषं विद्यात।",
+      "options": [
+        {
+          "text": "रक्तजं",
+          "voter_count": 0
+        },
+        {
+          "text": "शुक्रं",
+          "voter_count": 0
+        },
+        {
+          "text": "ओजं",
+          "voter_count": 1
+        },
+        {
+          "text": "रसजं",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su. Su. 14",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per सुश्रुत -\n1)अहरहर्गच्छतीत्यतो ....= धातु: 2) धातुओ की क्षय वृद्धि का कारण= अन्न रस",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-  su सु 14/13& 21(१-अहरहर्गच्छतीत्यतो रसः २- शोणित निम्मितज)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for सम्यक विस्रावण लक्षण (सु )-\n1) वेदनाशान्ति व्यधिर्वेगपरिक्षयः 2)प्रसादो मनस्तथा",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- D\nRef- su su 14/33",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-b, 2-a, 3-d, 4-c",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-d, 2-b, 3-c, 4-a",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) 1-c, 2-d, 3-a, 4-b",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-d, 2-c, 3-a, 4-b",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans-D\nRef-Su.su 15/13",
+      "explanation_entities": [
+        {
+          "length": 9,
+          "offset": 6,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "Ref of \"दोषधातुमलमूलं हि शरीर।",
+      "options": [
+        {
+          "text": "Su.su 1",
+          "voter_count": 0
+        },
+        {
+          "text": "Su.su 14",
+          "voter_count": 0
+        },
+        {
+          "text": "Su.su 15",
+          "voter_count": 1
+        },
+        {
+          "text": "Ch.su 17",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Su.su. 15/3",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) आचार्य चरक ने 5 प्रकार के शिरोरोग बताये हैं। Statement 3) आचार्य सुश्रुत ने 9 प्रकार के शिरोरोग बताये हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार दोषमान विकल्प से व्याधि के कितने प्रकार हैं?",
+      "options": [
+        {
+          "text": "63",
+          "voter_count": 0
+        },
+        {
+          "text": "62",
+          "voter_count": 1
+        },
+        {
+          "text": "64",
+          "voter_count": 0
+        },
+        {
+          "text": "67",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ch. Su 17",
+      "explanation_entities": null
+    },
+    {
+      "question": "रक्त के अधिक स्राव से कौन सा नेत्र रोग होता हैं?",
+      "options": [
+        {
+          "text": "आंध्य",
+          "voter_count": 0
+        },
+        {
+          "text": "अधिमन्थ",
+          "voter_count": 0
+        },
+        {
+          "text": "तिमिर",
+          "voter_count": 1
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.su 14/30",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "Q- Find the correct statements for रक्त दुष्टी by दोष (सु)-\n1)काञ्जिकाभं विशेषतो दुर्गन्धि च = द्विदोषदुष्ट रक्त  2)गैरिकोदकप्रतीकाशं= K दोषदुष्ट रक्त",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- su su 14/21(१- सन्निपात दोषदुष्ट रक्त )",
+      "explanation_entities": null
+    },
+    {
+      "question": "रक्त विस्त्रावण के अयोग्य_",
+      "options": [
+        {
+          "text": "पाण्डु रोग",
+          "voter_count": 1
+        },
+        {
+          "text": "अर्श रोग",
+          "voter_count": 0
+        },
+        {
+          "text": "उदर रोग",
+          "voter_count": 0
+        },
+        {
+          "text": "All",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.su 14",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "प्रस्पन्दन व विवेक किसका कर्म हैं?",
+      "options": [
+        {
+          "text": "वात",
+          "voter_count": 0
+        },
+        {
+          "text": "पित्त",
+          "voter_count": 1
+        },
+        {
+          "text": "कफ",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्त",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su. Su 15",
+      "explanation_entities": null
+    },
+    {
+      "question": "दौर्बल्यं मुखशोषश्च पांडुत्वं\" किस धातु के क्षय का लक्षण हैं?",
+      "options": [
+        {
+          "text": "रस",
+          "voter_count": 1
+        },
+        {
+          "text": "मज्जा",
+          "voter_count": 0
+        },
+        {
+          "text": "शुक्र",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्त",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ch.su. 14",
+      "explanation_entities": [
+        {
+          "length": 5,
+          "offset": 0,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "question": "Q- Find the correct statements as per चरक-\n1)घट्टते सहते शब्दं = रक्त क्षय  2)हृदयं ताम्यति= रस क्षय",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- ch su 17/64(१- रस क्षय)",
+      "explanation_entities": null
+    }
+  ]
+}

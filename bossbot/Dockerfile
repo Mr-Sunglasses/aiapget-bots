@@ -1,0 +1,18 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+RUN pip install --no-cache-dir uv
+
+# Copy dependency manifest first (layer caching)
+COPY pyproject.toml /app/
+
+# Copy source code and templates
+COPY src /app/src
+COPY templates /app/templates
+
+RUN uv sync
+
+ENV PYTHONUNBUFFERED=1
+
+CMD ["uv", "run", "amequizbotmaker"]

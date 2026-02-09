@@ -1,0 +1,731 @@
+{
+  "file_name": "No. 46 Date : 16  September 2024  Topic : physiology संघर्ष 2025 by @AIAPGETMADEEASY    हर  कदम आपके साथ 9336237929",
+  "data": [
+    "Topic : physiology संघर्ष 2025 by @AIAPGETMADEEASY",
+    {
+      "question": "Vitamin B2 is also called as_",
+      "options": [
+        {
+          "text": "Thiamine",
+          "voter_count": 0
+        },
+        {
+          "text": "Riboflavin",
+          "voter_count": 0
+        },
+        {
+          "text": "Pyridoxine",
+          "voter_count": 1
+        },
+        {
+          "text": "Cobalamin",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Decrease in total WBC is termed as_",
+      "options": [
+        {
+          "text": "Leukopenia",
+          "voter_count": 0
+        },
+        {
+          "text": "Lymphocytosis",
+          "voter_count": 0
+        },
+        {
+          "text": "Lymphopenia",
+          "voter_count": 0
+        },
+        {
+          "text": "Monocytosis",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Which heart sound is heard due to closure of mitral and tricuspid valves?",
+      "options": [
+        {
+          "text": "1st heart sound",
+          "voter_count": 1
+        },
+        {
+          "text": "2nd heart sound",
+          "voter_count": 0
+        },
+        {
+          "text": "3rd heart sound",
+          "voter_count": 0
+        },
+        {
+          "text": "4th heart sound",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 162",
+      "explanation_entities": null
+    },
+    {
+      "question": "Find the correct statements for modified macrophages found in organs-\n1) Liver = Kupffer's cell 2) Lungs = Microglial cells",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- 2- Lungs = Dust cell and Brain= Microglial cells",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find true statement for the coagulation factor-\n1)factor 8= Stuart's factor 2) factor 4= Fibrinogen",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C\nRef- gp 158 ( 1- factor 10 2-factor 4= calcium)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Trisomy of 13th chromosome is called as_",
+      "options": [
+        {
+          "text": "Down’s syndrome",
+          "voter_count": 0
+        },
+        {
+          "text": "Cri-du-chat syndrome",
+          "voter_count": 0
+        },
+        {
+          "text": "Patau’s syndrome",
+          "voter_count": 0
+        },
+        {
+          "text": "Edward syndrome",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 170",
+      "explanation_entities": null
+    },
+    {
+      "question": "Hormone which controls proliferation of mammary glands and initiation of milk secretion.",
+      "options": [
+        {
+          "text": "LH",
+          "voter_count": 1
+        },
+        {
+          "text": "FSH",
+          "voter_count": 0
+        },
+        {
+          "text": "ADH",
+          "voter_count": 0
+        },
+        {
+          "text": "ACTH",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)Blood group \"O\"=  more prone for carcinoma stomach, carcinoma cervix and Thrombosis 2)Blood group \"A\" = more prone to Duodenal ulcer, Hemolytic tendency",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- gp 159",
+      "explanation_entities": null
+    },
+    {
+      "question": "4th heart sound is produced due to_",
+      "options": [
+        {
+          "text": "Vibration of the ventricular wall",
+          "voter_count": 0
+        },
+        {
+          "text": "Due to atrial contraction",
+          "voter_count": 1
+        },
+        {
+          "text": "Due to ventricular contraction",
+          "voter_count": 0
+        },
+        {
+          "text": "A&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 163",
+      "explanation_entities": null
+    },
+    {
+      "question": "Hypoactivity of pituitary gland in children responsible for_",
+      "options": [
+        {
+          "text": "Dwarfism",
+          "voter_count": 0
+        },
+        {
+          "text": "Cretinism",
+          "voter_count": 1
+        },
+        {
+          "text": "Gigantism",
+          "voter_count": 0
+        },
+        {
+          "text": "Acromegaly",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) Blood group \"O” is more prone to Duodenal ulcer. Statement 2) Blood group \"A” is more prone for carcinoma stomach.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 159",
+      "explanation_entities": null
+    },
+    {
+      "question": "Nerve supply of Parotid gland _",
+      "options": [
+        {
+          "text": "Facial nerve",
+          "voter_count": 0
+        },
+        {
+          "text": "Vagus nerve",
+          "voter_count": 1
+        },
+        {
+          "text": "Glossopharyngeal nerve",
+          "voter_count": 0
+        },
+        {
+          "text": "A&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Global pg 50",
+      "explanation_entities": null
+    },
+    {
+      "question": "Killer T cells also called as_",
+      "options": [
+        {
+          "text": "Helper cells",
+          "voter_count": 0
+        },
+        {
+          "text": "Cytotoxic cells",
+          "voter_count": 1
+        },
+        {
+          "text": "Memory cells",
+          "voter_count": 0
+        },
+        {
+          "text": "Suppressor cells",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) Inversion of T wave seen in = myocardial infarction  2) Depression of ST segment seen in = myocardial ischemia",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- gp 166",
+      "explanation_entities": null
+    },
+    {
+      "question": "When does the formation of blood starts ?",
+      "options": [
+        {
+          "text": "From 2nd week of intra uterine life",
+          "voter_count": 0
+        },
+        {
+          "text": "From 3rd week of intra uterine life",
+          "voter_count": 0
+        },
+        {
+          "text": "From 4th week of intra uterine life",
+          "voter_count": 0
+        },
+        {
+          "text": "From 1st week of intra uterine life",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 158",
+      "explanation_entities": null
+    },
+    {
+      "question": "____ is also called animal sugar.",
+      "options": [
+        {
+          "text": "Galactose",
+          "voter_count": 0
+        },
+        {
+          "text": "Lactose",
+          "voter_count": 1
+        },
+        {
+          "text": "Fructose",
+          "voter_count": 0
+        },
+        {
+          "text": "Glycogen",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 169",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) TSH is secreted by Posterior pituitary. Statement 2) Oxytocin is secreted by Anterior pituitary.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "TSH by Anterior pituitary \nOxytocin by Posterior pituitary",
+      "explanation_entities": null
+    },
+    {
+      "question": "Blood group B is having antibody_",
+      "options": [
+        {
+          "text": "Anti B",
+          "voter_count": 0
+        },
+        {
+          "text": "Anti A,B",
+          "voter_count": 1
+        },
+        {
+          "text": "Anti A",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for cardiac cycle-\n1) In Ventricular systole ,time of rapid ejection= 0.15 sec 2) In Ventricular diastole, time of Proto diastolic phase=0.04 sec",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- gp 162( 1-time of rapid ejection= 0.10 sec)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Which disease occurs due to factor lX deficiency?",
+      "options": [
+        {
+          "text": "Hemophylia A",
+          "voter_count": 0
+        },
+        {
+          "text": "Hemophylia B",
+          "voter_count": 0
+        },
+        {
+          "text": "Hemophylia C",
+          "voter_count": 1
+        },
+        {
+          "text": "A&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 160",
+      "explanation_entities": null
+    },
+    {
+      "question": "VIIth blood clotting factor is_",
+      "options": [
+        {
+          "text": "Thromboplastin",
+          "voter_count": 0
+        },
+        {
+          "text": "Hegman factor",
+          "voter_count": 0
+        },
+        {
+          "text": "Power factor",
+          "voter_count": 0
+        },
+        {
+          "text": "Proconvertin",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "K cells secret_",
+      "options": [
+        {
+          "text": "Cholecystokinin",
+          "voter_count": 0
+        },
+        {
+          "text": "Secretin",
+          "voter_count": 1
+        },
+        {
+          "text": "Gastric inhibitory peptide",
+          "voter_count": 0
+        },
+        {
+          "text": "Enterogasterone",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Global pg51",
+      "explanation_entities": null
+    },
+    {
+      "question": "Intrinsic factor is secreted by _",
+      "options": [
+        {
+          "text": "Peptic cells",
+          "voter_count": 0
+        },
+        {
+          "text": "Parietal cells",
+          "voter_count": 0
+        },
+        {
+          "text": "Chief cells",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Maltose=",
+      "options": [
+        {
+          "text": "Glucose + Glucose",
+          "voter_count": 0
+        },
+        {
+          "text": "Glucose + fructose",
+          "voter_count": 1
+        },
+        {
+          "text": "Glucose + galactose",
+          "voter_count": 0
+        },
+        {
+          "text": "Galactose + fructose",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 169",
+      "explanation_entities": null
+    },
+    {
+      "question": "Statement 1 is incorrect Statement 2 is Correct ECG \"QRS Complex\" represents_",
+      "options": [
+        {
+          "text": "Atrial depolarisation",
+          "voter_count": 0
+        },
+        {
+          "text": "Atrial depolarisation",
+          "voter_count": 1
+        },
+        {
+          "text": "Ventricular complex",
+          "voter_count": 0
+        },
+        {
+          "text": "Ventricular replarisation",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 166",
+      "explanation_entities": null
+    }
+  ]
+}

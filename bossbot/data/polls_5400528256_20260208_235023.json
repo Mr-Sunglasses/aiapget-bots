@@ -1,0 +1,760 @@
+{
+  "file_name": "No. 31 Date : 31 August 2024  Topic : DG ( GP 207- 210)  संघर्ष 2025",
+  "data": [
+    "Topic : DG ( GP 207- 210)  संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "Q- Find the correct statements for family of plant-\n1) त्रिवृत्त = Solanaceae  2) गोक्षुर= Zygophyllaceae",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- gp 209( १-त्रिवृत्त = Convolvulaceae)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) चांगेरी belongs to oxiladaceae. Statement 2) गंधप्रसारणी belongs to Rubiaceae family.",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 209",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for पर्याय -\n1)धवल = अर्जुन 2) धात्री पत्र=  तलीश",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- gp 207",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) महावृक्ष\" स्नूही का पर्याय है । Statement 2) कुमारी को ग्वारपाठा भी कहा जाता हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 208",
+      "explanation_entities": null
+    },
+    {
+      "question": "English name of ईश्वरी?",
+      "options": [
+        {
+          "text": "Indian birthwort",
+          "voter_count": 0
+        },
+        {
+          "text": "Indian gentian",
+          "voter_count": 1
+        },
+        {
+          "text": "Indian madder",
+          "voter_count": 0
+        },
+        {
+          "text": "Indian rose wood",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 210",
+      "explanation_entities": null
+    },
+    {
+      "question": "Latin name of गम्भारी?",
+      "options": [
+        {
+          "text": "Premma mucronata",
+          "voter_count": 0
+        },
+        {
+          "text": "Gmelina arborea",
+          "voter_count": 0
+        },
+        {
+          "text": "Euphorbia nerifolia",
+          "voter_count": 1
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 208",
+      "explanation_entities": null
+    },
+    {
+      "question": "छेदन किस द्रव्य का कर्म है ?",
+      "options": [
+        {
+          "text": "वासा",
+          "voter_count": 0
+        },
+        {
+          "text": "त्वक्",
+          "voter_count": 1
+        },
+        {
+          "text": "तालीश",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 207",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for मुख्यकर्म of plant-\n1) मरिच= कास हर  2) पिप्पली= दीपन",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef-gp 208",
+      "explanation_entities": null
+    },
+    {
+      "question": "अग्निमंथ का मुख्य कर्म क्या है ?",
+      "options": [
+        {
+          "text": "तीक्ष्ण विरेचन",
+          "voter_count": 0
+        },
+        {
+          "text": "ग्राही",
+          "voter_count": 1
+        },
+        {
+          "text": "शोथहर",
+          "voter_count": 0
+        },
+        {
+          "text": "पाचन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 208",
+      "explanation_entities": null
+    },
+    {
+      "question": "Which plant belongs to Apocynaceae?",
+      "options": [
+        {
+          "text": "सर्पगंधा",
+          "voter_count": 0
+        },
+        {
+          "text": "सारीवा",
+          "voter_count": 0
+        },
+        {
+          "text": "जम्बू",
+          "voter_count": 1
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 209",
+      "explanation_entities": null
+    },
+    {
+      "question": "Useful part of अगरु?",
+      "options": [
+        {
+          "text": "पत्र",
+          "voter_count": 0
+        },
+        {
+          "text": "काण्डसार",
+          "voter_count": 0
+        },
+        {
+          "text": "बीज",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 207",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for पर्याय of plant-\n1) कृमिघ्ना=अगरू  2) कृमिज= हरिद्रा",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- gp 207",
+      "explanation_entities": null
+    },
+    {
+      "question": "Indian berbery is_",
+      "options": [
+        {
+          "text": "हरिद्रा",
+          "voter_count": 0
+        },
+        {
+          "text": "दारूहरिद्रा",
+          "voter_count": 0
+        },
+        {
+          "text": "अगरु",
+          "voter_count": 0
+        },
+        {
+          "text": "गुडहल",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 210",
+      "explanation_entities": null
+    },
+    {
+      "question": "English name of पलाश?",
+      "options": [
+        {
+          "text": "Fire flame Bush",
+          "voter_count": 1
+        },
+        {
+          "text": "Flame of the forest",
+          "voter_count": 0
+        },
+        {
+          "text": "Fire flame tree",
+          "voter_count": 0
+        },
+        {
+          "text": "Fire flame brush",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 210",
+      "explanation_entities": null
+    },
+    {
+      "question": "तृप्तिघ्न किस द्रव्य का कर्म है ?",
+      "options": [
+        {
+          "text": "शुंठी",
+          "voter_count": 0
+        },
+        {
+          "text": "पाटला",
+          "voter_count": 0
+        },
+        {
+          "text": "उशीर",
+          "voter_count": 0
+        },
+        {
+          "text": "तालीश",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 207",
+      "explanation_entities": null
+    },
+    {
+      "question": "किस द्रव्य के बीजतैल का प्रयोग किया जाता है ?",
+      "options": [
+        {
+          "text": "रसोन",
+          "voter_count": 1
+        },
+        {
+          "text": "कूष्माण्ड",
+          "voter_count": 0
+        },
+        {
+          "text": "एरण्ड",
+          "voter_count": 0
+        },
+        {
+          "text": "B&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 207",
+      "explanation_entities": null
+    },
+    {
+      "question": "Following plants comes under leguminaceae family except one .",
+      "options": [
+        {
+          "text": "पलाश",
+          "voter_count": 1
+        },
+        {
+          "text": "शरपुंखा",
+          "voter_count": 0
+        },
+        {
+          "text": "खदिर",
+          "voter_count": 0
+        },
+        {
+          "text": "अजमोदा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 209",
+      "explanation_entities": null
+    },
+    {
+      "question": "वरुण belongs to which plant family?",
+      "options": [
+        {
+          "text": "Capparidaceae",
+          "voter_count": 0
+        },
+        {
+          "text": "Flacourtiaceae",
+          "voter_count": 1
+        },
+        {
+          "text": "Malvaceae",
+          "voter_count": 0
+        },
+        {
+          "text": "Lauraceae",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 209",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"ग्राम्या\" किस द्रव्य का पर्याय हैं?",
+      "options": [
+        {
+          "text": "Ocimum sanctum",
+          "voter_count": 1
+        },
+        {
+          "text": "Myristica fragrans",
+          "voter_count": 0
+        },
+        {
+          "text": "Piper longum",
+          "voter_count": 0
+        },
+        {
+          "text": "Piper nigrum",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 208",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for botanical name of plant -\n1)Adhatoda Vasica =भिषंगमाता 2)Allium sativum = त्रिपुटा",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef-  gp 208 (२- is for रसोन)। त्रिपुटा is पर्याय of एला",
+      "explanation_entities": null
+    },
+    {
+      "question": "पुष्करमूल belongs to which family ?",
+      "options": [
+        {
+          "text": "Asclepiadaceae",
+          "voter_count": 0
+        },
+        {
+          "text": "Umblliferae",
+          "voter_count": 0
+        },
+        {
+          "text": "Compositae",
+          "voter_count": 0
+        },
+        {
+          "text": "Liliaceae",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 209",
+      "explanation_entities": null
+    },
+    {
+      "question": "Family of उशीर?",
+      "options": [
+        {
+          "text": "Cyperaceae",
+          "voter_count": 0
+        },
+        {
+          "text": "Umblliferae",
+          "voter_count": 0
+        },
+        {
+          "text": "Graminae",
+          "voter_count": 0
+        },
+        {
+          "text": "Pinaceae",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 210",
+      "explanation_entities": null
+    },
+    {
+      "question": "कुपीलू belongs to which plant family?",
+      "options": [
+        {
+          "text": "Symplocaceae",
+          "voter_count": 0
+        },
+        {
+          "text": "Malvaceae",
+          "voter_count": 0
+        },
+        {
+          "text": "Loganiaceae",
+          "voter_count": 0
+        },
+        {
+          "text": "Meliaceae",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 210",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements English name of plant\n1)Winter berry =अश्वगंधा  2)Thorn apple = कपिकच्छु",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- gp 210( २-Thorn apple = धत्तूर)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Useful part of दन्ती?",
+      "options": [
+        {
+          "text": "बीज",
+          "voter_count": 0
+        },
+        {
+          "text": "मूल",
+          "voter_count": 0
+        },
+        {
+          "text": "पत्र",
+          "voter_count": 1
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 207",
+      "explanation_entities": null
+    },
+    {
+      "question": "निर्गुण्डी का मुख्य कर्म?",
+      "options": [
+        {
+          "text": "दाह प्रशमन",
+          "voter_count": 0
+        },
+        {
+          "text": "हृद्य",
+          "voter_count": 0
+        },
+        {
+          "text": "वेदना स्थापन",
+          "voter_count": 0
+        },
+        {
+          "text": "शोथहर",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 207",
+      "explanation_entities": null
+    }
+  ]
+}

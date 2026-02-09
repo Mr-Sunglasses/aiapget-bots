@@ -1,0 +1,731 @@
+{
+  "file_name": "No. 49 Date : 19 September 2024  Topic : Itihash 2025",
+  "data": [
+    "Topic : Itihash 2025 @aiapgetmadeeasy",
+    {
+      "question": "Father of microbiology _",
+      "options": [
+        {
+          "text": "Andreas Vesalius",
+          "voter_count": 1
+        },
+        {
+          "text": "Antonie van Leeuwenhoek",
+          "voter_count": 0
+        },
+        {
+          "text": "Marcello Malpighi",
+          "voter_count": 0
+        },
+        {
+          "text": "Hippocrates",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 92",
+      "explanation_entities": null
+    },
+    {
+      "question": "National vitamin A treatment programme was started in India from_",
+      "options": [
+        {
+          "text": "1985",
+          "voter_count": 0
+        },
+        {
+          "text": "1971",
+          "voter_count": 1
+        },
+        {
+          "text": "1949",
+          "voter_count": 0
+        },
+        {
+          "text": "1970",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 94",
+      "explanation_entities": null
+    },
+    {
+      "question": "सर्पगंधा is named firstly in which samhita",
+      "options": [
+        {
+          "text": "Sushruta samhita",
+          "voter_count": 0
+        },
+        {
+          "text": "Charaka samhita",
+          "voter_count": 0
+        },
+        {
+          "text": "Bhela samhita",
+          "voter_count": 0
+        },
+        {
+          "text": "Harita samhita",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Page 231",
+      "explanation_entities": null
+    },
+    {
+      "question": "Author of षडदर्शन समुच्चय is",
+      "options": [
+        {
+          "text": "संजय पाटिल",
+          "voter_count": 0
+        },
+        {
+          "text": "श्री हरिभद्र सरि",
+          "voter_count": 1
+        },
+        {
+          "text": "लोलिम्बराज",
+          "voter_count": 0
+        },
+        {
+          "text": "द्वारकानाथ",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Pushkar gugglu is for_",
+      "options": [
+        {
+          "text": "IHD",
+          "voter_count": 0
+        },
+        {
+          "text": "Immunity",
+          "voter_count": 0
+        },
+        {
+          "text": "Psoriasis",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 91",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) सात्ययिक तंत्र शल्य तंत्र से संबंधित हैं। Statement 2) हिरण्याक्ष तंत्र कौमार भृत्य से संबंधित हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 86",
+      "explanation_entities": null
+    },
+    {
+      "question": "मधुकोष(प्रमेहसे आगे) टीका के लेखक",
+      "options": [
+        {
+          "text": "विजयरक्षित",
+          "voter_count": 0
+        },
+        {
+          "text": "नरसिंह",
+          "voter_count": 0
+        },
+        {
+          "text": "श्रीकंठदत्त",
+          "voter_count": 1
+        },
+        {
+          "text": "वाचस्पति",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Global itihas",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) परिहारवार्तिक के टीकाकार आषाढ वर्मा जी हैं। Statement 2) चरकोपस्कार के टीकाकार गयदास की हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "श्वित्र नाशक formulation developed by CCRAS?",
+      "options": [
+        {
+          "text": "Ayush 55",
+          "voter_count": 0
+        },
+        {
+          "text": "Ayush 54",
+          "voter_count": 1
+        },
+        {
+          "text": "Ayush 56",
+          "voter_count": 0
+        },
+        {
+          "text": "Ayush 57",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "National tuberculosis training institute is situated in _",
+      "options": [
+        {
+          "text": "Bangalore",
+          "voter_count": 0
+        },
+        {
+          "text": "Mumbai",
+          "voter_count": 1
+        },
+        {
+          "text": "New Delhi",
+          "voter_count": 0
+        },
+        {
+          "text": "Hyderabad",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 95",
+      "explanation_entities": null
+    },
+    {
+      "question": "यजुर्वेद का उपवेद_",
+      "options": [
+        {
+          "text": "धनुर्वेद",
+          "voter_count": 0
+        },
+        {
+          "text": "स्थापत्यवेद",
+          "voter_count": 1
+        },
+        {
+          "text": "गांधर्ववेद",
+          "voter_count": 0
+        },
+        {
+          "text": "आयुर्वेद",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 83",
+      "explanation_entities": null
+    },
+    {
+      "question": "शीर्षाम्बु व्याधि का वर्णन किस ग्रंथ में मिलता है ?",
+      "options": [
+        {
+          "text": "योगरत्नाकर",
+          "voter_count": 1
+        },
+        {
+          "text": "भावप्रकाश",
+          "voter_count": 0
+        },
+        {
+          "text": "भैषज्यरत्नावली",
+          "voter_count": 0
+        },
+        {
+          "text": "शरंगधर",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Global itihas",
+      "explanation_entities": null
+    },
+    {
+      "question": "Central drug laboratory is situated in_",
+      "options": [
+        {
+          "text": "Pune",
+          "voter_count": 1
+        },
+        {
+          "text": "New Delhi",
+          "voter_count": 0
+        },
+        {
+          "text": "Chennai",
+          "voter_count": 0
+        },
+        {
+          "text": "Kolkata",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 95",
+      "explanation_entities": null
+    },
+    {
+      "question": "Fill in the blanks \n\nआरोग्य सुधानिधि published in ______  सुधानिधि published in ____________",
+      "options": [
+        {
+          "text": "1907,1901",
+          "voter_count": 1
+        },
+        {
+          "text": "1907,1924",
+          "voter_count": 0
+        },
+        {
+          "text": "1901,1907",
+          "voter_count": 0
+        },
+        {
+          "text": "1901,1924",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "World visual day_",
+      "options": [
+        {
+          "text": "15th September",
+          "voter_count": 0
+        },
+        {
+          "text": "15th October",
+          "voter_count": 0
+        },
+        {
+          "text": "16th October",
+          "voter_count": 1
+        },
+        {
+          "text": "16th September",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 93",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक संहिता के प्रतिसंस्कर्ता कौन हैं?",
+      "options": [
+        {
+          "text": "पुनर्वसु आत्रेय",
+          "voter_count": 1
+        },
+        {
+          "text": "अग्निवेश",
+          "voter_count": 0
+        },
+        {
+          "text": "चरक",
+          "voter_count": 0
+        },
+        {
+          "text": "दृढ़बल",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "25. National programme for control of blindness",
+      "options": [
+        {
+          "text": "A. 2003-04",
+          "voter_count": 0
+        },
+        {
+          "text": "B. 2017",
+          "voter_count": 0
+        },
+        {
+          "text": "C. 1976",
+          "voter_count": 1
+        },
+        {
+          "text": "D. 1986",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Which committee is also known as \"Health survey and development committee\" ?",
+      "options": [
+        {
+          "text": "Bhore committee",
+          "voter_count": 1
+        },
+        {
+          "text": "Chopda committee",
+          "voter_count": 0
+        },
+        {
+          "text": "Pandit committee",
+          "voter_count": 0
+        },
+        {
+          "text": "Dave committee",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 91",
+      "explanation_entities": null
+    },
+    {
+      "question": "चिकित्सा दर्पण के लेखक_",
+      "options": [
+        {
+          "text": "दिवोदास",
+          "voter_count": 1
+        },
+        {
+          "text": "काशीराज",
+          "voter_count": 0
+        },
+        {
+          "text": "धन्वंतरि",
+          "voter_count": 0
+        },
+        {
+          "text": "वेदव्यास",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 89",
+      "explanation_entities": null
+    },
+    {
+      "question": "National leprosy control programme_",
+      "options": [
+        {
+          "text": "1962",
+          "voter_count": 0
+        },
+        {
+          "text": "1956",
+          "voter_count": 0
+        },
+        {
+          "text": "1955",
+          "voter_count": 0
+        },
+        {
+          "text": "1982",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 87",
+      "explanation_entities": null
+    },
+    {
+      "question": "Rule 157 of the drug and cosmetic act rules 1945 is related with _",
+      "options": [
+        {
+          "text": "GCP",
+          "voter_count": 0
+        },
+        {
+          "text": "GMP",
+          "voter_count": 0
+        },
+        {
+          "text": "Heavy metals within permissible limits",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 97",
+      "explanation_entities": null
+    },
+    {
+      "question": "संपूर्ण सुश्रुत संहिता पर आधारित टीका_",
+      "options": [
+        {
+          "text": "न्यायचंद्रिका",
+          "voter_count": 0
+        },
+        {
+          "text": "भानुमती",
+          "voter_count": 1
+        },
+        {
+          "text": "सुश्रुतसंदीपन",
+          "voter_count": 0
+        },
+        {
+          "text": "निबंधसंग्रह",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Global itihas",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) ऋग्वेद में कुल 67 औषधियों का वर्णन मिलता है । Statement 2) अथर्ववेद में 287 औषधियों का वर्णन मिलता हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "अथर्ववेद में 289 औषधियों का वर्णन मिलता हैं।",
+      "explanation_entities": null
+    },
+    {
+      "question": "सिद्धसार संहिता के लेखक_",
+      "options": [
+        {
+          "text": "भट्टार हरिश्चन्द्र",
+          "voter_count": 1
+        },
+        {
+          "text": "रविगुप्त",
+          "voter_count": 0
+        },
+        {
+          "text": "चन्द्रट",
+          "voter_count": 0
+        },
+        {
+          "text": "चक्रपणि दत्त",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 88",
+      "explanation_entities": null
+    },
+    {
+      "question": "सबसे प्राचीन संस्कृति कौन सी है ?",
+      "options": [
+        {
+          "text": "चिन संस्कृति",
+          "voter_count": 0
+        },
+        {
+          "text": "मिश्र संस्कृति",
+          "voter_count": 0
+        },
+        {
+          "text": "बाबुल संस्कृति",
+          "voter_count": 0
+        },
+        {
+          "text": "सुमेर संस्कृति",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Global itihas",
+      "explanation_entities": null
+    }
+  ]
+}

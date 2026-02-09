@@ -1,0 +1,17 @@
+[project]
+name = "quizlinkbot"
+version = "0.1.0"
+description = "Telegram bot that extracts quiz links from forwarded @QuizBot messages and sends them as a .txt file."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "python-telegram-bot>=21.0",
+  "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+quizlinkbot = "quizlinkbot.main:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"

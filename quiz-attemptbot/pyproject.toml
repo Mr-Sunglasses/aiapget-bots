@@ -1,0 +1,18 @@
+[project]
+name = "quizattemptbot"
+version = "0.1.0"
+description = "Telegram userbot that auto-attempts quiz polls by voting a random answer."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "pyrogram>=2.0",
+  "tgcrypto>=1.2",
+  "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+quizattemptbot = "quizattemptbot.main:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"

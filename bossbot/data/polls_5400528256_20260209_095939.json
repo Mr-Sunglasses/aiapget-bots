@@ -1,0 +1,818 @@
+{
+  "file_name": "No. 52 Date : 22 September 2024  Topic : su sha 7-9",
+  "data": [
+    "Topic : su sha 7-9 @aiapgetmadeeasy",
+    {
+      "question": "किस स्थिति में शिरावेध निषिद्ध है?",
+      "options": [
+        {
+          "text": "अनुवासन के बाद",
+          "voter_count": 0
+        },
+        {
+          "text": "पक्षाघात के रोगी में",
+          "voter_count": 0
+        },
+        {
+          "text": "श्वास के रोगी में",
+          "voter_count": 1
+        },
+        {
+          "text": "All",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 8",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत ने दुष्टवेध के कितने प्रकार बताए है ?",
+      "options": [
+        {
+          "text": "24",
+          "voter_count": 0
+        },
+        {
+          "text": "20",
+          "voter_count": 1
+        },
+        {
+          "text": "30",
+          "voter_count": 0
+        },
+        {
+          "text": "25",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.sha. 8/18",
+      "explanation_entities": null
+    },
+    {
+      "question": "विश्वाची नामक रोग मे किस व्याधी समान Blood Letting ( सिरावेध ) करना चाहिये ? ( सुश्रुत )",
+      "options": [
+        {
+          "text": "A) बाहूशोष",
+          "voter_count": 1
+        },
+        {
+          "text": "B) अवबाहुक",
+          "voter_count": 0
+        },
+        {
+          "text": "C) गृध्रसी",
+          "voter_count": 0
+        },
+        {
+          "text": "D) खंजता",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Correct Ans: C \nRef : सुश्रुत शारीर 08/16",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) अस्थियों के उप्पर कुठारिका नामक यंत्र से शिरावेध करना चाहिए । Statement 2) अथवा अस्थियों में यवमात्र प्रमाण में शिरावेध करना चाहिए।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 8/9",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for अकुपित R शिरा कार्य (सु)-\n1)भ्राजिष्णुतामन्नरुचिमग्निदीप्तिमरोगताम् 2)धातूनां पूरणं वर्णं स्पर्शज्ञानमसंशयम्",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nRef- su sha 7/11 & 15( stat १ for अकुपित P शिरा कार्य)",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत अनुसार शरीर में कुल धमनियों की संख्या ?",
+      "options": [
+        {
+          "text": "200",
+          "voter_count": 0
+        },
+        {
+          "text": "36",
+          "voter_count": 0
+        },
+        {
+          "text": "24",
+          "voter_count": 1
+        },
+        {
+          "text": "30",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Su.sha. 9/3",
+      "explanation_entities": null
+    },
+    {
+      "question": "शिरावेध के पूर्व किस प्रकार का अन्न दिया जाता है?",
+      "options": [
+        {
+          "text": "द्रव अन्न",
+          "voter_count": 0
+        },
+        {
+          "text": "रुक्ष",
+          "voter_count": 1
+        },
+        {
+          "text": "उष्णतीक्ष्ण",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 8/6",
+      "explanation_entities": null
+    },
+    {
+      "question": "अश्रुवहि धमनीयों की कुल संख्या ?",
+      "options": [
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "2",
+          "voter_count": 0
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "7",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.sha. 9/5",
+      "explanation_entities": null
+    },
+    {
+      "question": "शुक्र व आर्त्तव का विसर्ग करने वाली धमनियों की संख्या ?",
+      "options": [
+        {
+          "text": "1-1",
+          "voter_count": 0
+        },
+        {
+          "text": "2-2",
+          "voter_count": 0
+        },
+        {
+          "text": "3-3",
+          "voter_count": 0
+        },
+        {
+          "text": "7-7",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.sha. 9/7",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत अनुसार शरीर में कितने अवेध्य शिरायें होती है ?",
+      "options": [
+        {
+          "text": "102",
+          "voter_count": 1
+        },
+        {
+          "text": "90",
+          "voter_count": 0
+        },
+        {
+          "text": "98",
+          "voter_count": 0
+        },
+        {
+          "text": "92",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Su.sha. 7/22",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for  शिरावेध -\n1) शिरा वेध अभुक्तवन्त अवस्था में करते है 2) शिरा वेध के पश्चात् यवागू पान कराते है",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C \nRef- su sha 8/6( शिरा वेध से पूर्व =यथादोषप्रत्यनीकं द्रव्यप्रायमन्नं भुक्तवन्तं यवागूं पीतवन्तं)",
+      "explanation_entities": null
+    },
+    {
+      "question": "तृतीयक ज्वार में किस स्थान में शिरावेध करना चाहिए ?",
+      "options": [
+        {
+          "text": "त्रिक सन्धि के मध्य",
+          "voter_count": 0
+        },
+        {
+          "text": "स्कन्ध संधि के मध्य",
+          "voter_count": 0
+        },
+        {
+          "text": "वाम पार्श्व में कक्षा व स्तन के मध्य",
+          "voter_count": 0
+        },
+        {
+          "text": "दक्षिण पार्श्व में स्तन के नीचे",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 8/17",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) रसवह स्त्रोतस का मूल हृदय व रसवहि धमनियाँ है । Statement 2) इनके विद्ध होने पर प्यास लगती है और तत्काल मृत्यु होती है ।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 9",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for व्याधि में शिरावेध स्थान (सु)-\n1) उपदंश= मेद्रमध्ये 2) अपस्मार= शङ्खकेशान्त सन्धिगत",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans-B\nRef- su sha 8/16(च)(२-हनुसन्धिमध्यगतामपस्मारे)",
+      "explanation_entities": null
+    },
+    {
+      "question": "जिव्हा में कितनी शिराएँ पायी जाती है ?",
+      "options": [
+        {
+          "text": "38",
+          "voter_count": 1
+        },
+        {
+          "text": "24",
+          "voter_count": 0
+        },
+        {
+          "text": "10",
+          "voter_count": 0
+        },
+        {
+          "text": "36",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 7",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for स्थानानुसार शिरावेध -\n1)मांसलेष्ववकाशेषु = अर्ध यवमात्रं 2) अस्थियों के ऊपर वेध = यवमात्रम्",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C (vice versa is True)\nRef- su sha 8/9(१-यवमात्रं२- कुठारिकया से अर्धयवमात्रम्)",
+      "explanation_entities": null
+    },
+    {
+      "question": "पंगुता और वातवेदनाओं में जंघा में गुल्फ के कितने अंगुल ऊपर शिरावेध कराना चाहिए?",
+      "options": [
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "2",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 1
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Su.sha. 8/17",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for शिरा (सु)-\n1) संख्या= 900 2) दृष्टान्त=द्रुमपत्रसेवनीनामिव तासां प्रतानाः",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nRef- su sha 7/3(१-संख्या= 700)",
+      "explanation_entities": null
+    },
+    {
+      "question": "किस स्त्रोतस में आघात से रुजा का प्रादुर्भाव होता है ?",
+      "options": [
+        {
+          "text": "मांसवह",
+          "voter_count": 1
+        },
+        {
+          "text": "मेदोवह",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्तवह",
+          "voter_count": 0
+        },
+        {
+          "text": "सेवनी",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 9/12",
+      "explanation_entities": null
+    },
+    {
+      "question": "According To सुश्रुत , What's The मुल स्थान Of शुक्रवह स्त्रोतस ?",
+      "options": [
+        {
+          "text": "A) स्तन वृषण",
+          "voter_count": 0
+        },
+        {
+          "text": "B) स्तन मेढ्र",
+          "voter_count": 0
+        },
+        {
+          "text": "C) वृषण मेढ्र",
+          "voter_count": 0
+        },
+        {
+          "text": "D) बस्ती वृषण",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Correct Ans : A \nRef : सुश्रुत शारीर 09/11",
+      "explanation_entities": null
+    },
+    {
+      "question": "कास में किस स्थान पर शिरावेध करना चाहिए ?",
+      "options": [
+        {
+          "text": "दक्षिण बाहु में",
+          "voter_count": 1
+        },
+        {
+          "text": "वाम बाहु में",
+          "voter_count": 0
+        },
+        {
+          "text": "दक्षिण पार्श्व में",
+          "voter_count": 0
+        },
+        {
+          "text": "वाम पार्श्व में",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 8/17",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) पित्तवह शिरा पीत वर्ण की होती है । Statement 2) रक्तवह शिरा रोहिणी वर्ण की होती है ।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.sha. 7/19",
+      "explanation_entities": null
+    },
+    {
+      "question": "शल्यतंत्र का \"चिकित्सार्ध \" किसे कहा है ?",
+      "options": [
+        {
+          "text": "शिरावेध",
+          "voter_count": 0
+        },
+        {
+          "text": "वस्ति कर्म",
+          "voter_count": 0
+        },
+        {
+          "text": "मर्म ज्ञान",
+          "voter_count": 0
+        },
+        {
+          "text": "क्षार कर्म",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 8/23",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत अनुसार शाखाओ में पाए जाने वाली कुल वातवह शिराओं की संख्या?",
+      "options": [
+        {
+          "text": "25",
+          "voter_count": 0
+        },
+        {
+          "text": "50",
+          "voter_count": 1
+        },
+        {
+          "text": "100",
+          "voter_count": 0
+        },
+        {
+          "text": "80",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Su.sha. 7/7",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) हेमंत ऋतु में मध्याह्न में शिरवेध करना चाहिए। Statement 2) ग्रीष्म ऋतु में व्यभ्र काल में शिरावेध करना चाहिए ।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 8/10",
+      "explanation_entities": null
+    },
+    {
+      "question": "_____प्राणीनां प्राणाः प्राणान्नाभिर्व्युपाश्रिता।",
+      "options": [
+        {
+          "text": "अन्न",
+          "voter_count": 0
+        },
+        {
+          "text": "जल",
+          "voter_count": 0
+        },
+        {
+          "text": "हृदय",
+          "voter_count": 1
+        },
+        {
+          "text": "नाभि",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 7/5",
+      "explanation_entities": null
+    },
+    {
+      "question": "आचार्य सुश्रुत अनुसार स्त्रोतस नहीं माना गया है ?",
+      "options": [
+        {
+          "text": "अस्थिवह",
+          "voter_count": 0
+        },
+        {
+          "text": "मज्जावह",
+          "voter_count": 0
+        },
+        {
+          "text": "स्वेदवह",
+          "voter_count": 0
+        },
+        {
+          "text": "All",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 9",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements सु-\n1) मूल शिरा= 40 2) कोष्ठ में वातवह शिरा=34",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans-D\nRef- su sha 7/6-7",
+      "explanation_entities": null
+    }
+  ]
+}

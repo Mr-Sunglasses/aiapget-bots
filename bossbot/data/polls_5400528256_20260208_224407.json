@@ -1,0 +1,760 @@
+{
+  "file_name": "No. 8  Date : 08 August 2024  Topic : charak vaishishtya (GP 401- 413) संघर्ष 2025",
+  "data": [
+    "Topic : charak vaishishtya (GP 401- 413) संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": ".  चरक संहिता के प्रतिसंस्कर्ता कौन हैं?",
+      "options": [
+        {
+          "text": "महर्षि अग्निवेश",
+          "voter_count": 1
+        },
+        {
+          "text": "आचार्य चरक",
+          "voter_count": 0
+        },
+        {
+          "text": "आचार्य दृढ़बल",
+          "voter_count": 0
+        },
+        {
+          "text": "आत्रेय पुनर्वसु",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 401",
+      "explanation_entities": null
+    },
+    {
+      "question": ".  चरक संहिता में वर्तमान में कितने श्लोक उपलब्ध हैं?",
+      "options": [
+        {
+          "text": "12000",
+          "voter_count": 0
+        },
+        {
+          "text": "1949",
+          "voter_count": 0
+        },
+        {
+          "text": "9295",
+          "voter_count": 0
+        },
+        {
+          "text": "9498",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 401",
+      "explanation_entities": null
+    },
+    {
+      "question": ". वर्त्तिककार टीका का टीकाकार कौन है ?",
+      "options": [
+        {
+          "text": "शिवदास सेन",
+          "voter_count": 1
+        },
+        {
+          "text": "योगिन्द्रनाथ सेन",
+          "voter_count": 0
+        },
+        {
+          "text": "गंगाधर राय",
+          "voter_count": 0
+        },
+        {
+          "text": "क्षीर स्वामी दत्त",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 402",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार विशिष्ट रस की अभिव्यक्ति में कारण नहीं हैं_",
+      "options": [
+        {
+          "text": "पृथ्वी",
+          "voter_count": 0
+        },
+        {
+          "text": "वायु",
+          "voter_count": 0
+        },
+        {
+          "text": "आकाश",
+          "voter_count": 1
+        },
+        {
+          "text": "अग्नि",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 405",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) चरक ने रसांजन का प्रयोग पाँच या आठ रात्रि के अन्तराल पर करने का निर्देश दिया हैं।\nStatement 2) चरक ने धूमपान के लिए धूम्रवर्ति का परिणाम १२ अंगुल लम्बा बताया हैं। @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 406",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार उत्तम वैद्य के गुण व वृत्तियाँ कितने है क्रमशः? @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "4,6",
+          "voter_count": 0
+        },
+        {
+          "text": "5,6",
+          "voter_count": 1
+        },
+        {
+          "text": "6,4",
+          "voter_count": 0
+        },
+        {
+          "text": "6,5",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 407",
+      "explanation_entities": null
+    },
+    {
+      "question": "जिव्हा शक्ति का नाशक?",
+      "options": [
+        {
+          "text": "कटु रस",
+          "voter_count": 0
+        },
+        {
+          "text": "कषाय रस",
+          "voter_count": 0
+        },
+        {
+          "text": "अम्ल",
+          "voter_count": 1
+        },
+        {
+          "text": "तिक्त रस",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 411",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार \"भुक्तवा च स्वपतां दिवा\" किसके के संदर्भ में हैं?",
+      "options": [
+        {
+          "text": "प्रमेह का निदान",
+          "voter_count": 1
+        },
+        {
+          "text": "रक्तदुष्टी का निदान",
+          "voter_count": 0
+        },
+        {
+          "text": "मांसवहस्त्रोतो दुष्टी का कारण",
+          "voter_count": 0
+        },
+        {
+          "text": "मेदवहस्त्रोतो दुष्टी का कारण",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 410",
+      "explanation_entities": null
+    },
+    {
+      "question": "मधुर तिक्त रस सेवन किस धातु प्रदोषज विकार की चिकित्सा हैं ?",
+      "options": [
+        {
+          "text": "मज्जाप्रदोषज",
+          "voter_count": 0
+        },
+        {
+          "text": "अस्थिप्रदोषज",
+          "voter_count": 1
+        },
+        {
+          "text": "शुक्रप्रदोषज",
+          "voter_count": 0
+        },
+        {
+          "text": "मेदोज",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 411",
+      "explanation_entities": null
+    },
+    {
+      "question": "अवगाह मात्रा? (In मुहूर्त)\n\nभाव प्रकाश",
+      "options": [
+        {
+          "text": "1",
+          "voter_count": 0
+        },
+        {
+          "text": "2",
+          "voter_count": 0
+        },
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 408",
+      "explanation_entities": null
+    },
+    {
+      "question": "विषमज्वरघ्नी यवागू_",
+      "options": [
+        {
+          "text": "गव्यमांसरसैसाम्ला",
+          "voter_count": 0
+        },
+        {
+          "text": "समाषविदला",
+          "voter_count": 0
+        },
+        {
+          "text": "सिद्धावराहनिर्यूहे",
+          "voter_count": 1
+        },
+        {
+          "text": "गवेधुकानां भृष्टानां",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 405",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार अतृप्ति____ नानात्मज विकार है।",
+      "options": [
+        {
+          "text": "वातज",
+          "voter_count": 0
+        },
+        {
+          "text": "पैत्तिक",
+          "voter_count": 0
+        },
+        {
+          "text": "कफज",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 409",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार शिरोरोग में दूष्य हैं",
+      "options": [
+        {
+          "text": "रस",
+          "voter_count": 0
+        },
+        {
+          "text": "कफ",
+          "voter_count": 1
+        },
+        {
+          "text": "रक्त",
+          "voter_count": 0
+        },
+        {
+          "text": "वात",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 409",
+      "explanation_entities": null
+    },
+    {
+      "question": "गुल्म लक्षण मिलता है ___",
+      "options": [
+        {
+          "text": "मूत्र के वेगावरोध में",
+          "voter_count": 0
+        },
+        {
+          "text": "पुरीष के वेगावरोध में",
+          "voter_count": 1
+        },
+        {
+          "text": "क्ष्वथु के वेगावरोध में",
+          "voter_count": 0
+        },
+        {
+          "text": "निःश्वास के वेगावरोध में",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 407",
+      "explanation_entities": null
+    },
+    {
+      "question": "चरक अनुसार बल्य महाकषाय का द्रव्य हैं",
+      "options": [
+        {
+          "text": "स्थिरा",
+          "voter_count": 0
+        },
+        {
+          "text": "मूर्वा",
+          "voter_count": 0
+        },
+        {
+          "text": "वीरण",
+          "voter_count": 1
+        },
+        {
+          "text": "जीवक",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 406",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-b, 2-a, 3-d, 4-c",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-c, 2-a, 3-d, 4-b",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) 1-b, 2-c, 3-d, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-b, 2-d, 3-c, 4-a",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C\nGp pg 411",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for पित्तज शोथ लक्षण-\n1) क्षिप्रोत्थानप्रशमो भवति \n2) नक्तं प्रणश्यति  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef-P शोथ लक्षण- क्षिप्रोत्थानप्रशम, कपिलताम्ररोमा",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for दोषानुसार गुल्म के उपद्रव-\n1)प्लीहा, उदावर्त व व्रघ्न रोग = P गुल्म\n2)कास, श्वास, राजयक्ष्मा = K गुल्म  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- १ for V गुल्म (gp चरक वै०)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for गुणधर्म of द्रव्य अस पर चरक-\n1)मांसं =प्रीणयति\n2) शीधू = जर्जरीकरोति  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-मांसं बृहयति & शीधू - अवधमयति (लेखन)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) बृहण के योग्य ऋतु = शिशिर ऋतु\n2) लंघन के योग्य ऋतु= ग्रीष्म ऋतु  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- gp चरक वैशिष्ट्",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for आशयापकर्ष में दोष स्थिति-\n1) पित्तवृद्ध , कफसम व वातक्षीण\n2) पित्तसम ,कफक्षीण व वातवृद्ध  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- gp चरक वैशिष्ठ",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)संशमनार्थ स्नेह पान = प्रातःकाल अन्नकाल उपस्थित होने पर अर्थात (भूख लगने पर) \n2)संशोधनार्थ स्नेह पान =रात्रि का आहार पच जाने पर प्रातःकाल (भूख लगने की प्रतीक्षा नहीं करते हैं)   @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef-both are correct as per चरक",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) चरक अनुसार शरद ऋतु में उदमन्थ निषिद्ध हैं।\nStatement 2) चरक अनुसार वसंत ऋतु में रक्तमोक्षण व विरेचन निर्दिष्ट हैं। @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 407",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-a, 2-b, 3-c, 4-d",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-b, 2-d, 3-a, 4-c",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) 1-d, 2-b, 3-c, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-b, 2-d, 3-c, 4-a",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- Gp pg 409",
+      "explanation_entities": null
+    },
+    {
+      "question": "अत्युष्णकाल में दिन में स्नेहपान करने से निम्न रोग हो सकते हैं। @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "मूर्च्छा",
+          "voter_count": 0
+        },
+        {
+          "text": "आनाह",
+          "voter_count": 0
+        },
+        {
+          "text": "पाण्डु",
+          "voter_count": 1
+        },
+        {
+          "text": "A&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 408",
+      "explanation_entities": null
+    },
+    {
+      "question": "हर्षणानां_",
+      "options": [
+        {
+          "text": "विद्या",
+          "voter_count": 1
+        },
+        {
+          "text": "वीर्य",
+          "voter_count": 0
+        },
+        {
+          "text": "तत्वज्ञान",
+          "voter_count": 0
+        },
+        {
+          "text": "इन्द्रियजय",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 411",
+      "explanation_entities": null
+    }
+  ]
+}

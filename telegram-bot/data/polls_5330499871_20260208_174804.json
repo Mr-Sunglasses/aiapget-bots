@@ -1,0 +1,62 @@
+[
+  {
+    "title": "",
+    "question": "[25/28] @ame. प्रमेह पीडिका की चिकित्सा में \"धान्वन्तर घृत\" का प्रयोग किस आचार्य ने बताया हैं?",
+    "options": [
+      {
+        "text": "सुश्रुत",
+        "voter_count": 0
+      },
+      {
+        "text": "चरक",
+        "voter_count": 1
+      },
+      {
+        "text": "वाग्भट्ट",
+        "voter_count": 0
+      },
+      {
+        "text": "काश्यप",
+        "voter_count": 0
+      }
+    ],
+    "total_voter_count": 1,
+    "is_closed": true,
+    "is_anonymous": false,
+    "type": "quiz",
+    "allows_multiple_answers": false,
+    "correct_option_id": 0,
+    "explanation": "Gp pg 17",
+    "explanation_entities": []
+  },
+  {
+    "title": "",
+    "question": "[26/28] @ame. चरक अनुसार नाड़ी स्वेदनार्थ नाड़ी की लंबाई कितनी होनी चाहिये?",
+    "options": [
+      {
+        "text": "1 व्याम",
+        "voter_count": 0
+      },
+      {
+        "text": "1/2 व्याम",
+        "voter_count": 0
+      },
+      {
+        "text": "1.5 व्याम",
+        "voter_count": 1
+      },
+      {
+        "text": "2 व्याम",
+        "voter_count": 0
+      }
+    ],
+    "total_voter_count": 1,
+    "is_closed": true,
+    "is_anonymous": false,
+    "type": "quiz",
+    "allows_multiple_answers": false,
+    "correct_option_id": 0,
+    "explanation": "Gp pg 22",
+    "explanation_entities": []
+  }
+]

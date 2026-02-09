@@ -1,0 +1,818 @@
+{
+  "file_name": "No. 42 Date : 12 September 2024  Topic : sanskrit संघर्ष 2025",
+  "data": [
+    "Topic : sanskrit संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "संस्कृत में गण कितने होते हैं?",
+      "options": [
+        {
+          "text": "10",
+          "voter_count": 0
+        },
+        {
+          "text": "11",
+          "voter_count": 0
+        },
+        {
+          "text": "9",
+          "voter_count": 0
+        },
+        {
+          "text": "12",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Global Sanskrit",
+      "explanation_entities": null
+    },
+    {
+      "question": "पूर्व वर्ण अ, आ के बाद परवर्ण ए, ओ आने पर दोनों के जगह पर आदेश ऐ, औ होने पर कौनसी सन्धि होगी?",
+      "options": [
+        {
+          "text": "दीर्घ",
+          "voter_count": 0
+        },
+        {
+          "text": "गुण",
+          "voter_count": 0
+        },
+        {
+          "text": "वृद्धि",
+          "voter_count": 1
+        },
+        {
+          "text": "यण्",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "\"पठामि\" is",
+      "options": [
+        {
+          "text": "उत्तम पुरुष",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रथम पुरुष",
+          "voter_count": 0
+        },
+        {
+          "text": "मध्यम पुरुष",
+          "voter_count": 1
+        },
+        {
+          "text": "द्वितीय पुरुष",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "वर्ण के कितने उच्चारण स्थान बताये गये हैं?",
+      "options": [
+        {
+          "text": "7",
+          "voter_count": 0
+        },
+        {
+          "text": "6",
+          "voter_count": 1
+        },
+        {
+          "text": "8",
+          "voter_count": 0
+        },
+        {
+          "text": "9",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Global Sanskrit",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) प्रत्याहार=42 2) महेश्वर सूत्र=9+5",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans-D",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for स्वर \n1)दीर्घ स्वर = उच्चारण समय 2 मात्रा 2)प्लुत स्वर = उच्चारण समय 1 मात्रा",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- प्लुत स्वर = उच्चारण समय 3 मात्रा",
+      "explanation_entities": null
+    },
+    {
+      "question": "लघु सिद्धांत कौमुदी के ग्रंथकर्ता_",
+      "options": [
+        {
+          "text": "पाणिनी",
+          "voter_count": 0
+        },
+        {
+          "text": "पतंजली",
+          "voter_count": 1
+        },
+        {
+          "text": "कात्यायन",
+          "voter_count": 0
+        },
+        {
+          "text": "वरद्राज",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "इचुयशानां___",
+      "options": [
+        {
+          "text": "मूर्धा",
+          "voter_count": 0
+        },
+        {
+          "text": "दंतोंष्ठम्",
+          "voter_count": 1
+        },
+        {
+          "text": "कण्ठौष्ठम्",
+          "voter_count": 0
+        },
+        {
+          "text": "तालु",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "प्लुत स्वर के लिए उच्चारण समय",
+      "options": [
+        {
+          "text": "1 मात्रा",
+          "voter_count": 0
+        },
+        {
+          "text": "2 मात्रा",
+          "voter_count": 0
+        },
+        {
+          "text": "3 मात्रा",
+          "voter_count": 0
+        },
+        {
+          "text": "4 मात्रा",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Global Sanskrit",
+      "explanation_entities": null
+    },
+    {
+      "question": "हल् प्रत्याहार में कितने स्वर आते हैं?",
+      "options": [
+        {
+          "text": "9",
+          "voter_count": 0
+        },
+        {
+          "text": "33",
+          "voter_count": 0
+        },
+        {
+          "text": "23",
+          "voter_count": 1
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "हल् प्रत्याहार में 33 व्यंजन आते हैं। स्वर नहीं आते।",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for प्रयत्न -\n1) बाह्य प्रयत्न =8 2) अभ्यांतर प्रयत्न =11",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- (१-बाह्य प्रयत्न =8)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for उच्चारण स्थान-\n1) वर्ण उच्चारण स्थान =8 2) *वकारस्य* उच्चारण स्थान =कण्ठतालु",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef-2- वकारस्य दन्तोष्ठम्",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for प्रयत्न -\n1) बाह्य प्रयत्न =8 2) अभ्यांतर प्रयत्न =11",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C\nRef- (१-बाह्य प्रयत्न =11 &अभ्यांतर प्रयत्न =5 )",
+      "explanation_entities": null
+    },
+    {
+      "question": "ऐच् प्रत्याहार includes",
+      "options": [
+        {
+          "text": "ऐ, ओ",
+          "voter_count": 0
+        },
+        {
+          "text": "ऐ, ओ, च्",
+          "voter_count": 1
+        },
+        {
+          "text": "ऐ, औ,च्",
+          "voter_count": 0
+        },
+        {
+          "text": "ऐ, औ",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "नायक का सन्धि विच्छेद_",
+      "options": [
+        {
+          "text": "नै + अकः",
+          "voter_count": 0
+        },
+        {
+          "text": "न +अयकः",
+          "voter_count": 0
+        },
+        {
+          "text": "ना + यकः",
+          "voter_count": 1
+        },
+        {
+          "text": "नौ + अकः",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "अयादि सन्धि",
+      "explanation_entities": null
+    },
+    {
+      "question": "एच् प्रत्याहार में कितने वर्ण आते हैं?",
+      "options": [
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 1
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "\"हरेऽव\" में कौनसी सन्धि हैं?",
+      "options": [
+        {
+          "text": "पूर्वरूप",
+          "voter_count": 1
+        },
+        {
+          "text": "पररूप",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रकृतिभव",
+          "voter_count": 0
+        },
+        {
+          "text": "अयादि",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "\"स्वागतम्\" में _____ सन्धि हैं।",
+      "options": [
+        {
+          "text": "दीर्घ",
+          "voter_count": 0
+        },
+        {
+          "text": "गुण",
+          "voter_count": 0
+        },
+        {
+          "text": "वृद्धि",
+          "voter_count": 0
+        },
+        {
+          "text": "यण्",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) वर्ण के भेद=3 2) स्वर के भेद=2",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- (वर्ण 2प्रकार - स्वर एवं व्यंजन & स्वर =3 ह्रस्व दीर्घ प्लुत)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Sanskrit में कारक कितने होते हैं?",
+      "options": [
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 0
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "7",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "\"इत्यादि\" में कौनसा सन्धि हैं?",
+      "options": [
+        {
+          "text": "दीर्घ",
+          "voter_count": 0
+        },
+        {
+          "text": "गुण",
+          "voter_count": 1
+        },
+        {
+          "text": "वृद्धि",
+          "voter_count": 0
+        },
+        {
+          "text": "यण",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "लृट् लकार किस काल को सूचित करता हैं?",
+      "options": [
+        {
+          "text": "वर्तमान",
+          "voter_count": 0
+        },
+        {
+          "text": "भूतकाल",
+          "voter_count": 0
+        },
+        {
+          "text": "भविष्य काल",
+          "voter_count": 0
+        },
+        {
+          "text": "परोक्षभूतकाल",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "सच्चित् में कौन सी सन्धि हैं?",
+      "options": [
+        {
+          "text": "श्चुत्व",
+          "voter_count": 0
+        },
+        {
+          "text": "ष्टुत्व",
+          "voter_count": 1
+        },
+        {
+          "text": "जशत्व",
+          "voter_count": 0
+        },
+        {
+          "text": "तोर्लि",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "निम्न आभ्यंतर प्रयत्न में जिह्वा ; कण्ठ, तालु, मूर्धा, दंत आदि उच्चारण स्थानों को स्पर्श करती हैं।",
+      "options": [
+        {
+          "text": "स्पृष्ट",
+          "voter_count": 0
+        },
+        {
+          "text": "ईषत स्पृष्ट",
+          "voter_count": 1
+        },
+        {
+          "text": "विवृत",
+          "voter_count": 0
+        },
+        {
+          "text": "ईषत विवृत",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)अष्टाध्यायी = पाणिनी  2)सिद्धांत कौमुदी =वरद्राज",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- (२-भट्टोजी दीक्षित)",
+      "explanation_entities": null
+    },
+    {
+      "question": "इक् प्रत्याहार में _____ वर्ण आते हैं।",
+      "options": [
+        {
+          "text": "इ उ ण् ऋ लृ क्",
+          "voter_count": 0
+        },
+        {
+          "text": "इ उ ऋ लृ",
+          "voter_count": 0
+        },
+        {
+          "text": "इ उ ऋ लृ क्",
+          "voter_count": 1
+        },
+        {
+          "text": "इ उ ण् ऋ क्",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Sanskrit में लकार कितने होते हैं?",
+      "options": [
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 1
+        },
+        {
+          "text": "10",
+          "voter_count": 0
+        },
+        {
+          "text": "18",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) \"भ्\" का उच्चारण स्थान ओष्ठ हैं। Statement 2) \"ल्\" का उच्चारण स्थान तालु हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "\"ल्\" का उच्चारण स्थान दंत हैं।\nलृतुलसानां दन्ताः",
+      "explanation_entities": null
+    }
+  ]
+}

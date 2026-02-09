@@ -1,0 +1,789 @@
+{
+  "file_name": "No. 16 Date : 16 August 2024  Topic : madhav samhita(GP 321-325)  संघर्ष 2025",
+  "data": [
+    "Topic : madhav samhita(GP 321-325)  संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "1 वर्ष पुराना श्लीपद चिकित्सा में __ माना हैं",
+      "options": [
+        {
+          "text": "साध्य",
+          "voter_count": 0
+        },
+        {
+          "text": "याप्य",
+          "voter_count": 0
+        },
+        {
+          "text": "असाध्य",
+          "voter_count": 0
+        },
+        {
+          "text": "कृच्छ साध्य",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 322",
+      "explanation_entities": null
+    },
+    {
+      "question": "चर्मकील में दोष प्रधान? (माधव)",
+      "options": [
+        {
+          "text": "श्लेष्म व व्यान वायु",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्त व वायु",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्त व व्यान वायु",
+          "voter_count": 1
+        },
+        {
+          "text": "श्लेष्म व रक्त",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 324",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per माधवनिदान-\n1)वरटीदष्ट संस्थान:= उदर्द लक्षण \n2)कर्कन्धुकोलामलक प्रमाणैः चिरमन्दपाकैः = अपची   @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- gp 322 ( २- गलगण्ड लक्षण)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for सन्निपातज शूल( माoनिo)-\n1)दुर्विज्ञेयो, दुश्चिकित्स्या चिरकालानुबन्धिनी 2)सुकष्टमेनं विषवज्रकल्पं",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- Gp325(१- stat is for ग्रहणी)",
+      "explanation_entities": null
+    },
+    {
+      "question": "माधव निदान अनुसार क्षुद्र रोग की संख्या?",
+      "options": [
+        {
+          "text": "32",
+          "voter_count": 0
+        },
+        {
+          "text": "36",
+          "voter_count": 0
+        },
+        {
+          "text": "44",
+          "voter_count": 1
+        },
+        {
+          "text": "43",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 323",
+      "explanation_entities": null
+    },
+    {
+      "question": "माधवकर ने निम्न लक्षण आमवात के माने है एक को छोड़ कर_",
+      "options": [
+        {
+          "text": "अंगमर्द",
+          "voter_count": 0
+        },
+        {
+          "text": "ग्लानि",
+          "voter_count": 1
+        },
+        {
+          "text": "तृष्णा",
+          "voter_count": 0
+        },
+        {
+          "text": "शुनता अंगानां",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 325",
+      "explanation_entities": null
+    },
+    {
+      "question": "मधुकोष टीका के टीकाकार कौन है?",
+      "options": [
+        {
+          "text": "विजय रक्षित",
+          "voter_count": 0
+        },
+        {
+          "text": "श्री कंठ दत्त",
+          "voter_count": 0
+        },
+        {
+          "text": "Both A&B",
+          "voter_count": 1
+        },
+        {
+          "text": "सुदर्शन शास्त्री",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 321",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per माoनिo-\n1) मसूरिका के 5 भेद बताये और रक्तज् मसूरिका को चर्मदल कहा\n2) मसूरिका के उपद्रव स्वरूप कर्पूर मणिबन्ध व अंसफलक पर दारुण शोथ की उत्पत्ति बताई  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 0,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- Gp 322-323(१-त्रिदोषज मसूरिका को चर्मदल कहा)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) भोजन के परिपाक काल में शूल बढ़ जाना अन्नद्रव शूल का लक्षण हैं। Statement 2) परिणामशूल में वमन से पित्त का निर्हरण हो जाने पर शूल शान्त हो जाता हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 325",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"वराहस्नेहमांसाम्बु सदृशं\" किस व्याधि का लक्षण हैं?",
+      "options": [
+        {
+          "text": "पित्तज अतिसार",
+          "voter_count": 0
+        },
+        {
+          "text": "त्रिदोषज अतिसार",
+          "voter_count": 0
+        },
+        {
+          "text": "आमज अतिसार",
+          "voter_count": 0
+        },
+        {
+          "text": "शोकज अतिसार",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 323",
+      "explanation_entities": null
+    },
+    {
+      "question": "सर्वांग सुंदरी के टीकाकार?",
+      "options": [
+        {
+          "text": "अरुणदत्त",
+          "voter_count": 1
+        },
+        {
+          "text": "आचार्य ब्रह्मानन्द",
+          "voter_count": 0
+        },
+        {
+          "text": "लाल चन्द वैध",
+          "voter_count": 0
+        },
+        {
+          "text": "श्री कंठ दत्त",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 321",
+      "explanation_entities": null
+    },
+    {
+      "question": "माधवकर अनुसार \"दुर्विज्ञेयो, दुश्चिकित्स्या, चिरकालानुबन्धिनी\" किस व्याधि के संदर्भ में है ?",
+      "options": [
+        {
+          "text": "अर्श",
+          "voter_count": 0
+        },
+        {
+          "text": "अतिसार",
+          "voter_count": 0
+        },
+        {
+          "text": "उदररोग",
+          "voter_count": 1
+        },
+        {
+          "text": "ग्रहणी",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 324",
+      "explanation_entities": null
+    },
+    {
+      "question": "बिम्बी ख़र्ज़ूर कर्कन्धु कार्पासीफल सन्निभा\" किस व्याधि का लक्षण हैं?",
+      "options": [
+        {
+          "text": "वातज अर्श",
+          "voter_count": 0
+        },
+        {
+          "text": "वातज अश्मरी",
+          "voter_count": 1
+        },
+        {
+          "text": "वातज मसूरिका",
+          "voter_count": 0
+        },
+        {
+          "text": "वातज विसर्प",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 324",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements माoनिo-\n1) प्रवहिका का सन्निपातज भेद नहीं बताया \n2) अम्ल पित्त का पित्तज भेद नहीं बताया   @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D)Both correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- Gp 322-323",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per माoनिo-\n1)भेकाभः हीन वर्ण बलोत्साहो हतोजा= रक्तार्श लक्षण  2)कार्पासीफल सन्निभाः= पित्तार्श लक्षण",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef-Gp 324( २-कार्पासीफल सन्निभाः= वातार्श लक्षण )",
+      "explanation_entities": null
+    },
+    {
+      "question": "रोमान्तिका में दोष प्राधान्य?",
+      "options": [
+        {
+          "text": "वात व कफ",
+          "voter_count": 1
+        },
+        {
+          "text": "कफ व पित्त",
+          "voter_count": 0
+        },
+        {
+          "text": "वात व पित्त",
+          "voter_count": 0
+        },
+        {
+          "text": "त्रिदोष",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 323",
+      "explanation_entities": null
+    },
+    {
+      "question": "माधव निदान अनुसार \"कृष्णस्फोटवत\" किस व्याधि का लक्षण हैं?",
+      "options": [
+        {
+          "text": "वातज वृद्धि",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्तज वृद्धि",
+          "voter_count": 0
+        },
+        {
+          "text": "मेदोज वृद्धि",
+          "voter_count": 1
+        },
+        {
+          "text": "वातज अर्बुद",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 322",
+      "explanation_entities": null
+    },
+    {
+      "question": "क्षणे दाहः क्षणे शीतं अस्थि सन्धि शिरोरूजा\" किस व्याधि का लक्षण हैं?",
+      "options": [
+        {
+          "text": "श्लेष्म पैत्तिक ज्वर लक्षण",
+          "voter_count": 0
+        },
+        {
+          "text": "वात पैत्तिक ज्वर लक्षण",
+          "voter_count": 0
+        },
+        {
+          "text": "श्लेष्म वातिक ज्वर लक्षण",
+          "voter_count": 0
+        },
+        {
+          "text": "सम सन्निपातिक ज्वर लक्षण",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 323",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) नासिका अर्बुद=7, नासाशोथ=4 Statement 2) नासार्श=4, नासागत रक्तपित्त=4",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 323",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"नीलपुष्प प्रतिकाशं\" किस योनि व्यापद का लक्षण हैं?",
+      "options": [
+        {
+          "text": "वातज",
+          "voter_count": 1
+        },
+        {
+          "text": "पैत्तिक",
+          "voter_count": 0
+        },
+        {
+          "text": "श्लैष्मिक",
+          "voter_count": 0
+        },
+        {
+          "text": "सन्निपातिक",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 323",
+      "explanation_entities": null
+    },
+    {
+      "question": "उदर्द रोग प्रायः किस ऋतु में होता हैं?",
+      "options": [
+        {
+          "text": "शरद",
+          "voter_count": 0
+        },
+        {
+          "text": "हेमन्त",
+          "voter_count": 0
+        },
+        {
+          "text": "वसन्त",
+          "voter_count": 0
+        },
+        {
+          "text": "शिशिर",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 322",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for आमजअतिसार लक्षण ( माoनिo)-\n1) वराहस्नेहमांसाम्बु सदृशं\n2)काकणन्ती प्रकाशम्  @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef- GP 323(१- त्रिदोषज अतिसार २- शोकाज अतिसार लक्षण )",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-c, 2-d, 3-b, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-d, 2-c, 3-b, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-c, 2-a, 3-b, 4-d",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-a, 2-c, 3-b, 4-d",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nGp pg 322",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"मधुवर्णाऽथवा\" किस व्याधि का लक्षण है ?",
+      "options": [
+        {
+          "text": "वातज अश्मरी",
+          "voter_count": 0
+        },
+        {
+          "text": "पित्तज अश्मरी",
+          "voter_count": 0
+        },
+        {
+          "text": "कफज अश्मरी",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्तज अश्मरी",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 325",
+      "explanation_entities": null
+    },
+    {
+      "question": "माधव निदान में सन्निपातिक मूर्च्छा के लक्षण किस व्याधि के समान बताये हैं?",
+      "options": [
+        {
+          "text": "सन्यास",
+          "voter_count": 0
+        },
+        {
+          "text": "मदात्यय",
+          "voter_count": 0
+        },
+        {
+          "text": "अपस्मार",
+          "voter_count": 1
+        },
+        {
+          "text": "उन्माद",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 324",
+      "explanation_entities": null
+    },
+    {
+      "question": "\" दंतादिना मलाढयत्व \" माधव निदान के अनुसार कौनसे व्याधि का पूर्वरुप है?",
+      "options": [
+        {
+          "text": "प्रमेह",
+          "voter_count": 1
+        },
+        {
+          "text": "कामला",
+          "voter_count": 0
+        },
+        {
+          "text": "ग्रहणी",
+          "voter_count": 0
+        },
+        {
+          "text": "मुखरोग",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) माधवकर ने मसूरिका के 5 भेद बताये हैं। Statement 2) माधवकर ने पित्तज मसूरिका को चर्मदल भी कहा हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 322",
+      "explanation_entities": null
+    }
+  ]
+}

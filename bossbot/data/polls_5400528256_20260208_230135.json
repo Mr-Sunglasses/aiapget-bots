@@ -1,0 +1,760 @@
+{
+  "file_name": "No. 22 Date : 22 August 2024  Topic : Padarth Vijnana ( GP 132-138)  संघर्ष 2025",
+  "data": [
+    "Topic : Padarth Vijnana ( GP 132-138)  संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "गुणों में परिवर्तन यथा दूध से दधी बन जाना किसका उदाहरण हैं?",
+      "options": [
+        {
+          "text": "धर्म परिणाम",
+          "voter_count": 0
+        },
+        {
+          "text": "लक्ष्य परिणाम",
+          "voter_count": 0
+        },
+        {
+          "text": "लक्षण परिणाम",
+          "voter_count": 0
+        },
+        {
+          "text": "B&C",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 137",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for तर्क-\n1) तर्क के उद्देश्य=5 2) तर्क के भेद =3",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef-gp 135",
+      "explanation_entities": null
+    },
+    {
+      "question": "अनुक्त विषय का अनुषंग द्वारा ज्ञान प्राप्त करना ___ हैं।",
+      "options": [
+        {
+          "text": "तंत्रयुक्ति",
+          "voter_count": 1
+        },
+        {
+          "text": "अर्थाश्रय",
+          "voter_count": 0
+        },
+        {
+          "text": "ताच्छील्य",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 138",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for \n1) वाक्यार्थबोधन वृत्तीय भेद=4 2) वाक्य बनता है =आकांक्षा योग्यता सन्निधि के संयोग से",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- gp 135",
+      "explanation_entities": null
+    },
+    {
+      "question": "नेत्र का घट के रूप से _",
+      "options": [
+        {
+          "text": "संयुक्त समवाये हैं",
+          "voter_count": 0
+        },
+        {
+          "text": "संयुक्त समवेत समवाय हैं",
+          "voter_count": 0
+        },
+        {
+          "text": "समवेत समवाये हैं",
+          "voter_count": 0
+        },
+        {
+          "text": "संयोग हैं",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 133",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) अरुणदत्त- कल्पनाएं=6 2) ताच्छील=17",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef-gp 138(अरुणदत्त- कल्पनाएं=7)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) तर्क के 3 भेद बताये हैं। Statement 2) तर्क के 5 उद्देश्य हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 135",
+      "explanation_entities": null
+    },
+    {
+      "question": "बुद्धि का प्रत्यात्म लक्षण?",
+      "options": [
+        {
+          "text": "संकल्प",
+          "voter_count": 0
+        },
+        {
+          "text": "अध्यवसाय",
+          "voter_count": 0
+        },
+        {
+          "text": "व्यवसाय",
+          "voter_count": 0
+        },
+        {
+          "text": "वृत्ति",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 132",
+      "explanation_entities": null
+    },
+    {
+      "question": "क्षणभंगुरवाद के समर्थक_",
+      "options": [
+        {
+          "text": "आयुर्वेद",
+          "voter_count": 0
+        },
+        {
+          "text": "बौद्धदर्शन",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        },
+        {
+          "text": "जैन दर्शन",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 137",
+      "explanation_entities": null
+    },
+    {
+      "question": "पीलूपाक किस दर्शन ने माना हैं?",
+      "options": [
+        {
+          "text": "संख्या दर्शन",
+          "voter_count": 0
+        },
+        {
+          "text": "न्याय दर्शन",
+          "voter_count": 0
+        },
+        {
+          "text": "बौद्धदर्शन",
+          "voter_count": 1
+        },
+        {
+          "text": "वैशेषिक दर्शन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 137",
+      "explanation_entities": null
+    },
+    {
+      "question": "[Q]चरक व सुश्रुतानुसार तंत्र युक्ति संख्या है",
+      "options": [
+        {
+          "text": "(c)32, 36",
+          "voter_count": 0
+        },
+        {
+          "text": "(a)36, 40",
+          "voter_count": 0
+        },
+        {
+          "text": "(b)32, 40",
+          "voter_count": 1
+        },
+        {
+          "text": "(d)36, 32",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans D",
+      "explanation_entities": null
+    },
+    {
+      "question": "दोष दुष्य संयोग__",
+      "options": [
+        {
+          "text": "समवायी कारण",
+          "voter_count": 0
+        },
+        {
+          "text": "असमवायी कारण",
+          "voter_count": 0
+        },
+        {
+          "text": "निमित्त कारण",
+          "voter_count": 0
+        },
+        {
+          "text": "उत्पत्ति कारण",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 137",
+      "explanation_entities": null
+    },
+    {
+      "question": "न्याय दर्शन के अनुसार अनुमान के भेद?",
+      "options": [
+        {
+          "text": "2",
+          "voter_count": 0
+        },
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 134",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per च-\n1) तंत्र के गुण =18 2) उत्तम शास्त्र के लक्षण =18",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- gp 135 & 138",
+      "explanation_entities": null
+    },
+    {
+      "question": "व्याप्तिविशिष्टपक्षधर्मता ज्ञानम__",
+      "options": [
+        {
+          "text": "व्याप्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "व्यापक",
+          "voter_count": 0
+        },
+        {
+          "text": "पक्षधर्माता",
+          "voter_count": 0
+        },
+        {
+          "text": "परामर्श",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 133",
+      "explanation_entities": null
+    },
+    {
+      "question": "निम्न में से एक अरुणदत्त अनुसार कल्पना नहीं हैं।",
+      "options": [
+        {
+          "text": "गुण कल्पना",
+          "voter_count": 1
+        },
+        {
+          "text": "लेश कल्पना",
+          "voter_count": 0
+        },
+        {
+          "text": "तर्क कल्पना",
+          "voter_count": 0
+        },
+        {
+          "text": "भक्ष्य कल्पना",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 138",
+      "explanation_entities": null
+    },
+    {
+      "question": "तंत्र दोष नहीं हैं_",
+      "options": [
+        {
+          "text": "न्यून",
+          "voter_count": 1
+        },
+        {
+          "text": "अधिक",
+          "voter_count": 0
+        },
+        {
+          "text": "अनृत",
+          "voter_count": 0
+        },
+        {
+          "text": "विरुद्ध",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 138",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) अरुण दत्त ने 15 तंत्र दोष बताये हैं। Statement 2) चरक ने 5 तंत्र दोष बताये हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "138",
+      "explanation_entities": null
+    },
+    {
+      "question": "उत्तम शास्त्र के लक्षण_",
+      "options": [
+        {
+          "text": "12",
+          "voter_count": 1
+        },
+        {
+          "text": "11",
+          "voter_count": 0
+        },
+        {
+          "text": "18",
+          "voter_count": 0
+        },
+        {
+          "text": "17",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "135",
+      "explanation_entities": null
+    },
+    {
+      "question": "निश्चितसाध्य अभाववान__",
+      "options": [
+        {
+          "text": "पक्ष",
+          "voter_count": 0
+        },
+        {
+          "text": "सपक्ष",
+          "voter_count": 1
+        },
+        {
+          "text": "पक्षधर्माता",
+          "voter_count": 0
+        },
+        {
+          "text": "विपक्ष",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 134",
+      "explanation_entities": null
+    },
+    {
+      "question": "प्रमाण क्या हैं?",
+      "options": [
+        {
+          "text": "ताच्छील्य",
+          "voter_count": 1
+        },
+        {
+          "text": "अर्थाश्रय",
+          "voter_count": 0
+        },
+        {
+          "text": "Both A&B",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 138",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) न्याय दर्शन इन्द्रियो को अहंकारिक मानते हैं। Statement 2) आयुर्वेद इन्द्रियो को भौतिक मानते हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 132",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for  अन्तः करणो के प्रत्यात्म लक्षण-\n1)मन - संकल्प 2)बुद्धि =व्यवसाय",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- gp 132(बुद्धि = अध्यवसाय)",
+      "explanation_entities": null
+    },
+    {
+      "question": "अनुपलब्धि, अभाव, चेष्टा का समावेश किस प्रमाण में किया हैं?",
+      "options": [
+        {
+          "text": "अनुमान",
+          "voter_count": 0
+        },
+        {
+          "text": "आप्तोपदेश",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रत्यक्ष",
+          "voter_count": 1
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 132",
+      "explanation_entities": null
+    },
+    {
+      "question": "त्रिविध प्रमाण किस दर्शन ने माना हैं?",
+      "options": [
+        {
+          "text": "वैशेषिक",
+          "voter_count": 0
+        },
+        {
+          "text": "संख्या",
+          "voter_count": 0
+        },
+        {
+          "text": "जैन",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 132",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1) क्षणभंगुर वाद= जैन दर्शन  2) पीलू पाक = न्याय दर्शन",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef- gp 137(१-क्षणभंगुर वाद=  बौद्ध २-पीलू पाक =वैशेषिक दर्शन",
+      "explanation_entities": null
+    }
+  ]
+}

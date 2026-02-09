@@ -1,0 +1,64 @@
+{
+  "file_name": "No. 31 Date : 31 August 2024  Topic : DG ( GP 207- 210)  संघर्ष 2025",
+  "data": [
+    "Topic : DG ( GP 207- 210)  संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "Q- Find the correct statements for मुख्यकर्म of plant-\n1) मरिच= कास हर  2) पिप्पली= दीपन",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 0,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef-gp 208",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"ग्राम्या\" किस द्रव्य का पर्याय हैं?",
+      "options": [
+        {
+          "text": "Ocimum sanctum",
+          "voter_count": 0
+        },
+        {
+          "text": "Myristica fragrans",
+          "voter_count": 0
+        },
+        {
+          "text": "Piper longum",
+          "voter_count": 0
+        },
+        {
+          "text": "Piper nigrum",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 0,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 208",
+      "explanation_entities": null
+    }
+  ]
+}

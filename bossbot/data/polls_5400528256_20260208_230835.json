@@ -1,0 +1,789 @@
+{
+  "file_name": "No. 27 Date : 27 August 2024  Topic : sharangdhar ( GP 280- 289)  संघर्ष 2025",
+  "data": [
+    "Topic : sharangdhar ( GP 280- 289)  संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "सोष्ण व वेगवती नाड़ी किस व्याधि में मिलती हैं?",
+      "options": [
+        {
+          "text": "ज्वर",
+          "voter_count": 0
+        },
+        {
+          "text": "क्रोध",
+          "voter_count": 0
+        },
+        {
+          "text": "दीप्ताग्नि",
+          "voter_count": 0
+        },
+        {
+          "text": "मन्दाग्नि",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 281",
+      "explanation_entities": null
+    },
+    {
+      "question": "शारंगधर अनुसार शुक्र का स्वरूप नहीं हैं।",
+      "options": [
+        {
+          "text": "स्फटिकाभं",
+          "voter_count": 0
+        },
+        {
+          "text": "लाजागन्धि",
+          "voter_count": 0
+        },
+        {
+          "text": "स्निग्ध",
+          "voter_count": 0
+        },
+        {
+          "text": "मधुर",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 282",
+      "explanation_entities": null
+    },
+    {
+      "question": "वमन विरेचन हेतु औषध ग्रहण कब करना चाहिए?",
+      "options": [
+        {
+          "text": "शरद ऋतु में",
+          "voter_count": 0
+        },
+        {
+          "text": "वसन्त ऋतु में",
+          "voter_count": 0
+        },
+        {
+          "text": "वसन्त ऋतु के अंत में",
+          "voter_count": 1
+        },
+        {
+          "text": "A&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 280",
+      "explanation_entities": null
+    },
+    {
+      "question": "शारंगधर अनुसार सूतिका काल?",
+      "options": [
+        {
+          "text": "1 1/2 माह",
+          "voter_count": 0
+        },
+        {
+          "text": "पुनर्रातव दर्शन तक",
+          "voter_count": 0
+        },
+        {
+          "text": "4 माह",
+          "voter_count": 1
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 283",
+      "explanation_entities": null
+    },
+    {
+      "question": "फलत्रिकादिक्वाथ का घटक द्रव्य नहीं हैं।",
+      "options": [
+        {
+          "text": "त्रिफला",
+          "voter_count": 0
+        },
+        {
+          "text": "दारूहरिद्रा",
+          "voter_count": 0
+        },
+        {
+          "text": "देवदारू",
+          "voter_count": 1
+        },
+        {
+          "text": "मोथा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 289",
+      "explanation_entities": null
+    },
+    {
+      "question": "ऊर्ध्वजत्रुगत विकारों में औषध सेवन काल_",
+      "options": [
+        {
+          "text": "प्रातःकाल",
+          "voter_count": 0
+        },
+        {
+          "text": "सांयकाल",
+          "voter_count": 0
+        },
+        {
+          "text": "भुक्तान्ते",
+          "voter_count": 1
+        },
+        {
+          "text": "रात्रि",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 281",
+      "explanation_entities": null
+    },
+    {
+      "question": "फूफ्फुस को _____ का आधार माना हैं।",
+      "options": [
+        {
+          "text": "प्राणवायु",
+          "voter_count": 1
+        },
+        {
+          "text": "व्यानवायु",
+          "voter_count": 0
+        },
+        {
+          "text": "उदानवायु",
+          "voter_count": 0
+        },
+        {
+          "text": "समानवायु",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 283",
+      "explanation_entities": null
+    },
+    {
+      "question": "व्रणशोफ के सात उपक्रम में प्रथम उपक्रम कौनसा हैं?",
+      "options": [
+        {
+          "text": "परिषेचन",
+          "voter_count": 0
+        },
+        {
+          "text": "विम्लापन",
+          "voter_count": 0
+        },
+        {
+          "text": "शोथहर लेप",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 286",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements शाo-\n1)कर्णपूरणे में रस आदि द्रव पदार्थ = प्रातःकाल भोजन से पूर्व भरते है 2)शिरोवस्ति का प्रयोग =सांय काल भोजन करा कर करते है",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- gp 286(शिरोवस्ति का प्रयोग प्रातः काल बिना भोजन किये)",
+      "explanation_entities": null
+    },
+    {
+      "question": "वचा तैल का प्रयोग_",
+      "options": [
+        {
+          "text": "रोमशातन में",
+          "voter_count": 0
+        },
+        {
+          "text": "नासार्श में",
+          "voter_count": 1
+        },
+        {
+          "text": "कर्णशूल में",
+          "voter_count": 0
+        },
+        {
+          "text": "गण्डमाला में",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 288",
+      "explanation_entities": null
+    },
+    {
+      "question": "विडंगारिष्ट का प्रयोग निम्न में से किस व्याधि में किया जाता हैं?",
+      "options": [
+        {
+          "text": "विद्रधि",
+          "voter_count": 0
+        },
+        {
+          "text": "अश्मरी",
+          "voter_count": 1
+        },
+        {
+          "text": "प्रमेह",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 289",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) कर्णपूरण में रस आदि द्रव पदार्थ सूर्यास्त होने पर भरना चाहिये। Statement 2) एवं तैल आदि प्रातःकाल भोजन से पूर्व भरना चाहिये।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 286",
+      "explanation_entities": null
+    },
+    {
+      "question": "शारंगधर अनुसार नस्य प्रयोग करने योग्य आयु?",
+      "options": [
+        {
+          "text": "5 वे वर्ष के पश्चात",
+          "voter_count": 1
+        },
+        {
+          "text": "8 वे वर्ष के पश्चात",
+          "voter_count": 0
+        },
+        {
+          "text": "4 वे वर्ष के पश्चात",
+          "voter_count": 0
+        },
+        {
+          "text": "जन्म से",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 284",
+      "explanation_entities": null
+    },
+    {
+      "question": "र.सार. संग्रह के अनुसार चन्द्रप्रभावटी का प्रयोग किस व्याधि में हैं?",
+      "options": [
+        {
+          "text": "प्रमेह",
+          "voter_count": 0
+        },
+        {
+          "text": "ग्रहणी",
+          "voter_count": 0
+        },
+        {
+          "text": "अर्श",
+          "voter_count": 1
+        },
+        {
+          "text": "गुल्म",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 288",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements शाo-\n1)सन्धिबन्धनकारिण्यो = स्नायु  2)मॉस,अस्थि व संधियों का बन्धक = सिरा का कार्य",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- gp 283-284",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) अजमोदादि चूर्ण का प्रयोग अतिसार रोग में बताया गया है। Statement 2) व्योषदि वटी का प्रयोग पीनस रोग में बताया हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 287",
+      "explanation_entities": null
+    },
+    {
+      "question": "विडंगारिष्ट का प्रयोग निम्न में से किस व्याधि में किया जाता हैं?",
+      "options": [
+        {
+          "text": "विद्रधि",
+          "voter_count": 0
+        },
+        {
+          "text": "अश्मरी",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रमेह",
+          "voter_count": 1
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 289",
+      "explanation_entities": null
+    },
+    {
+      "question": "सर्प दंश में संजीवनी वटी की मात्रा",
+      "options": [
+        {
+          "text": "1-1 वटी",
+          "voter_count": 1
+        },
+        {
+          "text": "2 वटी",
+          "voter_count": 0
+        },
+        {
+          "text": "3 वटी",
+          "voter_count": 0
+        },
+        {
+          "text": "4 वटी",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 288",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for रोगाधिकार (शाo)-\n1)कुटजारिष्ट = ज्वर 2)कुमार्यासव = उदररोग",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- gp 288",
+      "explanation_entities": null
+    },
+    {
+      "question": "लघुगंगाधर चूर्ण का प्रयोग किस व्याधि में बताया गया हैं?",
+      "options": [
+        {
+          "text": "अतिसार",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रवाहिका",
+          "voter_count": 1
+        },
+        {
+          "text": "ग्रहणी",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 287",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements शाo-\n1) मंथ को फान्ट का भेद बताया 2) क्वाथ निर्माण में पात्र का मुख बंद  रहना चाहिए अन्यथा वह क्वाथ दुर्जर हो जाता है",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nREF-GP 287(क्वाथ निर्माण में पात्र का *मुख खुला* रहना चाहिए अन्यथा वह क्वाथ दुर्जर हो)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements -\n1)कवल प्रयोग = 5 वे वर्ष के पश्चात 2) विरेचन प्रयोग =20 वर्ष के पश्चात",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- gp 284(विरेचन प्रयोग =16 वर्ष के पश्चात)",
+      "explanation_entities": null
+    },
+    {
+      "question": "अगर दूत सजीव दिशा में बैठे तो रोग की साध्यसाध्यता क्या होगी?",
+      "options": [
+        {
+          "text": "रोग साध्य होगा",
+          "voter_count": 0
+        },
+        {
+          "text": "रोग असाध्य होगा",
+          "voter_count": 0
+        },
+        {
+          "text": "रोगी के लिए शुभ होता हैं",
+          "voter_count": 0
+        },
+        {
+          "text": "रोग निरन्तर बढ़ने वाला होगा",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 282",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-d, 2-b, 3-a, 4-c",
+          "voter_count": 1
+        },
+        {
+          "text": "(B) 1-a, 2-c, 3-d, 4-b",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-b, 2-a, 3-d, 4-c",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-c, 2-b, 3-a, 4-d",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nGp pg 286",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) क्वाथ निर्माण में पात्र का मुख खुला नहीं होना चाहिए। Statement 2) यदि मुख खुला होने के  कारण से क्वाथ दुर्जर हो जाता हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 287",
+      "explanation_entities": null
+    },
+    {
+      "question": "वानस्पतिक द्रव्यों की सवीर्यता अवधि_",
+      "options": [
+        {
+          "text": "1 वर्ष",
+          "voter_count": 0
+        },
+        {
+          "text": "1  वर्ष 4 माह",
+          "voter_count": 0
+        },
+        {
+          "text": "4 माह",
+          "voter_count": 1
+        },
+        {
+          "text": "2 माह",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 280",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct relation of धातु and उपधातु (शाo) -\n1) मेद की उपधातु= वसा  2) मज्ज़ा की उपधातु= केश",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- gp 282(मेद की उपधातु=  स्वेद)",
+      "explanation_entities": null
+    }
+  ]
+}

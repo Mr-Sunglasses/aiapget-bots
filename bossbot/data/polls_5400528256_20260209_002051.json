@@ -1,0 +1,756 @@
+{
+  "file_name": "No. 36 Date : 06 September 2024  Topic : A H SU 13 -15 संघर्ष 2025",
+  "data": [
+    "Topic : A H SU 13 -15 संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "स्नेह: स्वेद: संशोधनं मृदु। किस दोष की चिकित्सा है ?",
+      "options": [
+        {
+          "text": "वात",
+          "voter_count": 0
+        },
+        {
+          "text": "पित्त",
+          "voter_count": 0
+        },
+        {
+          "text": "कफ",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 13/1",
+      "explanation_entities": null
+    },
+    {
+      "question": "कफदोष की चिकित्सा_",
+      "options": [
+        {
+          "text": "तीक्ष्ण वमन",
+          "voter_count": 0
+        },
+        {
+          "text": "विरेचन",
+          "voter_count": 0
+        },
+        {
+          "text": "घृतपान",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 13/10",
+      "explanation_entities": null
+    },
+    {
+      "question": "दीर्घकालस्थितं मद्यं रतिप्रीतिः प्रजागरः। किस दोष की चिकित्सा है ?",
+      "options": [
+        {
+          "text": "वात",
+          "voter_count": 1
+        },
+        {
+          "text": "पित्त",
+          "voter_count": 0
+        },
+        {
+          "text": "कफ",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 13/11",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) बृहण चिकित्सा में पृथ्वी तथा जल तत्व की प्रधानता होती है । Statement 2) लंघन चिकित्सा में अग्नि, वायु तथा आकाश तत्व की प्रधानता हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 14",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) वाग्भट्ट ने औषध सेवन के 10 काल बताये हैं। Statement 2) समुद्ग अर्थात् अन्न के साथ मिलाकर।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 13/37",
+      "explanation_entities": null
+    },
+    {
+      "question": "अष्टांग हृदय के अनुसार यूष का प्रयोग मुख्यत किस प्रकार के रोगों में करते हैं?",
+      "options": [
+        {
+          "text": "वातज",
+          "voter_count": 0
+        },
+        {
+          "text": "पित्तज",
+          "voter_count": 1
+        },
+        {
+          "text": "कफज",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्तज",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 13/12",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट अनुसार लंघन के प्रकार",
+      "options": [
+        {
+          "text": "2",
+          "voter_count": 0
+        },
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 0
+        },
+        {
+          "text": "6",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 14/4",
+      "explanation_entities": null
+    },
+    {
+      "question": "दोषों का कोष्ठगमन किन कारणों से होता है ?",
+      "options": [
+        {
+          "text": "अभिष्यन्दनात्पाकात्कोष्ठं",
+          "voter_count": 0
+        },
+        {
+          "text": "व्यायाम",
+          "voter_count": 0
+        },
+        {
+          "text": "जठराग्नि की तीक्ष्णता",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 13/18",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) वातज तथा कफज रोगों में प्रायः ग्रीष्म ऋतु में कहे गये आहार विहार का सेवन करना चाहिए। Statement 2) वातज तथा पित्तज रोगों में शरद ऋतु में कहे गये पदार्थों का सेवन करना चाहिए।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 13/14",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) सम्पूर्ण शरीर में फैले हुए सामदोषों को निकालने का प्रयत्न नहीं करना चाहिए। Statement 2) आमदोषों को निकालने के लिए पाचन, दीपन, स्नेहन एवं स्वेदन के द्वारा शोधन योग्य काल में उनका शोधन करे।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 13/28-29",
+      "explanation_entities": null
+    },
+    {
+      "question": "Vagbhat अनुसार शमन चिकित्सा कितने प्रकार के हैं?",
+      "options": [
+        {
+          "text": "2",
+          "voter_count": 1
+        },
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "7",
+          "voter_count": 0
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 14/6",
+      "explanation_entities": null
+    },
+    {
+      "question": "संतर्पण योग्य रोग-रोगी_",
+      "options": [
+        {
+          "text": "ज्वर",
+          "voter_count": 0
+        },
+        {
+          "text": "विसर्प",
+          "voter_count": 1
+        },
+        {
+          "text": "विद्रधि",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 14/8",
+      "explanation_entities": null
+    },
+    {
+      "question": "व्याधिमार्दवमुत्साहस्तन्द्रानाशश्च। उपरोक्त श्लोक किसके संदर्भ में है ?",
+      "options": [
+        {
+          "text": "संतर्पण के लाभ",
+          "voter_count": 0
+        },
+        {
+          "text": "अपतर्पण के लाभ",
+          "voter_count": 0
+        },
+        {
+          "text": "शोधन के लाभ",
+          "voter_count": 0
+        },
+        {
+          "text": "शमन के लाभ",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "A.H. Su. 14/18",
+      "explanation_entities": null
+    },
+    {
+      "question": "निम्न द्रव्य वमन कारक नहीं हैं?",
+      "options": [
+        {
+          "text": "करंज",
+          "voter_count": 0
+        },
+        {
+          "text": "कुटज",
+          "voter_count": 1
+        },
+        {
+          "text": "चित्रक",
+          "voter_count": 0
+        },
+        {
+          "text": "नील के बीज",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 15/1",
+      "explanation_entities": null
+    },
+    {
+      "question": "निरूहणोपयोगी द्रव्य_",
+      "options": [
+        {
+          "text": "मुलेठी",
+          "voter_count": 0
+        },
+        {
+          "text": "तगर",
+          "voter_count": 1
+        },
+        {
+          "text": "नीम",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 15/3",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुरसादि गण कौनसा द्रव्य हैं?",
+      "options": [
+        {
+          "text": "वातनाशक",
+          "voter_count": 0
+        },
+        {
+          "text": "पित्तनाशक",
+          "voter_count": 0
+        },
+        {
+          "text": "वमनकारक",
+          "voter_count": 0
+        },
+        {
+          "text": "कफनाशक",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 15/7",
+      "explanation_entities": null
+    },
+    {
+      "question": "विषविकार, अन्तर्दाह तथा पित्तविकारों में उपयोगी द्रव्य?",
+      "options": [
+        {
+          "text": "सारीवादि गण",
+          "voter_count": 0
+        },
+        {
+          "text": "पटोलादि गण",
+          "voter_count": 0
+        },
+        {
+          "text": "गुडुच्यादि गण",
+          "voter_count": 1
+        },
+        {
+          "text": "अंजनादि गण",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 15/14",
+      "explanation_entities": null
+    },
+    {
+      "question": "असनादि गण का कर्म?",
+      "options": [
+        {
+          "text": "मेदोदोष नाशक",
+          "voter_count": 1
+        },
+        {
+          "text": "कुष्ठरोग नाशक",
+          "voter_count": 0
+        },
+        {
+          "text": "कृमिनाशक",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 15/20",
+      "explanation_entities": null
+    },
+    {
+      "question": "विषविकार नाशक गण?",
+      "options": [
+        {
+          "text": "अर्कादि गण",
+          "voter_count": 1
+        },
+        {
+          "text": "रोध्रादि गण",
+          "voter_count": 0
+        },
+        {
+          "text": "अंजनादि गण",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 15",
+      "explanation_entities": null
+    },
+    {
+      "question": "i-नि:सुखत्वं सुखाय च। is the treatment of कफ दोष  ii- रतिप्रीति: प्रजागर:। is the treatment of पित दोष iii-वेष्टन त्रासन्ं सेको मद्यं पौष्टिकगौडिकम्ं।is the treatment of वात दोष",
+      "options": [
+        {
+          "text": "A.i✅,ii❌,iii✅",
+          "voter_count": 0
+        },
+        {
+          "text": "B.i❌,ii✅,iii✅",
+          "voter_count": 0
+        },
+        {
+          "text": "C.i✅,ii✅,iii✅",
+          "voter_count": 1
+        },
+        {
+          "text": "D.i✅,ii❌,iii❌",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A\nRef-AH SU 13",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for दोष शोधनकाल  (AH)-\n1) कफ=चैत्र  2)पित्त= अगहन",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B \nREF-AH SU 13/33(२- कार्तिक मास)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for दोषों का शाखादि से कोष्ठ गमन AH-\n1)द्रुतत्वान्मारुतस्य 2)स्त्रोतोमुखविशोधनात्",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef- AH SU  13/17-18(१-is for कोष्ठ से शाखा गमन)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for दोष उपक्रम (AH)-\n1)  दीर्घकालस्थित मद्य= कफ दोष 2)सौम्या भावाः पयः = वात दोष",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- AH Su 13/9 & 11 (२- पित्त दोष)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per AH -\n1) बृंहण के योग्य ऋतु= ग्रीष्म  2) लंघन के योग्य ऋतु = शिशिर",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- AH SU  14/8 & 11",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for पद्मकादि गण(AH)-\n1)प्रीणनजीवनबृंहणवृष्याः 2)स्तन्यकरा",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- AH Su 15/12",
+      "explanation_entities": null
+    },
+    {
+      "question": "Vagbhat ने अष्टांग हृदय सूत्रस्थान १५ में कितने गणों का वर्णन किया है ?",
+      "options": [
+        {
+          "text": "32",
+          "voter_count": 0
+        },
+        {
+          "text": "36",
+          "voter_count": 1
+        },
+        {
+          "text": "34",
+          "voter_count": 0
+        },
+        {
+          "text": "33",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 15/16",
+      "explanation_entities": null
+    }
+  ]
+}

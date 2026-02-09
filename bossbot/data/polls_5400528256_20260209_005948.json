@@ -1,0 +1,644 @@
+{
+  "file_name": "No. 48 Date : 18 September 2024  Topic : PV by GP संघर्ष 2025",
+  "data": [
+    "Topic : PV by GP संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "सद् हेतु की कितने गुण होने चाहिए?",
+      "options": [
+        {
+          "text": "4",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 1
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "7",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 134",
+      "explanation_entities": null
+    },
+    {
+      "question": "किस दर्शन को समानतंत्र, समानन्याय व कल्प न्याय भी कहा जाता हैं?",
+      "options": [
+        {
+          "text": "न्याय दर्शन",
+          "voter_count": 1
+        },
+        {
+          "text": "सांख्य दर्शन",
+          "voter_count": 0
+        },
+        {
+          "text": "वैशेषिक दर्शन",
+          "voter_count": 0
+        },
+        {
+          "text": "चार्वाक दर्शन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 128",
+      "explanation_entities": null
+    },
+    {
+      "question": "सत्व रजो बहुलो____",
+      "options": [
+        {
+          "text": "अग्नि",
+          "voter_count": 0
+        },
+        {
+          "text": "वायु",
+          "voter_count": 0
+        },
+        {
+          "text": "जल",
+          "voter_count": 1
+        },
+        {
+          "text": "पृथ्वी",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "आन्वीक्षिकी is the synonym of which darshana ?",
+      "options": [
+        {
+          "text": "वैशैषिक",
+          "voter_count": 1
+        },
+        {
+          "text": "न्याय",
+          "voter_count": 0
+        },
+        {
+          "text": "सांख्य",
+          "voter_count": 0
+        },
+        {
+          "text": "जैन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": null,
+      "explanation_entities": null
+    },
+    {
+      "question": "द्वैतवाद सिद्धांत किस दर्शन ने मना हैं?",
+      "options": [
+        {
+          "text": "वेदांत दर्शन",
+          "voter_count": 1
+        },
+        {
+          "text": "संख्या दर्शन",
+          "voter_count": 0
+        },
+        {
+          "text": "योग दर्शन",
+          "voter_count": 0
+        },
+        {
+          "text": "B&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 126",
+      "explanation_entities": null
+    },
+    {
+      "question": "अरुणदत्त अनुसार तंत्र दोष_",
+      "options": [
+        {
+          "text": "5",
+          "voter_count": 0
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "15",
+          "voter_count": 1
+        },
+        {
+          "text": "11",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 138",
+      "explanation_entities": null
+    },
+    {
+      "question": "कर्ण का शब्दत्व से _",
+      "options": [
+        {
+          "text": "समवाय है",
+          "voter_count": 0
+        },
+        {
+          "text": "संयुक्त समवाय हैं",
+          "voter_count": 1
+        },
+        {
+          "text": "संयुक्त समवेत समवाय हैं",
+          "voter_count": 0
+        },
+        {
+          "text": "समवेत समवाय हैं",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 133",
+      "explanation_entities": null
+    },
+    {
+      "question": "अनुक्त विषय का अनुषंग द्वारा ज्ञान प्राप्त करना क्या कहलाता हैं?",
+      "options": [
+        {
+          "text": "तंत्रयुक्त",
+          "voter_count": 1
+        },
+        {
+          "text": "अर्थाश्रय",
+          "voter_count": 0
+        },
+        {
+          "text": "ताच्छील्य",
+          "voter_count": 0
+        },
+        {
+          "text": "अर्थप्राप्ति",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 138",
+      "explanation_entities": null
+    },
+    {
+      "question": "उत्तम शास्त्र के लक्षण_",
+      "options": [
+        {
+          "text": "16",
+          "voter_count": 0
+        },
+        {
+          "text": "2",
+          "voter_count": 1
+        },
+        {
+          "text": "18",
+          "voter_count": 0
+        },
+        {
+          "text": "11",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 135",
+      "explanation_entities": null
+    },
+    {
+      "question": "न्याय दर्शन में पुराण न्याय में पदार्थ की संख्या कितनी बताई है ?",
+      "options": [
+        {
+          "text": "16",
+          "voter_count": 0
+        },
+        {
+          "text": "7",
+          "voter_count": 0
+        },
+        {
+          "text": "6",
+          "voter_count": 1
+        },
+        {
+          "text": "15",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 127",
+      "explanation_entities": null
+    },
+    {
+      "question": "अहंकार का प्रत्यात्म लक्षण_",
+      "options": [
+        {
+          "text": "वृत्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "संकल्प",
+          "voter_count": 0
+        },
+        {
+          "text": "व्यवसाय",
+          "voter_count": 0
+        },
+        {
+          "text": "A&C",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 132",
+      "explanation_entities": null
+    },
+    {
+      "question": "निश्चित साध्यवान___",
+      "options": [
+        {
+          "text": "पक्ष:",
+          "voter_count": 1
+        },
+        {
+          "text": "सपक्ष:",
+          "voter_count": 0
+        },
+        {
+          "text": "विपक्ष:",
+          "voter_count": 0
+        },
+        {
+          "text": "व्यापक",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 134",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"अनुपलब्धि, अभाव, चेष्टा\" इनका समावेश किस प्रमाण में होता हैं?",
+      "options": [
+        {
+          "text": "अनुमान",
+          "voter_count": 1
+        },
+        {
+          "text": "उपमान",
+          "voter_count": 0
+        },
+        {
+          "text": "अर्थप्राप्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रत्यक्ष",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 132",
+      "explanation_entities": null
+    },
+    {
+      "question": "स्मृति के कारण_",
+      "options": [
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "8",
+          "voter_count": 1
+        },
+        {
+          "text": "7",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 132",
+      "explanation_entities": null
+    },
+    {
+      "question": "सूर्यमण्डल व पृथ्वी के बीच आकाश में स्थित जल को क्या कहते हैं?",
+      "options": [
+        {
+          "text": "मर",
+          "voter_count": 0
+        },
+        {
+          "text": "अप",
+          "voter_count": 0
+        },
+        {
+          "text": "अम्भ",
+          "voter_count": 0
+        },
+        {
+          "text": "मरीचि",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 129",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose incorrect option \nरोगावस्था_",
+      "options": [
+        {
+          "text": "दोष वैषम्य= सामवायीकारण",
+          "voter_count": 0
+        },
+        {
+          "text": "दोष दुष्य संयोग= असामवायीकारण",
+          "voter_count": 0
+        },
+        {
+          "text": "जीवाणु= सामवायीकारण",
+          "voter_count": 1
+        },
+        {
+          "text": "मिथ्या आहार विहार= निमित्त कारण",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 137",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) चार्वाक ने सृष्टि उत्पत्ति में चार महाभूत ही कारण माने हैं। Statement 2) अग्नि को सृष्टि उत्पत्ति में कारण नहीं माना हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 127",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-a,2-c,3-d, 4-b",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-b, 2-a, 3-d,4-c",
+          "voter_count": 1
+        },
+        {
+          "text": "C) 1-c, 2-d, 3-a, 4-b",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-d, 2-c, 3-a, 4-b",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans-B\nRef- Gp 128",
+      "explanation_entities": null
+    },
+    {
+      "question": "अग्नि में शीतलता का अभाव होना_ किसका उदाहरण हैं?",
+      "options": [
+        {
+          "text": "प्राग्भाव",
+          "voter_count": 1
+        },
+        {
+          "text": "प्रध्वसाभाव",
+          "voter_count": 0
+        },
+        {
+          "text": "अत्यन्ताभाव",
+          "voter_count": 0
+        },
+        {
+          "text": "अन्योन्याभाव",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 128",
+      "explanation_entities": null
+    },
+    {
+      "question": "तेज के गुणों की संख्या_",
+      "options": [
+        {
+          "text": "14",
+          "voter_count": 1
+        },
+        {
+          "text": "11",
+          "voter_count": 0
+        },
+        {
+          "text": "9",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp 129",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose incorrect statement about वायु महाभूत।",
+      "options": [
+        {
+          "text": "आकाश महाभूत से वायु की उत्पत्ति होती है।",
+          "voter_count": 0
+        },
+        {
+          "text": "रूपरहित स्पर्शवान वायु।",
+          "voter_count": 1
+        },
+        {
+          "text": "तमो बहुलं वायु।",
+          "voter_count": 0
+        },
+        {
+          "text": "वायु से अग्नि की उत्पति होती हैं।",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 129-130",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) संख्या दर्शन के दर्शनकार कपिलमुनि हैं। Statement 2) सांख्य दर्शन ने 26 तत्व माने हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp 126",
+      "explanation_entities": null
+    }
+  ]
+}

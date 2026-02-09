@@ -1,0 +1,760 @@
+{
+  "file_name": "No. 19 Date : 19 August 2024  Topic : AH/AS VAISHISHTYA ( GP 191-201)  संघर्ष 2025",
+  "data": [
+    "Topic : AH/AS VAISHISHTYA ( GP 191-201)  संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "अष्टांग संग्रह में कितने त्वचाओं का वर्णन मिलता हैं?",
+      "options": [
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "7",
+          "voter_count": 0
+        },
+        {
+          "text": "8",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 497",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) वाग्भट्ट ने जल के 8 भेद बताये है। Statement 2) वाप्य जल का चरक से अतिरिक्त वर्णन किया है ।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 499",
+      "explanation_entities": null
+    },
+    {
+      "question": "चन्द्रकान्त नामक भक्ष्य का उल्लेख किस व्याधि में किया है ?",
+      "options": [
+        {
+          "text": "क्षत क्षीण",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्तपित्त",
+          "voter_count": 1
+        },
+        {
+          "text": "कास",
+          "voter_count": 0
+        },
+        {
+          "text": "राजयक्ष्मा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 499",
+      "explanation_entities": null
+    },
+    {
+      "question": "अष्टांग हृदय एवं अष्टांग संग्रह में चिकित्सा स्थान में कुल कितने अध्याय हैं (क्रमशः)",
+      "options": [
+        {
+          "text": "22,24",
+          "voter_count": 0
+        },
+        {
+          "text": "24,22",
+          "voter_count": 0
+        },
+        {
+          "text": "24,16",
+          "voter_count": 0
+        },
+        {
+          "text": "16,24",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 493",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट ने गुग्गुल के अतिसेवन से किस रोग की उत्पत्ति बताया हैं?",
+      "options": [
+        {
+          "text": "तिमिर",
+          "voter_count": 1
+        },
+        {
+          "text": "मुखशोष",
+          "voter_count": 0
+        },
+        {
+          "text": "क्लैब्य",
+          "voter_count": 0
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 499",
+      "explanation_entities": null
+    },
+    {
+      "question": "लशूनो____",
+      "options": [
+        {
+          "text": "भोजनमारोग्यकराणाम्",
+          "voter_count": 0
+        },
+        {
+          "text": "ग्रहणी दूषणानाम्",
+          "voter_count": 1
+        },
+        {
+          "text": "गुल्मानिलहराणाम्",
+          "voter_count": 0
+        },
+        {
+          "text": "वृष्याणाम्",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 493",
+      "explanation_entities": null
+    },
+    {
+      "question": "अष्टांग हृदयकार के अनुसार कितने दिनों तक चिकित्सा करने पर भी लाभ ना होने और चिकित्सा क्रम बदल देना चाहिये?",
+      "options": [
+        {
+          "text": "10 दोनों",
+          "voter_count": 0
+        },
+        {
+          "text": "7 दोनों",
+          "voter_count": 1
+        },
+        {
+          "text": "15 दिनों",
+          "voter_count": 0
+        },
+        {
+          "text": "30 दोनों",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 495",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per वा-\n1) जीरक को *अन्नगन्धहर* कहा  2) जीरक त्रय का वर्णन किया",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- 2-जीरक त्रय वर्णन by भाव प्रकाश (gp 498)",
+      "explanation_entities": null
+    },
+    {
+      "question": "अष्टांग संग्रह ने प्रमेह रोग में किस नवीन द्रव्य का प्रयोग बताया हैं?",
+      "options": [
+        {
+          "text": "आमलकी",
+          "voter_count": 1
+        },
+        {
+          "text": "पिप्पली",
+          "voter_count": 0
+        },
+        {
+          "text": "शीलाजतु",
+          "voter_count": 0
+        },
+        {
+          "text": "हरिद्रा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 495",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट ने शवच्छेद का वर्णन किस प्रकरण में किया हैं?",
+      "options": [
+        {
+          "text": "शरीर स्थान",
+          "voter_count": 0
+        },
+        {
+          "text": "शल्य प्रकरण",
+          "voter_count": 0
+        },
+        {
+          "text": "उत्तरतंत्र",
+          "voter_count": 0
+        },
+        {
+          "text": "कल्प स्थान",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 497",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) वाग्भट्ट ने 52 महाकषाय बताये हैं। Statement 2) एवं 33 गणों की संख्या बतायी हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 498",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per वा-\n1)कुष्ठ में=  वृंहण नस्य 2)सूर्यावर्त में =वृंहण नस्य",
+      "options": [
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- A\nRef-1-कुष्ठ में=  विरेचन नस्य(gp 494)",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट ने कितने शस्त्र कर्म माने हैं?",
+      "options": [
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "8",
+          "voter_count": 0
+        },
+        {
+          "text": "13",
+          "voter_count": 0
+        },
+        {
+          "text": "12",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 500",
+      "explanation_entities": null
+    },
+    {
+      "question": "आयुर्वेद रसायन के टीकाकार कौन हैं?",
+      "options": [
+        {
+          "text": "हेमाद्रिकृत",
+          "voter_count": 0
+        },
+        {
+          "text": "इन्दुकृत",
+          "voter_count": 1
+        },
+        {
+          "text": "श्री कण्ठदत्त",
+          "voter_count": 0
+        },
+        {
+          "text": "शिवदास सेन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 494",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट ने वर्धमान हरितकी  का प्रयोग किसी व्याधि में बताया है?",
+      "options": [
+        {
+          "text": "गलगण्ड",
+          "voter_count": 1
+        },
+        {
+          "text": "श्वित्र",
+          "voter_count": 0
+        },
+        {
+          "text": "अपस्मार",
+          "voter_count": 0
+        },
+        {
+          "text": "श्लीपद",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp 500",
+      "explanation_entities": null
+    },
+    {
+      "question": "कटु व तिक्त द्रव्यों में श्रेष्ट द्रव्य?",
+      "options": [
+        {
+          "text": "पिप्पली",
+          "voter_count": 0
+        },
+        {
+          "text": "शुंठी",
+          "voter_count": 1
+        },
+        {
+          "text": "पटोल",
+          "voter_count": 0
+        },
+        {
+          "text": "मरिच",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 498",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट ने  स्त्री के गर्भाधान की आयु कितनी बतायी हैं?",
+      "options": [
+        {
+          "text": "16 वर्ष",
+          "voter_count": 1
+        },
+        {
+          "text": "21 वर्ष",
+          "voter_count": 0
+        },
+        {
+          "text": "24 वर्ष",
+          "voter_count": 0
+        },
+        {
+          "text": "25 वर्ष",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 501",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट ने सुश्रुत से अतिरिक्त कितने दन्त रोग माने हैं?",
+      "options": [
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 1
+        },
+        {
+          "text": "1",
+          "voter_count": 0
+        },
+        {
+          "text": "2",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 500",
+      "explanation_entities": null
+    },
+    {
+      "question": "अष्टांग हृदयकार ने शोधनादि गण संग्रह में कितने गणों का वर्णन किया हैं?",
+      "options": [
+        {
+          "text": "44",
+          "voter_count": 1
+        },
+        {
+          "text": "33",
+          "voter_count": 0
+        },
+        {
+          "text": "32",
+          "voter_count": 0
+        },
+        {
+          "text": "36",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 494",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per वा-\n1) मुख रोग के 8 आयतन माना  2) तुण्डिकेरी को तालुगत रोगो मे स्थान दिया",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef-gp 500-501(२-तुण्डिकेरी को *कण्ठगत* रोगो मे स्थान दिया )",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for types of नपुंसक (वा)-\n1)द्विरेता,पवनेन्द्रिय,संस्कारवाही, नरषण्ड,नारीषण्ड,वक्री,ईर्ष्याभिरति,वातिकषण्ड 2)द्विरेता,वातेन्द्रिय, संस्कारवाह , आसेक्य ,सौगन्धिक,वक्री, ईष्यालु,वायुपिण्डक",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nRef-१ as per चरक ( gp 497)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements as per वा-\n1) कटु द्रव्यो मे श्रेष्ठ =पटोल  2) फलो मे श्रेष्ठ = मृद्विका",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-pg 498-499(1- पिप्पली 2-द्राक्षा)",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट ने प्रतिमर्श नस्य के कितने काल बताये हैं?",
+      "options": [
+        {
+          "text": "11",
+          "voter_count": 1
+        },
+        {
+          "text": "14",
+          "voter_count": 0
+        },
+        {
+          "text": "15",
+          "voter_count": 0
+        },
+        {
+          "text": "8",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 494",
+      "explanation_entities": null
+    },
+    {
+      "question": "अष्टांग हृदय कौन सी शैली हैं?",
+      "options": [
+        {
+          "text": "गधात्मक",
+          "voter_count": 1
+        },
+        {
+          "text": "पधात्मक",
+          "voter_count": 0
+        },
+        {
+          "text": "Both A&B",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 496",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Which of the following is not explain by वाग्भट-\n1) प्रतिसारण भेद= कल्क रसक्रिया क्षौद्र 2)हारिद्रक, रात्रिक और पूर्वरात्रिक ज्वरो का वर्णन",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef-gp 499-500(१-प्रतिसारण भेद= कल्क रसक्रिया चूर्ण)",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट ने वर्त्मगत नेत्र रोग कितने माने है?",
+      "options": [
+        {
+          "text": "21",
+          "voter_count": 0
+        },
+        {
+          "text": "27",
+          "voter_count": 0
+        },
+        {
+          "text": "24",
+          "voter_count": 1
+        },
+        {
+          "text": "25",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 499",
+      "explanation_entities": null
+    }
+  ]
+}

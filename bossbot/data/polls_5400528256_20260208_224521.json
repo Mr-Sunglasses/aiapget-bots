@@ -1,0 +1,772 @@
+{
+  "file_name": "No. 9  Date : 09 August 2024  Topic : charak vaishishtya (GP 413- 425) संघर्ष 2025",
+  "data": [
+    "Topic : charak vaishishtya (GP 413- 425) संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "Find the correct statements अग्नियाँ व उनके कर्म -\n1)मन्देन्धनोधातुन शोषयति पावकः = मन्दाग्नि  2)धातुवैषम्यं करोति विषमं पाचनं  = विषमाग्नि",
+      "options": [
+        {
+          "text": "(A)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(B) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef-१- तीक्ष्णाग्नि",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct order of treatment of अलसक as per चo-\n1)वमन> स्वेदन> गुदवर्ति >लंघन\n2)लंघन>वमन>  गुदवर्ति >स्वेदन",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans B\nGp charak vaishishtya \n@aiapgetmadeeasy 9336237929",
+      "explanation_entities": [
+        {
+          "length": 16,
+          "offset": 29,
+          "type": "mention"
+        }
+      ]
+    },
+    {
+      "question": "अलसक चिकित्साक्रम",
+      "options": [
+        {
+          "text": "लंघन-विरेचन-स्वेदन-गुदवर्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "विरेचन-लंघन-गुदवर्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "लंघन-वमन-स्वेदन-गुदवर्ति",
+          "voter_count": 1
+        },
+        {
+          "text": "वमन-स्वेदन-गुदवर्ति-लंघन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 414",
+      "explanation_entities": null
+    },
+    {
+      "question": "शोष , यक्ष्मा व कृश संतानोत्पत्ति किस रस के अति सेवन से होता है ?",
+      "options": [
+        {
+          "text": "तिक्त रस",
+          "voter_count": 0
+        },
+        {
+          "text": "कषाय रस",
+          "voter_count": 1
+        },
+        {
+          "text": "कटु रस",
+          "voter_count": 0
+        },
+        {
+          "text": "लवण रस",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 418",
+      "explanation_entities": null
+    },
+    {
+      "question": "शिरोविरेचन द्रव्य में किस रस का अभाव रहता हैं?",
+      "options": [
+        {
+          "text": "मधुर एवं लवण",
+          "voter_count": 0
+        },
+        {
+          "text": "मधुर एवं अम्ल",
+          "voter_count": 1
+        },
+        {
+          "text": "अम्ल एवं लवण",
+          "voter_count": 0
+        },
+        {
+          "text": "तिक्त एवं अम्ल",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 416",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct",
+      "options": [
+        {
+          "text": "(A) 1-a,2-c,3-d,4-b",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-b,2-c,3-d,4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-b,2-d,3-c,4-a",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) 1-a,2-d,3-d,4-c",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C\nGp pg 414",
+      "explanation_entities": null
+    },
+    {
+      "question": "1. चार मास पूर्व गर्भस्राव असाध्य माना गया है।\n2. आमदोषज गर्भस्राव होने पर चार मास पश्चात असाध्य माना गया है।\n @aiapgetmadeeasy",
+      "options": [
+        {
+          "text": "1✅2❌",
+          "voter_count": 0
+        },
+        {
+          "text": "1❌2✅",
+          "voter_count": 1
+        },
+        {
+          "text": "✅✅",
+          "voter_count": 0
+        },
+        {
+          "text": "❌❌",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp 418\nC\n@aiapgetmadeeasy 9336237929",
+      "explanation_entities": [
+        {
+          "length": 16,
+          "offset": 9,
+          "type": "mention"
+        }
+      ]
+    },
+    {
+      "question": "वातादि दोषाधिक्य से होने वाले मन्दाग्नि की चिकित्सा?",
+      "options": [
+        {
+          "text": "निरूह व अनुवासन वस्ति",
+          "voter_count": 1
+        },
+        {
+          "text": "वमन विरेचन",
+          "voter_count": 0
+        },
+        {
+          "text": "घृत सेवन",
+          "voter_count": 0
+        },
+        {
+          "text": "मंड, पेया , विलेपी प्रयोग",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 423",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) परिषद भेद=2, वाद भेद=2 Statement 2) हेतु भेद=4, सिद्धान्त भेद=4",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 415",
+      "explanation_entities": null
+    },
+    {
+      "question": "नाभि के ऊपर गौपुच्छाकार उभार होना किस व्याधि का लक्षण है ?",
+      "options": [
+        {
+          "text": "प्लिहोदर",
+          "voter_count": 0
+        },
+        {
+          "text": "छिद्रोदर",
+          "voter_count": 0
+        },
+        {
+          "text": "जलोदर",
+          "voter_count": 1
+        },
+        {
+          "text": "बद्धगुदोदर",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 421",
+      "explanation_entities": null
+    },
+    {
+      "question": "Find the correct statements -\n1)वातादि दोषाधिक्य से मन्दाग्नि होने पर =वमन विरेचन 2)उदावर्त से मन्दाग्नि होने पर =निरूह व अनुवासन बस्ति",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans- D\nRef- gp चरक वैशिo",
+      "explanation_entities": null
+    },
+    {
+      "question": "स्त्रीशोणित व बीजभाग के अवयव की दुष्टि से किस प्रकार के संतान की उत्पत्ति होती हैं?",
+      "options": [
+        {
+          "text": "बंध्या संतानोत्पत्ति",
+          "voter_count": 1
+        },
+        {
+          "text": "पूतिप्रजा संतानोत्पत्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "स्त्रीभिन्न वार्ता संतानोत्पत्ति",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 417",
+      "explanation_entities": null
+    },
+    {
+      "question": "पिप्पली रसायन का भावना द्रव्य",
+      "options": [
+        {
+          "text": "किंशुक क्षार",
+          "voter_count": 0
+        },
+        {
+          "text": "घृत में भर्जन",
+          "voter_count": 0
+        },
+        {
+          "text": "कांजी",
+          "voter_count": 1
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 419",
+      "explanation_entities": null
+    },
+    {
+      "question": "Statement 1) बद्धगुदोदर असाध्य हैं।\nStatement 2) छिद्रोदर 15 दिन में मृत्युकारक हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 421",
+      "explanation_entities": null
+    },
+    {
+      "question": "________ परिणाम धातुसाम्याकर",
+      "options": [
+        {
+          "text": "वायु",
+          "voter_count": 0
+        },
+        {
+          "text": "समयोग",
+          "voter_count": 0
+        },
+        {
+          "text": "काल",
+          "voter_count": 0
+        },
+        {
+          "text": "उष्मा",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 417",
+      "explanation_entities": null
+    },
+    {
+      "question": "पवनेन्द्रिय का कारण?",
+      "options": [
+        {
+          "text": "वायु द्वारा बिजभाग को अनेक भागों में बाँट देना",
+          "voter_count": 1
+        },
+        {
+          "text": "पूर्वजन्मकृत कर्म",
+          "voter_count": 0
+        },
+        {
+          "text": "गर्भस्थ दुष्ट वायु से बालक के शुक्राशय द्वारा में विकृति हो जाने से",
+          "voter_count": 0
+        },
+        {
+          "text": "गर्भस्थ बालक के शुक्राशय के गर्भाशयगत वायु से दूषित हो जाने से",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 416",
+      "explanation_entities": null
+    },
+    {
+      "question": "Find the correct statements -\n1) हेतु भेद =3  2) शब्द  भेद =2",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-हेतु का भेद =4 (प्रत्यक्ष, अनुमान ऐतिह्य, उपमान)\n & शब्द का भेद =4 (दृष्टार्थ, अदृष्टार्थ, सत्य, अनृत)",
+      "explanation_entities": null
+    },
+    {
+      "question": "विबन्ध रोग में नारायण चूर्ण का अनुपान",
+      "options": [
+        {
+          "text": "बदर क्वाथ",
+          "voter_count": 0
+        },
+        {
+          "text": "गरम पानी",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रसन्ना",
+          "voter_count": 1
+        },
+        {
+          "text": "मदिरा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Gp pg 422",
+      "explanation_entities": null
+    },
+    {
+      "question": "च्यवनप्राश में तिलतैल की मात्रा?",
+      "options": [
+        {
+          "text": "1/2 पल",
+          "voter_count": 0
+        },
+        {
+          "text": "6 पल",
+          "voter_count": 1
+        },
+        {
+          "text": "6 तुला",
+          "voter_count": 0
+        },
+        {
+          "text": "4 पल",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 419",
+      "explanation_entities": null
+    },
+    {
+      "question": "रक्तैकलोचन\" किस श्वास का लक्षण है ?",
+      "options": [
+        {
+          "text": "महाश्वास",
+          "voter_count": 1
+        },
+        {
+          "text": "ऊर्ध्वश्वास",
+          "voter_count": 0
+        },
+        {
+          "text": "छिन्नश्वास",
+          "voter_count": 0
+        },
+        {
+          "text": "तमकश्वास",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 424",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"कृतेऽप्यकृतसंज्ञ\" किस अतिसार का लक्षण हैं?",
+      "options": [
+        {
+          "text": "वातज",
+          "voter_count": 1
+        },
+        {
+          "text": "पित्तज",
+          "voter_count": 0
+        },
+        {
+          "text": "कफज",
+          "voter_count": 0
+        },
+        {
+          "text": "सन्निपातिक",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Gp pg 425",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"मन्देन्धनोधातुन शोषयति पावकः\" किस अग्नि का कर्म है ?",
+      "options": [
+        {
+          "text": "विष्मगानि",
+          "voter_count": 1
+        },
+        {
+          "text": "तीक्ष्णग्नि",
+          "voter_count": 0
+        },
+        {
+          "text": "समग्नि",
+          "voter_count": 0
+        },
+        {
+          "text": "मन्दाग्नि",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 422",
+      "explanation_entities": null
+    },
+    {
+      "question": "Find the correct statements for गर्भोपघातकर भाव (चरक)-\n1)गोधा माँस सेवन से =लाल नैत्रो व हकलाने वाली संतानोत्पत्ति 2)अम्ल के अधिक सेवन से =अल्प शुक्र व अनपत्य वाली संतानोत्पत्ति",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef- १-शर्करा, अश्मरी व शर्नेमेह वाली संतानोत्पत्ति\n२-नैत्ररोगी, त्वचा रोगी व रक्तपित्त व्याधि वाली संतानोत्पत्ति",
+      "explanation_entities": null
+    },
+    {
+      "question": "किस कास की चिकित्सा पित्तज कास की तरह करने का निर्देश है ?",
+      "options": [
+        {
+          "text": "क्षतज",
+          "voter_count": 0
+        },
+        {
+          "text": "क्षयज",
+          "voter_count": 0
+        },
+        {
+          "text": "Both",
+          "voter_count": 1
+        },
+        {
+          "text": "None",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Gp pg 425",
+      "explanation_entities": null
+    },
+    {
+      "question": "- Find the correct statements as per चरक-\n1)वातकफज तृतीयक ज्वर मे  शिर में प्रथमतः वेदना होती है  2)वर्षाकालीन वातिक ज्वर असाध्य होता है",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C \nRef-१- प्रथमतः वेदना पृष्ठ में  \n२-कृच्छ साध्य होता है",
+      "explanation_entities": null
+    },
+    {
+      "question": "ऊर्ध्व रक्तपित्त में प्रथमत देय?",
+      "options": [
+        {
+          "text": "यवागू",
+          "voter_count": 1
+        },
+        {
+          "text": "तर्पण",
+          "voter_count": 0
+        },
+        {
+          "text": "पया",
+          "voter_count": 0
+        },
+        {
+          "text": "B&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Gp pg 420",
+      "explanation_entities": null
+    }
+  ]
+}

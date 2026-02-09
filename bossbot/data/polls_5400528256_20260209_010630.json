@@ -1,0 +1,760 @@
+{
+  "file_name": "No. 50 Date : 20 September 2024  Topic : su sha 1-3",
+  "data": [
+    "Topic : su sha 1-3 @aiapgetmadeeasy",
+    {
+      "question": "Find the odd 1 (considering 6 कारण of सृष्टि उत्पति)-",
+      "options": [
+        {
+          "text": "स्वभाव",
+          "voter_count": 1
+        },
+        {
+          "text": "काल",
+          "voter_count": 0
+        },
+        {
+          "text": "परिणाम",
+          "voter_count": 0
+        },
+        {
+          "text": "परिमाण",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su sharira 1",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत अनुसार बुद्धि के देवता?",
+      "options": [
+        {
+          "text": "चंद्रमा",
+          "voter_count": 1
+        },
+        {
+          "text": "अग्नि",
+          "voter_count": 0
+        },
+        {
+          "text": "विष्णु",
+          "voter_count": 0
+        },
+        {
+          "text": "ब्रह्मा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha 1/10",
+      "explanation_entities": null
+    },
+    {
+      "question": "निम्न में से पुरुष का गुण नहीं हैं।",
+      "options": [
+        {
+          "text": "अगुणा",
+          "voter_count": 0
+        },
+        {
+          "text": "अबीजधर्मणो",
+          "voter_count": 1
+        },
+        {
+          "text": "अप्रसव धर्मणो",
+          "voter_count": 0
+        },
+        {
+          "text": "अमध्यस्थधर्मणो",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 1/13",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत ने कर्मपुरुष किसे माना हैं?",
+      "options": [
+        {
+          "text": "एक धात्वात्मक पुरुष",
+          "voter_count": 1
+        },
+        {
+          "text": "षड् धात्वात्मक पुरुष",
+          "voter_count": 0
+        },
+        {
+          "text": "चतुर्विंशती तत्वात्मक पुरुष",
+          "voter_count": 0
+        },
+        {
+          "text": "पंचविंशती तत्वात्मक पुरुष",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.sha. 1/21",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुत अनुसार कुणप गन्धि वीर्य में दोष प्राधान्य_",
+      "options": [
+        {
+          "text": "कफ",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्त",
+          "voter_count": 1
+        },
+        {
+          "text": "पित्त+ कफ",
+          "voter_count": 0
+        },
+        {
+          "text": "वात+पित्त",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.sha. 2/4",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) क्षीण वीर्य में त्रिदोष की प्रधानता होती है । Statement 2) ग्रंथिभूत वीर्य में पित्त श्लेष्म दोष की प्रधानता होती हैं।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 2/4",
+      "explanation_entities": null
+    },
+    {
+      "question": "क्षीण तथा मूत्र और मल के गंधों से युक्त आर्तव की साध्यसाध्यता?",
+      "options": [
+        {
+          "text": "कृच्छ साध्य",
+          "voter_count": 1
+        },
+        {
+          "text": "साध्य",
+          "voter_count": 0
+        },
+        {
+          "text": "असाध्य",
+          "voter_count": 0
+        },
+        {
+          "text": "याप्य",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Su.sha. 2/5",
+      "explanation_entities": null
+    },
+    {
+      "question": "ग्रंथिभूत आर्तव की चिकित्सा_",
+      "options": [
+        {
+          "text": "पाठा त्रिकटु वृक्षक क्वाथ",
+          "voter_count": 0
+        },
+        {
+          "text": "शटी या पलाश साधित घृत",
+          "voter_count": 0
+        },
+        {
+          "text": "दाड़िम व अर्जुन का क्वाथ",
+          "voter_count": 1
+        },
+        {
+          "text": "चंदन का क्वाथ",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 2/16",
+      "explanation_entities": null
+    },
+    {
+      "question": "रक्तप्रदर की चिकित्सा किस व्याधि के समान करना चाहिए?",
+      "options": [
+        {
+          "text": "रक्तपित्त",
+          "voter_count": 0
+        },
+        {
+          "text": "नष्ट आर्तव",
+          "voter_count": 1
+        },
+        {
+          "text": "क्षीण आर्तव",
+          "voter_count": 0
+        },
+        {
+          "text": "रक्त अतिसार",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha 2/22",
+      "explanation_entities": null
+    },
+    {
+      "question": "पुत्री प्राप्ति हेतु पुंसवन संस्कार की औषधि को किस नासा रंध्र में डालना चाहिए?",
+      "options": [
+        {
+          "text": "वाम",
+          "voter_count": 0
+        },
+        {
+          "text": "दक्षिण",
+          "voter_count": 0
+        },
+        {
+          "text": "पुत्री प्राप्ति हेतु पुंसवन कर्म निर्दिष्ट नहीं हैं",
+          "voter_count": 1
+        },
+        {
+          "text": "A&B both",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 2/34",
+      "explanation_entities": null
+    },
+    {
+      "question": "_____ महाभूत वर्ण उत्पत्ति में प्रधान माना गया हैं?",
+      "options": [
+        {
+          "text": "जल",
+          "voter_count": 0
+        },
+        {
+          "text": "पृथ्वी",
+          "voter_count": 1
+        },
+        {
+          "text": "आकाश",
+          "voter_count": 0
+        },
+        {
+          "text": "तेज",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 2/37",
+      "explanation_entities": null
+    },
+    {
+      "question": "यमल संतान की उत्पत्ति में कारणभूत दोष?",
+      "options": [
+        {
+          "text": "वात",
+          "voter_count": 0
+        },
+        {
+          "text": "पित्त",
+          "voter_count": 1
+        },
+        {
+          "text": "कफ",
+          "voter_count": 0
+        },
+        {
+          "text": "त्रिदोष",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 2/40",
+      "explanation_entities": null
+    },
+    {
+      "question": "ऋतुमति स्त्री का लक्षण नहीं हैं_",
+      "options": [
+        {
+          "text": "पीनप्रसन्नवदन",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रक्लिन्नात्ममुखद्विजाम्",
+          "voter_count": 0
+        },
+        {
+          "text": "नरकामां",
+          "voter_count": 0
+        },
+        {
+          "text": "अप्रियकथां",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 3/6",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"श्रमो ग्लानि: पिपासा सक्तिसदनं\" किसका लक्षण हैं?",
+      "options": [
+        {
+          "text": "ऋतुमति",
+          "voter_count": 0
+        },
+        {
+          "text": "सद्योगर्भधारण",
+          "voter_count": 0
+        },
+        {
+          "text": "प्रसूता स्त्री",
+          "voter_count": 1
+        },
+        {
+          "text": "गृहीतगर्भा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.sha. 3/11",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुतअनुसार गर्भावस्था की किस महीने में गर्भणी को \"दौह्रदिनी\" कहते हैं?",
+      "options": [
+        {
+          "text": "द्वितीय",
+          "voter_count": 0
+        },
+        {
+          "text": "पंचम",
+          "voter_count": 0
+        },
+        {
+          "text": "तृतीय",
+          "voter_count": 0
+        },
+        {
+          "text": "चतुर्थ",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 3/15",
+      "explanation_entities": null
+    },
+    {
+      "question": "यदि द्वितीय माह में गर्भ की आकृति पेशी के समान है तो संतान__",
+      "options": [
+        {
+          "text": "स्त्री होगी",
+          "voter_count": 0
+        },
+        {
+          "text": "पुरुष होगा",
+          "voter_count": 1
+        },
+        {
+          "text": "नपुंसक होगा",
+          "voter_count": 0
+        },
+        {
+          "text": "यमज होगा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 3/15",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुतानुसार किस माह में गर्भ में बुद्धि की अभिव्यक्ति होती हैं?",
+      "options": [
+        {
+          "text": "षष्ठम",
+          "voter_count": 0
+        },
+        {
+          "text": "सप्तम",
+          "voter_count": 0
+        },
+        {
+          "text": "पंचम",
+          "voter_count": 1
+        },
+        {
+          "text": "अष्टम",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Su.sha. 3/28",
+      "explanation_entities": null
+    },
+    {
+      "question": "बल व वर्ण किस प्रकार के भाव हैं?",
+      "options": [
+        {
+          "text": "पितृज",
+          "voter_count": 1
+        },
+        {
+          "text": "रसज",
+          "voter_count": 0
+        },
+        {
+          "text": "सात्म्यज",
+          "voter_count": 0
+        },
+        {
+          "text": "B&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Su.sha. 3/31",
+      "explanation_entities": null
+    },
+    {
+      "question": "",
+      "options": [
+        {
+          "text": "(A) 1-c, 2-d, 3-b, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(B) 1-c, 2-b, 3-d, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) 1-d, 2-c, 3-b, 4-a",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) 1-b, 2-a, 3-d, 4-c",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nRef-su.sha. 1/8",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for पंचमहाभूतो के गुण-\n1)सर्वशरीरस्पदनं लघुता= आकाश  2)सर्वद्र्वसमूहो गुरुता = आप्य",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans- A\nRef-  su sha 1/26(१- वायु)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for शुक्र दोषचिकित्सा-\n1)परूषकवटादिभ्यां = ग्रंथिभूत शुक्र  2)शटीसिद्धं पालाशे = पूयदोष शुक्र",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C (vice Versa is True)\nRef- su sha 2/8-9",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for ऋतुकाल में वर्ज्यः -\n1)स्नानानुलेपनाद् =खलतिः 2)तैलाभ्यङ्गात् =कुष्ठी",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nRef- su sha 2/26(१-स्नानानुलेपनाद् = दुःखशीलः)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements  -\n1)शुक्रशोणितयोरवबन्धः स्फुरणञ्च योने: = गृहीत गर्भा लक्षण  2)स्फुरद् भुजकुचश्रोणिनाभ्यूरुजघनस्फिचाम् = ऋतुमती लक्षण",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nRef- su sha 3/6 &11(१- सद्यो गृहीत गर्भा लक्षण)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for मन के गुण (सु)-\n1) संविभागरुचिता तितिक्षा= सात्विक मन 2)दुःखबहुलताऽटनशीलता= तामस मन",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 0
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- su sha 1/23-25(२- राजस मन)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for नपुंसक लक्षण-\n1)स शुक्रं प्राश्य लभते = सौगांधिक  2)स योनिशेफसोर्गन्धमाघ्राय लभते= आसेक्य",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C (vice versa is True)\nRef- su sha 2/41-42",
+      "explanation_entities": null
+    },
+    {
+      "question": "सुश्रुतानुसार अहंकार कितने कितने भागों में विभक्त होता हैं?",
+      "options": [
+        {
+          "text": "2",
+          "voter_count": 0
+        },
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "4",
+          "voter_count": 1
+        },
+        {
+          "text": "6",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Su.sha. 1/4",
+      "explanation_entities": null
+    }
+  ]
+}

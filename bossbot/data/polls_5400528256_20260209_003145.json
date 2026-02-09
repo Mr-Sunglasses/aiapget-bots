@@ -1,0 +1,789 @@
+{
+  "file_name": "No. 39 Date : 09 September 2024  Topic : A H SU 25 -30 संघर्ष 2025",
+  "data": [
+    "Topic : A H SU 25 -30 संघर्ष 2025 @aiapgetmadeeasy",
+    {
+      "question": "गृध्रसीरोग में जानुसन्धि के कितने अंगुल नीचे अथवा ऊपर में सिरावेधन करना चाहिए?",
+      "options": [
+        {
+          "text": "2 अंगुल",
+          "voter_count": 1
+        },
+        {
+          "text": "3 अंगुल",
+          "voter_count": 0
+        },
+        {
+          "text": "4 अंगुल",
+          "voter_count": 0
+        },
+        {
+          "text": "6 अंगुल",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 27/15",
+      "explanation_entities": null
+    },
+    {
+      "question": "सिरावेध करते समय अधिक मात्रा में रक्त दूषित होने पर कितने दिन बाद पुनः सिरावेधन करना चाहिए?",
+      "options": [
+        {
+          "text": "14 दिन",
+          "voter_count": 1
+        },
+        {
+          "text": "45 दिन",
+          "voter_count": 0
+        },
+        {
+          "text": "7 दिन",
+          "voter_count": 0
+        },
+        {
+          "text": "15 दिन",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 27/44",
+      "explanation_entities": null
+    },
+    {
+      "question": "Which of the following is not used to remove दृश्यमान शल्य?",
+      "options": [
+        {
+          "text": "A. वर्मिमुख",
+          "voter_count": 0
+        },
+        {
+          "text": "B. मकरमुख",
+          "voter_count": 1
+        },
+        {
+          "text": "C. कुररमुख",
+          "voter_count": 0
+        },
+        {
+          "text": "D. कर्कटकमुख",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans-C\nRef-AH SU 28",
+      "explanation_entities": null
+    },
+    {
+      "question": "Vagbhat अनुसार शस्त्रों की कितने दोष है ?",
+      "options": [
+        {
+          "text": "6",
+          "voter_count": 0
+        },
+        {
+          "text": "8",
+          "voter_count": 0
+        },
+        {
+          "text": "10",
+          "voter_count": 0
+        },
+        {
+          "text": "12",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "A.H. Su. 26/29",
+      "explanation_entities": null
+    },
+    {
+      "question": "दंतपातनार्थ किस यंत्र का प्रयोग करते हैं?",
+      "options": [
+        {
+          "text": "शरपुंखमुख",
+          "voter_count": 0
+        },
+        {
+          "text": "सर्पफण",
+          "voter_count": 0
+        },
+        {
+          "text": "Both A&B",
+          "voter_count": 1
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 25/33",
+      "explanation_entities": null
+    },
+    {
+      "question": "सम्बाधेऽड्ंगे तथा___",
+      "options": [
+        {
+          "text": "उत्संग",
+          "voter_count": 1
+        },
+        {
+          "text": "दाम",
+          "voter_count": 0
+        },
+        {
+          "text": "चीन",
+          "voter_count": 0
+        },
+        {
+          "text": "खटवा",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "A.H. Su. 29/3",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"तन्तुमत्पिच्छिलं घनम् \" किसका लक्षण हैं?",
+      "options": [
+        {
+          "text": "वातदूषित रक्त का लक्षण",
+          "voter_count": 1
+        },
+        {
+          "text": "कफदूषित रक्त का लक्षण",
+          "voter_count": 0
+        },
+        {
+          "text": "पित्तदूषित रक्त का लक्षण",
+          "voter_count": 0
+        },
+        {
+          "text": "द्वन्दज रक्त के लक्षण",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "A.H. Su. 27/41",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) पक्वाशयगत शल्य को विरेचन के द्वारा निकालना चाहिए। Statement 2) कण्ठस्रोतगत शल्य को वमन के द्वारा निकालना चाहिए।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 28",
+      "explanation_entities": null
+    },
+    {
+      "question": "नासारोग में किस स्थान पर सिरावेध करना चाहिए?",
+      "options": [
+        {
+          "text": "नासिका के अग्रभाग का",
+          "voter_count": 0
+        },
+        {
+          "text": "ललाट की सिरा का",
+          "voter_count": 0
+        },
+        {
+          "text": "A&B",
+          "voter_count": 0
+        },
+        {
+          "text": "None of the above",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 27/10",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements for यंत्र AH-\n1) दन्तपातनं  के लिए=  सर्पफणा  2)अश्मर्याहरणं के लिए = शरपुङ्ख मुख",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans- C (vice versa is True.)\nRef- AH su 25/33",
+      "explanation_entities": null
+    },
+    {
+      "question": "तर्जन्यन्तर्नखाकृति\" किस शस्त्र के अग्रभाग का स्वरूप हैं?",
+      "options": [
+        {
+          "text": "वेतस पत्र",
+          "voter_count": 0
+        },
+        {
+          "text": "वृद्धिपत्र",
+          "voter_count": 0
+        },
+        {
+          "text": "व्रीहिमुख",
+          "voter_count": 1
+        },
+        {
+          "text": "मण्डलाग्र",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 26/5",
+      "explanation_entities": null
+    },
+    {
+      "question": "वाग्भट्ट ने सुश्रुत के अतिरिक्त किस बन्धन का वर्णन किया हैं?",
+      "options": [
+        {
+          "text": "गोफणा",
+          "voter_count": 0
+        },
+        {
+          "text": "उत्संग",
+          "voter_count": 1
+        },
+        {
+          "text": "विबन्ध",
+          "voter_count": 0
+        },
+        {
+          "text": "यमक",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "A.H. Su. 29/60",
+      "explanation_entities": null
+    },
+    {
+      "question": "Vagbhat अनुसार छेदन, भेदन व पाटन कर्म हेतु प्रयुक्त वृद्धिपत्र किस आकर का होता हैं?",
+      "options": [
+        {
+          "text": "मण्डलाकार",
+          "voter_count": 0
+        },
+        {
+          "text": "वर्तुलाकार",
+          "voter_count": 0
+        },
+        {
+          "text": "क्षूराकार",
+          "voter_count": 0
+        },
+        {
+          "text": "A&C",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 26/6",
+      "explanation_entities": null
+    },
+    {
+      "question": "कर्णपाली वेधन किस शस्त्र से करते हैं?",
+      "options": [
+        {
+          "text": "खज",
+          "voter_count": 0
+        },
+        {
+          "text": "आरा",
+          "voter_count": 0
+        },
+        {
+          "text": "युथिका",
+          "voter_count": 0
+        },
+        {
+          "text": "कुर्च",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 26/24",
+      "explanation_entities": null
+    },
+    {
+      "question": "स्वस्तिक यन्त्र में कण्ठ प्रदेश में कील का आकार होता है...?",
+      "options": [
+        {
+          "text": "A. मसूराकार",
+          "voter_count": 0
+        },
+        {
+          "text": "B. मुद्गाकार",
+          "voter_count": 0
+        },
+        {
+          "text": "C.माषाकार",
+          "voter_count": 1
+        },
+        {
+          "text": "D.None of the above.",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "Ans-A\nRed-AH SU 25",
+      "explanation_entities": null
+    },
+    {
+      "question": "Vagbhat अनुसार शल्य की कितनी गति हैं?",
+      "options": [
+        {
+          "text": "4",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 0
+        },
+        {
+          "text": "3",
+          "voter_count": 1
+        },
+        {
+          "text": "2",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "A.H. Su.  28",
+      "explanation_entities": null
+    },
+    {
+      "question": ".............मुकुलाननम् ।।\" Fill in the blanks .",
+      "options": [
+        {
+          "text": "A.कर्णवेधनी सूची",
+          "voter_count": 1
+        },
+        {
+          "text": "B.एषणी",
+          "voter_count": 0
+        },
+        {
+          "text": "C.युथिका शस्त्र",
+          "voter_count": 0
+        },
+        {
+          "text": "D.नख शस्त्र",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "Ans -C\nRef-AH SU 26",
+      "explanation_entities": null
+    },
+    {
+      "question": "\"विवर्णः कठिनायतः \" किस स्थानगत शल्य का लक्षण हैं?",
+      "options": [
+        {
+          "text": "त्वगगत",
+          "voter_count": 0
+        },
+        {
+          "text": "मांसगत",
+          "voter_count": 0
+        },
+        {
+          "text": "पेशीगत",
+          "voter_count": 1
+        },
+        {
+          "text": "स्नायुगत",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 28/3",
+      "explanation_entities": null
+    },
+    {
+      "question": "लेखनार्थ शस्त्र को कहाँ से पकड़ना चाहिए?",
+      "options": [
+        {
+          "text": "वृन्तफलान्तरे",
+          "voter_count": 1
+        },
+        {
+          "text": "वृन्ताग्र",
+          "voter_count": 0
+        },
+        {
+          "text": "वृन्त",
+          "voter_count": 0
+        },
+        {
+          "text": "A&C",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 0,
+      "explanation": "A.H. Su. 26/30",
+      "explanation_entities": null
+    },
+    {
+      "question": "शल्य की गति ;(Find the odd one out)-",
+      "options": [
+        {
+          "text": "A.वक्र",
+          "voter_count": 0
+        },
+        {
+          "text": "B.पार्श्व",
+          "voter_count": 1
+        },
+        {
+          "text": "C.ऋजु",
+          "voter_count": 0
+        },
+        {
+          "text": "D.तिर्यक",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans-B\nRef-AH SU 28",
+      "explanation_entities": null
+    },
+    {
+      "question": "Choose correct statement \nStatement 1) पीड़ित रक्त में जलोका का प्रयोग करते हैं। Statement 2) गंभीर रक्त में सिरावेध से रक्त निर्हरण करना चाहिए।",
+      "options": [
+        {
+          "text": "Statement 1 is correct Statement 2 is incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "Statement 1 is incorrect Statement 2 is Correct",
+          "voter_count": 0
+        },
+        {
+          "text": "Both the statements are correct",
+          "voter_count": 1
+        },
+        {
+          "text": "Both the statements are incorrect",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 26/54",
+      "explanation_entities": null
+    },
+    {
+      "question": "“स योज्यो नीलिकाङ्गकेशशातेषु कुट्टने\" used for which शस्त्र?",
+      "options": [
+        {
+          "text": "A.यूथिका",
+          "voter_count": 0
+        },
+        {
+          "text": "B.खज",
+          "voter_count": 1
+        },
+        {
+          "text": "C.आरा",
+          "voter_count": 0
+        },
+        {
+          "text": "D.कूर्च",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "Ans-D\nRef-AH SU 26",
+      "explanation_entities": null
+    },
+    {
+      "question": "सिरावेध में रक्त न बहने के कारण_",
+      "options": [
+        {
+          "text": "भय",
+          "voter_count": 0
+        },
+        {
+          "text": "मूर्च्छा",
+          "voter_count": 0
+        },
+        {
+          "text": "यत्र शैथिल्य",
+          "voter_count": 1
+        },
+        {
+          "text": "All of the above",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 3,
+      "explanation": "A.H. Su. 27/35",
+      "explanation_entities": null
+    },
+    {
+      "question": "ताम्रतातोदकण्ड्वाद्यैर__",
+      "options": [
+        {
+          "text": "सम्यक्दग्ध का लक्षण",
+          "voter_count": 0
+        },
+        {
+          "text": "अतिदग्ध का लक्षण",
+          "voter_count": 1
+        },
+        {
+          "text": "दुर्दग्ध का लक्षण",
+          "voter_count": 0
+        },
+        {
+          "text": "अदग्ध का लक्षण",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 30/35",
+      "explanation_entities": null
+    },
+    {
+      "question": "Vagbhat अनुसार अग्नि दग्ध के भेद_",
+      "options": [
+        {
+          "text": "3",
+          "voter_count": 0
+        },
+        {
+          "text": "5",
+          "voter_count": 1
+        },
+        {
+          "text": "4",
+          "voter_count": 0
+        },
+        {
+          "text": "2",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 2,
+      "explanation": "A.H. Su. 30",
+      "explanation_entities": null
+    },
+    {
+      "question": "Q- Find the correct statements  for शल्य AH-\n1) शल्य गतियां = 5 2) स्वकर्मगुणहानिः = सिरागत शल्य लक्षण",
+      "options": [
+        {
+          "text": "(A) 1 incorrect 2 correct",
+          "voter_count": 1
+        },
+        {
+          "text": "(B)  1 Correct 2 incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(C) Both Incorrect",
+          "voter_count": 0
+        },
+        {
+          "text": "(D) Both Correct",
+          "voter_count": 0
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "Ans- B\nRef- AH su 28/1 & 6 (२-स्रोतोगत शल्य लक्षण)",
+      "explanation_entities": null
+    },
+    {
+      "question": "Vagbhat अनुसार योनिव्रणेक्षण यंत्र की लम्बाई?",
+      "options": [
+        {
+          "text": "12 अंगुल",
+          "voter_count": 0
+        },
+        {
+          "text": "16 अंगुल",
+          "voter_count": 0
+        },
+        {
+          "text": "10 अंगुल",
+          "voter_count": 0
+        },
+        {
+          "text": "18 अंगुल",
+          "voter_count": 1
+        }
+      ],
+      "total_voter_count": 1,
+      "is_closed": true,
+      "is_anonymous": false,
+      "type": "quiz",
+      "allows_multiple_answers": false,
+      "correct_option_id": 1,
+      "explanation": "A.H. Su. 25/22",
+      "explanation_entities": null
+    }
+  ]
+}
