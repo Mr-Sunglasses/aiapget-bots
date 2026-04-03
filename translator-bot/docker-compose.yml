@@ -1,0 +1,13 @@
+services:
+  bot:
+    build: .
+    env_file: .env
+    restart: unless-stopped
+    volumes:
+      - bot-data:/app/data
+    environment:
+      - TRANSLATION_CACHE_PATH=/app/data/.translation_cache.json
+      - USAGE_LOG_PATH=/app/data/.usage_log.json
+
+volumes:
+  bot-data:

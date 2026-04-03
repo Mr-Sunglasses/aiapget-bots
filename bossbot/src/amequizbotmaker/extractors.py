@@ -53,22 +53,27 @@ def strip_code_fences(text: str) -> str:
 # ---------------------------------------------------------------------------
 
 def extract_file_name(text: str) -> str:
-    """Extract ``No. XX Date : DD Month YYYY  Topic : ...`` from quiz intro text."""
+    """Extract quiz name from intro text (between single quotes or directly)."""
     if not text:
         return ""
 
-    # Try to match the quiz name between single quotes
-    quote_match = re.search(r"'(No\.[^']+)'", text)
+    # Match content between single quotes starting with "Quiz no." / "Quiz no-" or "No." / "No-"
+    quote_match = re.search(r"'((?:Quiz\s+)?[Nn]o[.\-].+?)'{1,2}", text, re.DOTALL)
     if quote_match:
-        content = quote_match.group(1)
+        content = quote_match.group(1).strip()
+        # Strip trailing "BY @mention phone" variants
+        content = re.sub(r"\s+BY\s+@\w+(?:\s+\d{6,12})?\s*$", "", content, flags=re.IGNORECASE)
         content = re.sub(r"\s*@\w+\s*$", "", content)
+        content = re.sub(r"\s+\d{6,12}\s*$", "", content)
         return content.strip()
 
-    # Fallback: look for the pattern directly
-    pattern = r"(No\.\s*\d+\s*Date\s*:\s*.+?)\s*(?:@\w+|$)"
+    # Fallback: look for "Quiz no." / "Quiz no-" / "No." / "No-" pattern directly in text
+    pattern = r"((?:Quiz\s+)?[Nn]o[.\-]\s*\d+\s*Date\s*[:\-]?\s*.+?)\s*(?:BY\s+@\w+|@\w+|$)"
     match = re.search(pattern, text, re.IGNORECASE)
     if match:
-        return match.group(1).strip()
+        content = match.group(1).strip()
+        content = re.sub(r"\s+\d{6,12}\s*$", "", content)
+        return content.strip()
 
     return ""
 
@@ -144,7 +149,17 @@ def extract_poll_data(payload: dict, prefix_text: str | None = None) -> dict:
 
     question = poll.get("question") or ""
     if prefix_text:
-        question = f"{prefix_text}\n{question}".strip()
+        prefix = prefix_text.strip()
+        poll_q = question.strip()
+        # Normalize both (strip [N/N] @mention prefixes) before comparing to detect
+        # duplication (e.g. "[6/25] @X\nMatch the following\nA..B..C.." prefix
+        # + "[6/25] @X\nMatch the following" poll → use just the normalized prefix)
+        norm_prefix = clean_question_number(prefix)
+        norm_poll_q = clean_question_number(poll_q)
+        if norm_poll_q and norm_prefix.startswith(norm_poll_q):
+            question = norm_prefix
+        else:
+            question = f"{prefix}\n{poll_q}".strip()
 
     question = clean_question_number(question)
 

@@ -45,11 +45,11 @@ QUIZBOT_USERNAME = "QuizBot"
 # ── Rate-limit settings ──────────────────────────────────────────────────
 # Delay between each poll vote (seconds) — slows down voting to avoid flood
 VOTE_DELAY_MIN = 1
-VOTE_DELAY_MAX = 2
+VOTE_DELAY_MAX = 1
 
-# Delay between quizzes in queue (seconds) — 1 to 2 minutes
-QUIZ_DELAY_MIN = 1 * 60   # 60s = 1 min
-QUIZ_DELAY_MAX = 2 * 60   # 120s = 2 min
+# Delay between quizzes in queue (seconds)
+QUIZ_DELAY_MIN = 0
+QUIZ_DELAY_MAX = 0
 
 
 # ── State ─────────────────────────────────────────────────────────────────
@@ -66,8 +66,11 @@ class QuizSession:
     forward_bot_id: int = 0
     trigger_chat_id: int = 0
     text_message_ids: list[int] = field(default_factory=list)
+    text_message_contents: dict = field(default_factory=dict)  # msg_id -> text content (fallback)
     poll_message_ids: list[int] = field(default_factory=list)
     forwarding: bool = False
+    pre_poll_texts: dict = field(default_factory=dict)   # poll_msg_id -> [text content strings]
+    _pending_mid_texts: list[str] = field(default_factory=list)
 
 
 # Global state
@@ -225,7 +228,7 @@ async def _forward_to_bot(client: Client, session: QuizSession) -> None:
         await _safe_action(client.send_message(bot_id, "/prepare"), "fwd /prepare")
         await asyncio.sleep(2)
 
-        # 2. Forward intro text messages
+        # 2. Forward intro text messages (fall back to send_message if forwarding is blocked)
         for msg_id in session.text_message_ids:
             try:
                 await _safe_action(
@@ -238,36 +241,89 @@ async def _forward_to_bot(client: Client, session: QuizSession) -> None:
                 )
                 await asyncio.sleep(0.5)
             except Exception as exc:
-                LOGGER.warning("Failed to forward intro msg %d: %s", msg_id, exc)
+                LOGGER.warning("Failed to forward intro msg %d: %s — trying send_message fallback", msg_id, exc)
+                fallback_text = session.text_message_contents.get(msg_id, "")
+                if fallback_text:
+                    try:
+                        await _safe_action(
+                            client.send_message(chat_id=bot_id, text=fallback_text),
+                            label=f"send intro fallback {msg_id}",
+                        )
+                        await asyncio.sleep(0.5)
+                    except Exception as exc2:
+                        LOGGER.warning("Fallback send also failed for intro msg %d: %s", msg_id, exc2)
 
-        # 3. Forward poll messages in batches
-        for i in range(0, total, BATCH_SIZE):
+        # 3. Forward poll messages (with any preceding mid-texts) in batches
+        i = 0
+        while i < total:
             batch = session.poll_message_ids[i : i + BATCH_SIZE]
-            try:
-                await _safe_action(
-                    client.forward_messages(
-                        chat_id=bot_id,
-                        from_chat_id=session.quizbot_chat_id,
-                        message_ids=batch,
-                    ),
-                    label=f"forward batch {i // BATCH_SIZE + 1}",
-                )
-            except Exception as exc:
-                LOGGER.error("Batch failed: %s — sending one by one", exc)
-                for msg_id in batch:
+            has_pre_texts = any(pid in session.pre_poll_texts for pid in batch)
+
+            if has_pre_texts:
+                # Forward one at a time so mid-texts arrive before their poll
+                for poll_id in batch:
+                    # Send text content directly (avoids forwarding restrictions)
+                    for txt_content in session.pre_poll_texts.get(poll_id, []):
+                        try:
+                            await _safe_action(
+                                client.send_message(chat_id=bot_id, text=txt_content),
+                                label="send pre-text",
+                            )
+                            await asyncio.sleep(1)
+                        except Exception as exc:
+                            LOGGER.warning("Failed to send pre-text: %s", exc)
                     try:
                         await _safe_action(
                             client.forward_messages(
                                 chat_id=bot_id,
                                 from_chat_id=session.quizbot_chat_id,
-                                message_ids=msg_id,
+                                message_ids=poll_id,
                             ),
-                            label=f"forward msg {msg_id}",
+                            label=f"forward poll {poll_id}",
                         )
-                        await asyncio.sleep(1)
-                    except Exception as inner_exc:
-                        LOGGER.warning("Failed msg %d: %s", msg_id, inner_exc)
-            await asyncio.sleep(1.5)
+                        await asyncio.sleep(0.5)
+                    except Exception as exc:
+                        LOGGER.warning("Failed poll %d: %s", poll_id, exc)
+            else:
+                try:
+                    await _safe_action(
+                        client.forward_messages(
+                            chat_id=bot_id,
+                            from_chat_id=session.quizbot_chat_id,
+                            message_ids=batch,
+                        ),
+                        label=f"forward batch {i // BATCH_SIZE + 1}",
+                    )
+                except Exception as exc:
+                    LOGGER.error("Batch failed: %s — sending one by one", exc)
+                    for msg_id in batch:
+                        try:
+                            await _safe_action(
+                                client.forward_messages(
+                                    chat_id=bot_id,
+                                    from_chat_id=session.quizbot_chat_id,
+                                    message_ids=msg_id,
+                                ),
+                                label=f"forward msg {msg_id}",
+                            )
+                            await asyncio.sleep(1)
+                        except Exception as inner_exc:
+                            LOGGER.warning("Failed msg %d: %s", msg_id, inner_exc)
+                await asyncio.sleep(1.5)
+
+            i += len(batch)
+
+        # 3b. Send any trailing mid-texts that weren't attached to a poll
+        for txt_content in session._pending_mid_texts:
+            try:
+                await _safe_action(
+                    client.send_message(chat_id=bot_id, text=txt_content),
+                    label="send trailing mid-text",
+                )
+                await asyncio.sleep(1)
+            except Exception as exc:
+                LOGGER.warning("Failed to send trailing mid-text: %s", exc)
+        session._pending_mid_texts.clear()
 
         # 4. /finish
         await _safe_action(client.send_message(bot_id, "/finish"), "fwd /finish")
@@ -479,6 +535,11 @@ def main() -> None:
         if not poll or not poll.options:
             return
 
+        # Capture any text messages that arrived before this poll
+        if _session._pending_mid_texts:
+            _session.pre_poll_texts[message.id] = list(_session._pending_mid_texts)
+            _session._pending_mid_texts.clear()
+
         _session.poll_message_ids.append(message.id)
 
         if _session.quizbot_chat_id == 0:
@@ -536,6 +597,10 @@ def main() -> None:
                 except Exception as exc:
                     LOGGER.error("Failed to click '%s': %s", button.text, exc)
             _session.text_message_ids.append(message.id)
+            # Store text content as fallback in case forward_messages is blocked
+            intro_text = message.text or message.caption or ""
+            if intro_text:
+                _session.text_message_contents[message.id] = intro_text
         else:
             if has_buttons:
                 button_text = message.reply_markup.inline_keyboard[0][0].text
@@ -546,10 +611,15 @@ def main() -> None:
                 )
                 await _forward_to_bot(client, _session)
             else:
-                LOGGER.info(
-                    "QuizBot text after %d polls (progress?) — still waiting.",
-                    len(_session.poll_message_ids),
-                )
+                # Mid-quiz text (e.g. "Match the following A/B/C") — save content for next poll
+                text_content = message.text or message.caption or ""
+                if text_content:
+                    _session._pending_mid_texts.append(text_content)
+                    LOGGER.info(
+                        "QuizBot mid-quiz text after %d polls — saved for next poll: %s",
+                        len(_session.poll_message_ids),
+                        text_content[:60],
+                    )
 
     # ── Start ─────────────────────────────────────────────────────────
 

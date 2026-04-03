@@ -15,6 +15,7 @@ Flow
 import json
 import logging
 import os
+import re
 import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
@@ -31,6 +32,7 @@ from telegram.ext import (
 )
 
 from amequizbotmaker.extractors import (
+    clean_question_number,
     extract_file_name,
     extract_poll_data,
     extract_topic_title,
@@ -141,7 +143,8 @@ async def finish(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         json.dump(output_data, fh, ensure_ascii=False, indent=2)
 
     # ── Generate XLSX & DOCX ─────────────────────────────────────────
-    base_name = file_name if file_name else "questions_output"
+    raw_base = file_name if file_name else "questions_output"
+    base_name = re.sub(r'[\\/:*?"<>|]', "-", raw_base).strip()
 
     with tempfile.TemporaryDirectory() as tmpdir:
         tmp = Path(tmpdir)
@@ -238,13 +241,24 @@ async def handle_poll_message(update: Update, context: ContextTypes.DEFAULT_TYPE
     items: list[dict] = context.user_data.setdefault("items", [])
     items.append(extracted)
 
-    question_preview = (extracted.get("question") or "").strip().splitlines()[0]
+    question = (extracted.get("question") or "").strip()
+    question_preview = question.splitlines()[0]
     if len(question_preview) > 120:
         question_preview = f"{question_preview[:117]}…"
 
-    await update.message.reply_text(
-        f"Saved quiz #{len(items)}: {question_preview or 'Question saved.'}"
-    )
+    # Detect "Match the following" (or similar) polls missing their matching table
+    if question.lower().startswith("match the following") and "\n" not in question:
+        context.user_data["needs_match_content"] = len(items) - 1
+        await update.message.reply_text(
+            f"Saved quiz #{len(items)}: {question_preview}\n"
+            "⚠️ Matching table missing! Please send the A/B/C content now "
+            "(copy-paste from the channel, then the question will be updated)."
+        )
+    else:
+        context.user_data.pop("needs_match_content", None)
+        await update.message.reply_text(
+            f"Saved quiz #{len(items)}: {question_preview or 'Question saved.'}"
+        )
 
 
 # ── Handle text messages (JSON paste or intro text) ───────────────────────
@@ -291,6 +305,25 @@ async def handle_text_message(update: Update, context: ContextTypes.DEFAULT_TYPE
 
     raw_text = update.message.text
 
+    # ── Fill in missing matching table if one is pending ──────────────
+    needs_idx = context.user_data.get("needs_match_content")
+    if needs_idx is not None:
+        items = context.user_data.get("items", [])
+        if 0 <= needs_idx < len(items):
+            table_text = clean_question_number(raw_text.strip())
+            if table_text.lower().startswith("match the following"):
+                # The pasted text already has the header — use it directly
+                items[needs_idx]["question"] = table_text
+            else:
+                # Append the table rows under the existing header
+                current_q = items[needs_idx]["question"]
+                items[needs_idx]["question"] = f"{current_q}\n{table_text}"
+            context.user_data["needs_match_content"] = None
+            await update.message.reply_text(
+                f"✅ Updated quiz #{needs_idx + 1} with matching table."
+            )
+            return
+
     # ── Try parsing as JSON (pasted from json-echo-bot) ───────────────
     stripped = strip_code_fences(raw_text)
     if stripped.startswith("{") or stripped.startswith("["):
@@ -310,12 +343,16 @@ async def handle_text_message(update: Update, context: ContextTypes.DEFAULT_TYPE
             if message_text and not has_poll:
                 # Intro text — extract title / file name
                 topic_title = extract_topic_title(message_text)
-                if topic_title:
-                    context.user_data["current_title"] = topic_title
-                    fn = extract_file_name(message_text)
+                fn = extract_file_name(message_text)
+                if topic_title or fn:
+                    if topic_title:
+                        context.user_data["current_title"] = topic_title
                     if fn:
                         context.user_data["file_name"] = fn
-                    await update.message.reply_text(f"Saved title: {topic_title}")
+                        if not topic_title:
+                            context.user_data["current_title"] = fn
+                    label = topic_title or fn
+                    await update.message.reply_text(f"Saved title: {label}")
                 else:
                     context.user_data["pending_text"] = message_text
                     preview = message_text[:100] + "…" if len(message_text) > 100 else message_text
@@ -337,23 +374,36 @@ async def handle_text_message(update: Update, context: ContextTypes.DEFAULT_TYPE
                 items: list[dict] = context.user_data.setdefault("items", [])
                 items.append(extracted)
 
-                question_preview = (extracted.get("question") or "").strip().splitlines()[0]
+                question = (extracted.get("question") or "").strip()
+                question_preview = question.splitlines()[0]
                 if len(question_preview) > 120:
                     question_preview = f"{question_preview[:117]}…"
 
-                await update.message.reply_text(
-                    f"Saved poll #{len(items)}: {question_preview or 'Question saved.'}"
-                )
+                if question.lower().startswith("match the following") and "\n" not in question:
+                    context.user_data["needs_match_content"] = len(items) - 1
+                    await update.message.reply_text(
+                        f"Saved poll #{len(items)}: {question_preview}\n"
+                        "⚠️ Matching table missing! Please send the A/B/C content now."
+                    )
+                else:
+                    context.user_data.pop("needs_match_content", None)
+                    await update.message.reply_text(
+                        f"Saved poll #{len(items)}: {question_preview or 'Question saved.'}"
+                    )
                 return
 
     # ── Plain text: try to extract title / file_name ──────────────────
     topic_title = extract_topic_title(raw_text)
-    if topic_title:
-        context.user_data["current_title"] = topic_title
-        fn = extract_file_name(raw_text)
+    fn = extract_file_name(raw_text)
+    if topic_title or fn:
+        if topic_title:
+            context.user_data["current_title"] = topic_title
         if fn:
             context.user_data["file_name"] = fn
-        await update.message.reply_text(f"Saved title: {topic_title}")
+            if not topic_title:
+                context.user_data["current_title"] = fn
+        label = topic_title or fn
+        await update.message.reply_text(f"Saved title: {label}")
     else:
         context.user_data["pending_text"] = raw_text
         preview = raw_text[:100] + "…" if len(raw_text) > 100 else raw_text

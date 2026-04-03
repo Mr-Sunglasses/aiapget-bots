@@ -1,0 +1,17 @@
+[project]
+name = "ame-renamer-bot"
+version = "0.1.0"
+description = "Telegram bot to rename bulk .docx and .xlsx file pairs with a prefix and number range."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "python-telegram-bot>=21.0",
+  "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+ame-renamer-bot = "ame_renamer_bot.main:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
