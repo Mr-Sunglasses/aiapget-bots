@@ -7,9 +7,8 @@ RUN pip install --no-cache-dir uv
 # Copy dependency manifest first (layer caching)
 COPY pyproject.toml /app/
 
-# Copy source code and templates
+# Copy source code
 COPY src /app/src
-COPY templates /app/templates
 
 RUN uv sync
 
